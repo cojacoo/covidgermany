@@ -14,6 +14,11 @@ mapbox_access_token = 'pk.eyJ1IjoiY29qYWNrIiwiYSI6IkRTNjV1T2MifQ.EWzL4Qk-VvQoaeJ
 px.set_mapbox_access_token(mapbox_access_token)
 
 st.title('COVID19 Germany')
+det = st.checkbox('Text auf deutsch')
+if det:
+    st.markdown('Anhand von Landkreis-Daten der gemeldeten Infektionen mit Covid19 in Deutschland soll diese Anwendung dabei helfen, ein differenziertes Bild über die Entwicklungen an den unterschiedlichen Orten zu bekommen. Die Darstellungen und Werkzeuge sollen vor allem die Debatte über angemessene Maßnahmen zur räumlichen Abgrenzung und einem Verlangsamen der Ausbreitung des Virus anregen.')
+else:
+    st.markdown('Based on county-level data about Covid19 infections in Germany, this tool shall help to get a more nuanced image about the dynamics at different locations. The visualisations and tools are intended to spark debates about balanced measures to achieve spatial distancing and a flattening of the development curves.')
 
 @st.cache
 def load_data():
@@ -56,6 +61,15 @@ data_load_state = st.text('Loading data...')
 [data_case,data_increase,data_frowfac,LKx] = load_data()
 data_load_state.text('Loading data... done!')
 
+if det:
+    st.subheader('Falldynamik in Deutschland')
+    st.markdown('Für einen Überblick über die Ausbreitung des Virus in Deutschland gibt es in diesem Bereich Kartendarstellungen der Landkreis-Daten. Da das Virus von Mensch zu Mensch übertragen wird und die Landkreise sehr unterschiedlich groß sind, gibt es neben den absoluten Fallzahlen (Cases) auch relative Fallzahlen bezogen auf 100.000 Einwohner*innen. Mit dem Schieberegler, kann der angezeigte Tag gesteuert werden, um ein Gefühl für die Gesamtentwicklung zu erhalten.')
+    st.markdown('Neben der Darstellung als Auftretensverteilung kann die Karte auch mit Punktmarkierungen der Landkreise angezeigt werden (dotted plot). Für die zeitliche Veränderung gibt es darin auch den täglichen Anstieg (increase) sowie das Verhältnis des Wachstums vom Tag zum Vortag (increase ratio) abgebildet.')
+else:
+    st.subheader('Case dynamics in Germany')
+    st.markdown('To get an overview about the general speading of the virus across Germany, this section reports different maps based on the county-level case data. Since the virus transmits from person to person and since the counties have very different numbers of inhabitants, we have added relative to capita data. The slider allows to control the plotted day to get a feeling about the general dynamics.')
+    st.markdown('In addition to the heatmap of infection cases, there is also a dotted plot with labels for each county. To elaborate a little more on the temporal dynamics, daily increase and the increase ratio to the previous day is reported.')
+
 data_sel = st.selectbox('Select Data',['Cases','Cases per 100000 capita','Case increase','Case increase per 100000 capita','Increase ratio'],0)
 if data_sel=='Cases':
     data_cases = data_case
@@ -93,6 +107,7 @@ def jiter_data(data,co):
 
 dotplot = st.checkbox('Show dotted plot')
 di = st.slider('day', 4, len(data_cases.columns)-1, len(data_cases.columns)-1)
+dranx = len(data_cases.columns)-1
 datex = data_cases.columns[di]
     
 if ((data_sel=='Cases') | (data_sel=='Cases per 100000 capita')) & (dotplot==False):
@@ -157,25 +172,38 @@ else:
         st.plotly_chart(fig)
     
 
+if det:
+    st.subheader('Entwicklung der Fallzahlen und exponentielles/logistisches Wachstum')
+    st.markdown('Für einen genaueren Blick in eine Region (Bundesland oder Landkreis) stellen wir nun die zeitliche Entwicklung der Fallzahlen dar und passen drei Modelle an. Das erste exponetielle Modell nutzt alle Daten für die automatische Anpassung. Das zweite exponentielle Modell nutzt nur die letzten Tage für die Anpassung und erlaubt damit eine schnelle Inspektion, ob die letzten Entwicklungen einer anderen Wachstumskurve folgen. Das dritte Modell ist das logistische - also gesättigte - Wachstum. Bei letzterem muss allerdings eine Annahme über die maximalen Fallzahlen getroffen werden. Wenn wir mit den Maßnahmen zur räumlichen Abgrenzung erfolgreich sind, sollten die Beobachtungen mehr und mehr von der exponentiellen Entwicklung abweichen und immer besser von einer logistischen Funktion abgebildet werden können. Auch hier können wieder absolute Fallzahlen oder Fälle pro 100.000 Einwohner*innen angezeigt werden.')
+    st.markdown('Ein weiterer Regler erlaubt es, die Zeitreihe länger oder kürzer zu zeigen.')
+else:
+    st.subheader('County-level data and exponential/logistic growth')
+    st.markdown('For a closer look into a region (state or county) the following will present the respective development of cases and fits three models. The first exponential model uses all available data for automated regression. The second will only fit to the last days. Hence a deviation between the two models allows for a quick inspection if the time segments follow different growth curves. The third model is the logistic (limited) growth model. For the latter an assumption about the maximum of cases has to be provided (controlled by a scaling factor of the current maximum). If the current measures of spatial distancing are successful, the observed cases should deviate more and more from the exponential model towards a better fit with the logistic one. Again, you can select to show absolute numbers or cases per 100,000 capita.')
+    st.markdown('A further slider controls the length of the shown time series.')
 
-st.subheader('Landkreis-level data and exponential/logistic growth')
 BL = st.selectbox('Select Bundesland',np.append(np.array('Alle'),LKx.Bundesland.unique()),0)
 LK = st.selectbox('Select Landkreis',np.append(np.array('Alle'),LKx.loc[LKx.Bundesland==BL,'Landkreis'].unique()),0)
 
-scmax = st.slider('max scaler in logistic function', 1., 100., 10.)
-dran = st.slider('no. of days shown', 8., 200., 10.)
+scmax = st.slider('Saturation at x times of the current maximum (for logistic model)', 1., 100., 10.)
+dran = st.slider('no. of days shown', 8, 200, int(np.round(dranx*1.3)))
 
-if st.checkbox('Cases per 100000 capita'):
+percap = st.checkbox('Cases per 100000 capita')
+if percap:
     data_cases = pd.concat([LKx,data_case.iloc[:,5:].div(LKx.EWZ,axis=0)*100000.],axis=1)
 else:
     data_cases = data_case
 
-
 if BL=='Alle':
-    dc = pd.DataFrame(data_cases.sum(axis=0).iloc[5:].drop_duplicates('first'))
+    if percap:
+        dc = pd.DataFrame(data_cases.mean(axis=0).iloc[5:].drop_duplicates('first'))
+    else:
+        dc = pd.DataFrame(data_cases.sum(axis=0).iloc[5:].drop_duplicates('first'))
     dc.columns = ['Germany']
 elif LK=='Alle':
-    dc = pd.DataFrame(data_cases.loc[data_cases.Bundesland==BL].sum(axis=0).iloc[5:].drop_duplicates('first'))
+    if percap:
+        dc = pd.DataFrame(data_cases.loc[data_cases.Bundesland==BL].mean(axis=0).iloc[5:].drop_duplicates('first'))
+    else:
+        dc = pd.DataFrame(data_cases.loc[data_cases.Bundesland==BL].sum(axis=0).iloc[5:].drop_duplicates('first'))
     dc.columns = [BL]
 else:
     dc = data_cases.loc[(data_cases.Bundesland==BL) & (data_cases.Landkreis==LK)].iloc[:,5:].T.drop_duplicates()
@@ -215,7 +243,7 @@ fig.add_trace(go.Scatter(x=dc.index[0]+pd.to_timedelta(np.arange(dran*10)/10., u
 fig.update_layout(
     xaxis=dict(
         showline=True,
-        showgrid=False,
+        showgrid=True,
         showticklabels=True,
         linecolor='rgb(204, 204, 204)',
         linewidth=2,
@@ -228,7 +256,7 @@ fig.update_layout(
     ),
     yaxis=dict(
         showline=True,
-        showgrid=False,
+        showgrid=True,
         showticklabels=True,
         linecolor='rgb(204, 204, 204)',
         linewidth=2,
@@ -248,12 +276,13 @@ fig.update_layout(
         t=110,
     ),
     showlegend=True,
+    template='plotly_white',
     plot_bgcolor='white',
     legend=dict(x=0.02, y=0.98)
 )
 
 st.plotly_chart(fig)
 
-st.text('All data is without any liability. (cc) Conrad Jackisch')
+st.markdown('All data is without any liability and originates from presentations of regional authorities. (cc) Conrad Jackisch')
 st.text('Please join, fork, reuse: https://github.com/cojacoo/covidgermany')
 
