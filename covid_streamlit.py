@@ -254,4 +254,6 @@ fig.update_layout(
 
 st.plotly_chart(fig)
 
-st.text('All data is without any liability. Please help to improve. (cc) Conrad Jackisch')
+st.text('All data is without any liability. (cc) Conrad Jackisch')
+st.text('Please join, fork, reuse: https://github.com/cojacoo/covidgermany')
+
