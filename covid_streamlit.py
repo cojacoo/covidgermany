@@ -306,6 +306,6 @@ fig.update_layout(
 
 st.plotly_chart(fig)
 
-st.markdown('All data is without any liability and originates from presentations of regional authorities. (cc) Conrad Jackisch')
-st.text('Please join, fork, reuse: https://github.com/cojacoo/covidgermany')
+st.markdown('All data is without any liability and originates from presentations of regional authorities.')
+st.markdown('(cc) Conrad Jackisch. Please join, fork, reuse: https://github.com/cojacoo/covidgermany')
 
