@@ -16,9 +16,9 @@ px.set_mapbox_access_token(mapbox_access_token)
 st.title('COVID19 Germany')
 det = st.checkbox('Text auf deutsch')
 if det:
-    st.markdown('Anhand von Landkreis-Daten der gemeldeten Infektionen mit Covid19 in Deutschland soll diese Anwendung dabei helfen, ein differenziertes Bild über die Entwicklungen an den unterschiedlichen Orten zu bekommen. Die Darstellungen und Werkzeuge sollen vor allem die Debatte über angemessene Maßnahmen zur räumlichen Abgrenzung und einem Verlangsamen der Ausbreitung des Virus anregen.')
+    st.markdown('Anhand von Landkreis-Daten der gemeldeten Infektionen mit Covid19 in Deutschland soll diese Anwendung dabei helfen, ein differenziertes Bild über die Entwicklungen an den unterschiedlichen Orten zu bekommen. Die Darstellungen und Werkzeuge sind dazu gedacht, die Debatte über angemessene Maßnahmen zur räumlichen Abgrenzung und deren Effekt auf ein Verlangsamen der Ausbreitung des Virus in anbetracht der tatsächlichen Daten anzuregen (als Pendent zu Modell-Projektionen an anderen Stellen).')
 else:
-    st.markdown('Based on county-level data about Covid19 infections in Germany, this tool shall help to get a more nuanced image about the dynamics at different locations. The visualisations and tools are intended to spark debates about balanced measures to achieve spatial distancing and a flattening of the development curves.')
+    st.markdown('Based on county-level data about Covid19 infections in Germany, this tool shall help to get a more nuanced image about the dynamics at different locations. The visualisations and tools are intended to spark debates about balanced measures to achieve spatial distancing and a flattening of the development curves in the face of actual data (complementary to model projections elsewhere).')
 
 @st.cache
 def load_data():
@@ -140,11 +140,25 @@ if ((data_sel=='Cases') | (data_sel=='Cases per 100000 capita')) & (dotplot==Fal
         pydeck.Deck(layers=[layer], initial_view_state=view_state, mapbox_key='pk.eyJ1IjoiY29qYWNrIiwiYSI6IkRTNjV1T2MifQ.EWzL4Qk-VvQoaeJBfE6VSA')
         )
 
-elif ((data_sel=='Cases') | (data_sel=='Cases per 100000 capita')) & (dotplot==True):
+elif (data_sel=='Cases') & (dotplot==True):
+    data_cases1 = pd.concat([data_cases[['lat','lon',datex,'Landkreis','EWZ']],data_increase[datex],data_frowfac[datex]],axis=1)
+    data_cases1.columns = ['lat','lon','cases','Landkreis','capita','increase','growth']
+    fig = px.scatter_mapbox(data_cases1, lat="lat", lon="lon",  size='cases', color=np.log10(data_cases1.cases),
+                  hover_name='Landkreis',hover_data=['capita','cases','increase','growth'],range_color=[0.,np.log10(data_cases.iloc[:,-1].quantile(0.99))],
+                  color_continuous_scale=px.colors.sequential.Cividis, size_max=20, zoom=5)
+    fig.update_layout(coloraxis_colorbar=dict(
+        title="Cases",
+        tickvals=[0,1,2,3],
+        ticktext=['1' , '10', '100', '1000'],
+        ))
+    st.subheader('Map of COVID-19 cases on ' + str(datex.date()))
+    st.plotly_chart(fig)
+
+elif (data_sel=='Cases per 100000 capita') & (dotplot==True):
     data_cases1 = pd.concat([data_cases[['lat','lon',datex,'Landkreis','EWZ']],data_increase[datex],data_frowfac[datex]],axis=1)
     data_cases1.columns = ['lat','lon','cases','Landkreis','capita','increase','growth']
     fig = px.scatter_mapbox(data_cases1, lat="lat", lon="lon",  size='cases', color='cases',
-                  hover_name='Landkreis',hover_data=['capita','cases','increase','growth'],range_color=[0.,data_cases.iloc[:,-1].quantile(0.9)],
+                  hover_name='Landkreis',hover_data=['capita','cases','increase','growth'],range_color=[0.,data_cases.iloc[:,-1].quantile(0.99)],
                   color_continuous_scale=px.colors.sequential.Cividis, size_max=20, zoom=5)
     st.subheader('Map of COVID-19 cases on ' + str(datex.date()))
     st.plotly_chart(fig)
@@ -172,9 +186,10 @@ else:
         st.plotly_chart(fig)
     
 
+
 if det:
     st.subheader('Entwicklung der Fallzahlen und exponentielles/logistisches Wachstum')
-    st.markdown('Für einen genaueren Blick in eine Region (Bundesland oder Landkreis) stellen wir nun die zeitliche Entwicklung der Fallzahlen dar und passen drei Modelle an. Das erste exponetielle Modell nutzt alle Daten für die automatische Anpassung. Das zweite exponentielle Modell nutzt nur die letzten Tage für die Anpassung und erlaubt damit eine schnelle Inspektion, ob die letzten Entwicklungen einer anderen Wachstumskurve folgen. Das dritte Modell ist das logistische - also gesättigte - Wachstum. Bei letzterem muss allerdings eine Annahme über die maximalen Fallzahlen getroffen werden. Wenn wir mit den Maßnahmen zur räumlichen Abgrenzung erfolgreich sind, sollten die Beobachtungen mehr und mehr von der exponentiellen Entwicklung abweichen und immer besser von einer logistischen Funktion abgebildet werden können. Auch hier können wieder absolute Fallzahlen oder Fälle pro 100.000 Einwohner*innen angezeigt werden.')
+    st.markdown('Für einen genaueren Blick in eine Region (Bundesland oder Landkreis) stellen wir nun die zeitliche Entwicklung der Fallzahlen dar und passen drei Modelle an. Das erste exponentielle Modell nutzt alle Daten für die automatische Anpassung. Das zweite exponentielle Modell nutzt nur die letzten Tage für die Anpassung und erlaubt damit eine schnelle Inspektion, ob die letzten Entwicklungen einer anderen Wachstumskurve folgen. Das dritte Modell ist das logistische - also gesättigte - Wachstum. Bei letzterem muss allerdings eine Annahme über die maximalen Fallzahlen getroffen werden. Wenn wir mit den Maßnahmen zur räumlichen Abgrenzung erfolgreich sind, sollten die Beobachtungen mehr und mehr von der exponentiellen Entwicklung abweichen und immer besser von einer logistischen Funktion abgebildet werden können. Auch hier können wieder absolute Fallzahlen oder Fälle pro 100.000 Einwohner*innen angezeigt werden.')
     st.markdown('Ein weiterer Regler erlaubt es, die Zeitreihe länger oder kürzer zu zeigen.')
 else:
     st.subheader('County-level data and exponential/logistic growth')
@@ -213,6 +228,9 @@ else:
 if st.checkbox('Show record data'):
     st.write(dc)
 
+linscaley = st.checkbox('Linear y-axis of cases')
+st.markdown('(note that the y-axis is logarithmic on default since the process of infection spreading is exponential)')
+
 X = ((dc.index-dc.index[0]).days + (dc.index-dc.index[0]).seconds/86400.).values
 X = sm.add_constant(X)
 
@@ -240,6 +258,11 @@ fig.add_trace(go.Scatter(x=dc.index[0]+pd.to_timedelta(np.arange(dran*10)/10., u
 fig.add_trace(go.Scatter(x=dc.index[0]+pd.to_timedelta(np.arange(dran*10)/10., unit='d'), y=np.exp(res1.predict(sm.add_constant(np.arange(dran*10)/10.))),line=dict(dash='dash', width=1),name='Exponential Model (fitted to last days)'))
 fig.add_trace(go.Scatter(x=dc.index[0]+pd.to_timedelta(np.arange(dran*10)/10., unit='d'), y=resl.predict(sm.add_constant(np.arange(dran*10)/10.))*(dcmx*scmax),line=dict(dash='dash', width=1),name='Logistic Model'))
 
+if linscaley:
+    yaxtype='linear'
+else:
+    yaxtype='log'
+
 fig.update_layout(
     xaxis=dict(
         showline=True,
@@ -260,7 +283,7 @@ fig.update_layout(
         showticklabels=True,
         linecolor='rgb(204, 204, 204)',
         linewidth=2,
-        type='log',
+        type=yaxtype,
         ticks='outside',
         tickfont=dict(
             family='Arial',
