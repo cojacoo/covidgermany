@@ -64,11 +64,11 @@ data_load_state.text('Loading data... done!')
 if det:
     st.subheader('Falldynamik in Deutschland')
     st.markdown('Für einen Überblick über die Ausbreitung des Virus in Deutschland gibt es in diesem Bereich Kartendarstellungen der Landkreis-Daten. Da das Virus von Mensch zu Mensch übertragen wird und die Landkreise sehr unterschiedlich groß sind, gibt es neben den absoluten Fallzahlen (Cases) auch relative Fallzahlen bezogen auf 100.000 Einwohner*innen. Mit dem Schieberegler, kann der angezeigte Tag gesteuert werden, um ein Gefühl für die Gesamtentwicklung zu erhalten.')
-    st.markdown('Neben der Darstellung als Auftretensverteilung kann die Karte auch mit Punktmarkierungen der Landkreise angezeigt werden (dotted plot). Für die zeitliche Veränderung gibt es darin auch den täglichen Anstieg (increase) sowie das Verhältnis des Wachstums vom Tag zum Vortag (increase ratio) abgebildet.')
+    st.markdown('Neben der Darstellung mit Punktmarkierungen der Landkreise, kann die Karte auch als Auftretensverteilung angezeigt werden (heatmap). Für die zeitliche Veränderung gibt es darin auch den täglichen Anstieg (increase) sowie das Verhältnis des Wachstums vom Tag zum Vortag (increase ratio) abgebildet.')
 else:
     st.subheader('Case dynamics in Germany')
     st.markdown('To get an overview about the general speading of the virus across Germany, this section reports different maps based on the county-level case data. Since the virus transmits from person to person and since the counties have very different numbers of inhabitants, we have added relative to capita data. The slider allows to control the plotted day to get a feeling about the general dynamics.')
-    st.markdown('In addition to the heatmap of infection cases, there is also a dotted plot with labels for each county. To elaborate a little more on the temporal dynamics, daily increase and the increase ratio to the previous day is reported.')
+    st.markdown('In addition to the dotted plot of infection cases, there is also a nation-wide heatmap. To elaborate a little more on the temporal dynamics, daily increase and the increase ratio to the previous day is reported.')
 
 data_sel = st.selectbox('Select Data',['Cases','Cases per 100000 capita','Case increase','Case increase per 100000 capita','Increase ratio'],0)
 if data_sel=='Cases':
@@ -105,12 +105,12 @@ def jiter_data(data,co):
     dummyj = dummyj.reset_index()
     return dummyj
 
-dotplot = st.checkbox('Show dotted plot')
+hmplot = st.checkbox('Show heatmap')
 di = st.slider('day', 4, len(data_cases.columns)-1, len(data_cases.columns)-1)
 dranx = len(data_cases.columns)-1
 datex = data_cases.columns[di]
     
-if ((data_sel=='Cases') | (data_sel=='Cases per 100000 capita')) & (dotplot==False):
+if ((data_sel=='Cases') | (data_sel=='Cases per 100000 capita')) & (hmplot==True):
     #show map with hexagon heatmap
     
     # Define a layer to display on a map
@@ -140,12 +140,12 @@ if ((data_sel=='Cases') | (data_sel=='Cases per 100000 capita')) & (dotplot==Fal
         pydeck.Deck(layers=[layer], initial_view_state=view_state, mapbox_key='pk.eyJ1IjoiY29qYWNrIiwiYSI6IkRTNjV1T2MifQ.EWzL4Qk-VvQoaeJBfE6VSA')
         )
 
-elif (data_sel=='Cases') & (dotplot==True):
+elif (data_sel=='Cases') & (hmplot==False):
     data_cases1 = pd.concat([data_cases[['lat','lon',datex,'Landkreis','EWZ']],data_increase[datex],data_frowfac[datex]],axis=1)
     data_cases1.columns = ['lat','lon','cases','Landkreis','capita','increase','growth']
     fig = px.scatter_mapbox(data_cases1, lat="lat", lon="lon",  size='cases', color=np.log10(data_cases1.cases),
                   hover_name='Landkreis',hover_data=['capita','cases','increase','growth'],range_color=[0.,np.log10(data_cases.iloc[:,-1].quantile(0.99))],
-                  color_continuous_scale=px.colors.sequential.Cividis, size_max=20, zoom=5)
+                  color_continuous_scale=px.colors.sequential.Cividis, size_max=24, zoom=5, height=600)
     fig.update_layout(coloraxis_colorbar=dict(
         title="Cases",
         tickvals=[0,1,2,3],
@@ -154,12 +154,12 @@ elif (data_sel=='Cases') & (dotplot==True):
     st.subheader('Map of COVID-19 cases on ' + str(datex.date()))
     st.plotly_chart(fig)
 
-elif (data_sel=='Cases per 100000 capita') & (dotplot==True):
+elif (data_sel=='Cases per 100000 capita') & (hmplot==False):
     data_cases1 = pd.concat([data_cases[['lat','lon',datex,'Landkreis','EWZ']],data_increase[datex],data_frowfac[datex]],axis=1)
     data_cases1.columns = ['lat','lon','cases','Landkreis','capita','increase','growth']
     fig = px.scatter_mapbox(data_cases1, lat="lat", lon="lon",  size='cases', color='cases',
                   hover_name='Landkreis',hover_data=['capita','cases','increase','growth'],range_color=[0.,data_cases.iloc[:,-1].quantile(0.99)],
-                  color_continuous_scale=px.colors.sequential.Cividis, size_max=20, zoom=5)
+                  color_continuous_scale=px.colors.sequential.Cividis, size_max=24, zoom=5, height=600)
     st.subheader('Map of COVID-19 cases on ' + str(datex.date()))
     st.plotly_chart(fig)
 
@@ -169,19 +169,19 @@ else:
     if (data_sel=='Case increase'):
         fig = px.scatter_mapbox(data_cases1, lat="lat", lon="lon",  size='cases per 100000', color='increase',
                   hover_name='Landkreis',hover_data=['capita','cases','cases per 100000','increase','increase per 100000','growth'],range_color=[data_increase.quantile(0.95).quantile(0.95)*-1.,data_increase.quantile(0.95).quantile(0.95)],
-                  color_continuous_scale=px.colors.diverging.Portland, size_max=20, zoom=5)
+                  color_continuous_scale=px.colors.diverging.Portland, size_max=24, zoom=5, height=600)
         st.subheader('Map of COVID-19 case increase on ' + str(datex.date()))
         st.plotly_chart(fig)
     elif (data_sel=='Case increase per 100000 capita'):
         fig = px.scatter_mapbox(data_cases1, lat="lat", lon="lon",  size='cases per 100000', color='increase per 100000',
                   hover_name='Landkreis',hover_data=['capita','cases','cases per 100000','increase','increase per 100000','growth'],range_color=[(data_increase.div(LKx.EWZ,axis=0)*100000.).quantile(0.95).quantile(0.95)*-1.,(data_increase.div(LKx.EWZ,axis=0)*100000.).quantile(0.95).quantile(0.95)],
-                  color_continuous_scale=px.colors.diverging.Portland, size_max=20, zoom=5)
+                  color_continuous_scale=px.colors.diverging.Portland, size_max=24, zoom=5, height=600)
         st.subheader('Map of COVID-19 case increase per 100000 on ' + str(datex.date()))
         st.plotly_chart(fig)
     elif (data_sel=='Increase ratio'):
         fig = px.scatter_mapbox(data_cases1, lat="lat", lon="lon",  size='cases per 100000', color='growth',
                   hover_name='Landkreis',hover_data=['capita','cases','cases per 100000','increase','increase per 100000','growth'],range_color=[0.3,1.7],
-                  color_continuous_scale=px.colors.diverging.Portland, size_max=20, zoom=5)
+                  color_continuous_scale=px.colors.diverging.Portland, size_max=24, zoom=5, height=600)
         st.subheader('Map of COVID-19 case growth on ' + str(datex.date()))
         st.plotly_chart(fig)
     
