@@ -16,9 +16,9 @@ px.set_mapbox_access_token(mapbox_access_token)
 st.title('COVID19 Germany')
 det = st.checkbox('Text auf deutsch')
 if det:
-    st.markdown('Anhand von Landkreis-Daten der gemeldeten Infektionen mit Covid19 in Deutschland soll diese Anwendung dabei helfen, ein differenziertes Bild über die Entwicklungen an den unterschiedlichen Orten zu bekommen. Die Darstellungen und Werkzeuge sind dazu gedacht, die Debatte über angemessene Maßnahmen zur räumlichen Abgrenzung und deren Effekt auf ein Verlangsamen der Ausbreitung des Virus in anbetracht der tatsächlichen Daten anzuregen (als Pendent zu Modell-Projektionen an anderen Stellen).')
+    st.markdown('Anhand von Landkreis-Daten der gemeldeten Infektionen mit Covid19 in Deutschland soll diese Anwendung dabei helfen, ein differenziertes Bild über die Entwicklungen an den unterschiedlichen Orten zu bekommen. Anders als Modell-Projektionen an anderen Stellen, werden hier tatsächliche Daten verwendet. Die Darstellungen und Werkzeuge sind dazu gedacht, anhand der tatsächlichen Entwicklungen die Debatte über angemessene Maßnahmen gegen die Ausbreitung des Virus anzuregen.')
 else:
-    st.markdown('Based on county-level data about Covid19 infections in Germany, this tool shall help to get a more nuanced image about the dynamics at different locations. The visualisations and tools are intended to spark debates about balanced measures to achieve spatial distancing and a flattening of the development curves in the face of actual data (complementary to model projections elsewhere).')
+    st.markdown('Based on county-level data about Covid19 infections in Germany, this tool shall help to get a more nuanced image about the infection dynamics at different locations. Complementary to model projections elsewhere, the data visualisations and tools are intended to spark debates about balanced measures to counteract against the spread of the virus.')
 
 @st.cache
 def load_data():
