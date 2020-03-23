@@ -1,0 +1,403 @@
+,Bundesland,Landkreis,Faelle,Kausali,Zeit
+0,Bundesland,NAME_DE,FÃ¤lle,Anzahl Tote,2020-03-22 19:19:20.099644
+1,Baden-Württemberg,Alb-Donau-Kreis (Landkreis),39,,2020-03-22 19:19:20.099644
+2,Baden-Württemberg,Baden-Baden (Stadtkreis),21,,2020-03-22 19:19:20.099644
+3,Baden-Württemberg,Biberach (Landkreis),45,,2020-03-22 19:19:20.099644
+4,Baden-Württemberg,Böblingen (Landkreis),67,,2020-03-22 19:19:20.099644
+5,Baden-Württemberg,Bodenseekreis (Landkreis),71,,2020-03-22 19:19:20.099644
+6,Baden-Württemberg,Breisgau-Hochschwarzwald (Landkreis),134,,2020-03-22 19:19:20.099644
+7,Baden-Württemberg,Calw (Landkreis),108,1,2020-03-22 19:19:20.099644
+8,Baden-Württemberg,Emmendingen (Landkreis),110,4,2020-03-22 19:19:20.099644
+9,Baden-Württemberg,Enzkreis (Landkreis),33,,2020-03-22 19:19:20.099644
+10,Baden-Württemberg,Esslingen (Landkreis),323,2,2020-03-22 19:19:20.099644
+11,Baden-Württemberg,Freiburg im Breisgau (Stadtkreis),150,1,2020-03-22 19:19:20.099644
+12,Baden-Württemberg,Freudenstadt (Landkreis),14,,2020-03-22 19:19:20.099644
+13,Baden-Württemberg,Göppingen (Landkreis),97,1,2020-03-22 19:19:20.099644
+14,Baden-Württemberg,Heidelberg (Stadtkreis),5,,2020-03-22 19:19:20.099644
+15,Baden-Württemberg,Heidenheim (Landkreis),47,,2020-03-22 19:19:20.099644
+16,Baden-Württemberg,Heilbronn (Landkreis),140,3,2020-03-22 19:19:20.099644
+17,Baden-Württemberg,Heilbronn (Stadtkreis),20,,2020-03-22 19:19:20.099644
+18,Baden-Württemberg,Hohenlohekreis (Landkreis),222,2,2020-03-22 19:19:20.099644
+19,Baden-Württemberg,Karlsruhe (Landkreis),96,,2020-03-22 19:19:20.099644
+20,Baden-Württemberg,Karlsruhe (Stadtkreis),42,,2020-03-22 19:19:20.099644
+21,Baden-Württemberg,Konstanz (Landkreis),52,,2020-03-22 19:19:20.099644
+22,Baden-Württemberg,Lörrach (Landkreis),57,,2020-03-22 19:19:20.099644
+23,Baden-Württemberg,Ludwigsburg (Landkreis),175,,2020-03-22 19:19:20.099644
+24,Baden-Württemberg,Main-Tauber-Kreis (Landkreis),36,,2020-03-22 19:19:20.099644
+25,Baden-Württemberg,Mannheim (Stadtkreis),80,,2020-03-22 19:19:20.099644
+26,Baden-Württemberg,Neckar-Odenwald-Kreis (Landkreis),26,,2020-03-22 19:19:20.099644
+27,Baden-Württemberg,Ortenaukreis (Landkreis),71,2,2020-03-22 19:19:20.099644
+28,Baden-Württemberg,Ostalbkreis (Landkreis),91,,2020-03-22 19:19:20.099644
+29,Baden-Württemberg,Pforzheim (Stadtkreis),16,,2020-03-22 19:19:20.099644
+30,Baden-Württemberg,Rastatt (Landkreis),81,,2020-03-22 19:19:20.099644
+31,Baden-Württemberg,Ravensburg (Landkreis),110,,2020-03-22 19:19:20.099644
+32,Baden-Württemberg,Rems-Murr-Kreis (Landkreis),117,1,2020-03-22 19:19:20.099644
+33,Baden-Württemberg,Reutlingen (Landkreis),95,1,2020-03-22 19:19:20.099644
+34,Baden-Württemberg,Rhein-Neckar-Kreis (Landkreis),240,,2020-03-22 19:19:20.099644
+35,Baden-Württemberg,Rottweil (Landkreis),8,1,2020-03-22 19:19:20.099644
+36,Baden-Württemberg,Schwäbisch Hall (Landkreis),98,,2020-03-22 19:19:20.099644
+37,Baden-Württemberg,Schwarzwald-Baar-Kreis (Landkreis),48,,2020-03-22 19:19:20.099644
+38,Baden-Württemberg,Sigmaringen (Landkreis),82,2,2020-03-22 19:19:20.099644
+39,Baden-Württemberg,Stuttgart (Stadtkreis),308,1,2020-03-22 19:19:20.099644
+40,Baden-Württemberg,Tübingen (Landkreis),112,,2020-03-22 19:19:20.099644
+41,Baden-Württemberg,Tuttlingen (Landkreis),13,,2020-03-22 19:19:20.099644
+42,Baden-Württemberg,Ulm (Stadtkreis),35,,2020-03-22 19:19:20.099644
+43,Baden-Württemberg,Waldshut (Landkreis),13,1,2020-03-22 19:19:20.099644
+44,Baden-Württemberg,Zollernalbkreis (Landkreis),70,,2020-03-22 19:19:20.099644
+45,Bayern,Aichach-Friedberg (Landkreis),21,,2020-03-22 19:19:20.099644
+46,Bayern,Altötting (Landkreis),27,,2020-03-22 19:19:20.099644
+47,Bayern,Amberg (Kreisfreie Stadt),2,,2020-03-22 19:19:20.099644
+48,Bayern,Amberg-Sulzbach (Landkreis),18,,2020-03-22 19:19:20.099644
+49,Bayern,Ansbach (Kreisfreie Stadt),3,,2020-03-22 19:19:20.099644
+50,Bayern,Ansbach (Landkreis),38,,2020-03-22 19:19:20.099644
+51,Bayern,Aschaffenburg (Kreisfreie Stadt),26,,2020-03-22 19:19:20.099644
+52,Bayern,Aschaffenburg (Landkreis),49,,2020-03-22 19:19:20.099644
+53,Bayern,Augsburg (Kreisfreie Stadt),46,,2020-03-22 19:19:20.099644
+54,Bayern,Augsburg (Landkreis),54,,2020-03-22 19:19:20.099644
+55,Bayern,Bad Kissingen (Landkreis),14,,2020-03-22 19:19:20.099644
+56,Bayern,Bad Tölz-Wolfratshausen (Landkreis),49,,2020-03-22 19:19:20.099644
+57,Bayern,Bamberg (Kreisfreie Stadt),22,,2020-03-22 19:19:20.099644
+58,Bayern,Bamberg (Landkreis),40,,2020-03-22 19:19:20.099644
+59,Bayern,Bayreuth (Kreisfreie Stadt),7,,2020-03-22 19:19:20.099644
+60,Bayern,Bayreuth (Landkreis),26,,2020-03-22 19:19:20.099644
+61,Bayern,Berchtesgadener Land (Landkreis),8,,2020-03-22 19:19:20.099644
+62,Bayern,Cham (Landkreis),68,,2020-03-22 19:19:20.099644
+63,Bayern,Coburg (Kreisfreie Stadt),0,,2020-03-22 19:19:20.099644
+64,Bayern,Coburg (Landkreis),27,,2020-03-22 19:19:20.099644
+65,Bayern,Dachau (Landkreis),45,,2020-03-22 19:19:20.099644
+66,Bayern,Deggendorf (Landkreis),52,,2020-03-22 19:19:20.099644
+67,Bayern,Dillingen a.d. Donau (Landkreis),8,,2020-03-22 19:19:20.099644
+68,Bayern,Dingolfing-Landau (Landkreis),35,,2020-03-22 19:19:20.099644
+69,Bayern,Donau-Ries (Landkreis),10,,2020-03-22 19:19:20.099644
+70,Bayern,Ebersberg (Landkreis),52,,2020-03-22 19:19:20.099644
+71,Bayern,Eichstätt (Landkreis),24,,2020-03-22 19:19:20.099644
+72,Bayern,Erding (Landkreis),67,,2020-03-22 19:19:20.099644
+73,Bayern,Erlangen (Kreisfreie Stadt),19,,2020-03-22 19:19:20.099644
+74,Bayern,Erlangen-Höchstadt (Landkreis),25,,2020-03-22 19:19:20.099644
+75,Bayern,Forchheim (Landkreis),19,,2020-03-22 19:19:20.099644
+76,Bayern,Freising (Landkreis),218,2,2020-03-22 19:19:20.099644
+77,Bayern,Freyung-Grafenau (Landkreis),10,,2020-03-22 19:19:20.099644
+78,Bayern,Fürstenfeldbruck (Landkreis),51,,2020-03-22 19:19:20.099644
+79,Bayern,Fürth (Kreisfreie Stadt),22,,2020-03-22 19:19:20.099644
+80,Bayern,Fürth (Landkreis),18,,2020-03-22 19:19:20.099644
+81,Bayern,Garmisch-Partenkirchen (Landkreis),37,,2020-03-22 19:19:20.099644
+82,Bayern,Günzburg (Landkreis),25,,2020-03-22 19:19:20.099644
+83,Bayern,Haßberge (Landkreis),17,,2020-03-22 19:19:20.099644
+84,Bayern,Hof (Kreisfreie Stadt),11,,2020-03-22 19:19:20.099644
+85,Bayern,Hof (Landkreis),33,,2020-03-22 19:19:20.099644
+86,Bayern,Ingolstadt (Kreisfreie Stadt),5,,2020-03-22 19:19:20.099644
+87,Bayern,Kaufbeuren (Kreisfreie Stadt),6,,2020-03-22 19:19:20.099644
+88,Bayern,Kelheim (Landkreis),40,,2020-03-22 19:19:20.099644
+89,Bayern,Kempten (Allgäu) (Kreisfreie Stadt),0,,2020-03-22 19:19:20.099644
+90,Bayern,Kitzingen (Landkreis),13,,2020-03-22 19:19:20.099644
+91,Bayern,Kronach (Landkreis),13,,2020-03-22 19:19:20.099644
+92,Bayern,Kulmbach (Landkreis),21,,2020-03-22 19:19:20.099644
+93,Bayern,Landsberg am Lech (Landkreis),44,1,2020-03-22 19:19:20.099644
+94,Bayern,Landshut (Kreisfreie Stadt),32,,2020-03-22 19:19:20.099644
+95,Bayern,Landshut (Landkreis),93,,2020-03-22 19:19:20.099644
+96,Bayern,Lichtenfels (Landkreis),20,,2020-03-22 19:19:20.099644
+97,Bayern,Lindau (Bodensee) (Landkreis),49,,2020-03-22 19:19:20.099644
+98,Bayern,Main-Spessart (Landkreis),14,,2020-03-22 19:19:20.099644
+99,Bayern,Memmingen (Kreisfreie Stadt),15,,2020-03-22 19:19:20.099644
+100,Bayern,Miesbach (Landkreis),108,,2020-03-22 19:19:20.099644
+101,Bayern,Miltenberg (Landkreis),37,,2020-03-22 19:19:20.099644
+102,Bayern,Mühldorf a. Inn (Landkreis),33,,2020-03-22 19:19:20.099644
+103,Bayern,München (Kreisfreie Stadt),591,,2020-03-22 19:19:20.099644
+104,Bayern,München (Landkreis),246,,2020-03-22 19:19:20.099644
+105,Bayern,Neu-Ulm (Landkreis),57,1,2020-03-22 19:19:20.099644
+106,Bayern,Neuburg-Schrobenhausen (Landkreis),27,,2020-03-22 19:19:20.099644
+107,Bayern,Neumarkt i.d. OPf. (Landkreis),18,,2020-03-22 19:19:20.099644
+108,Bayern,Neustadt a.d. Aisch-Bad Windsheim (Landkreis),10,,2020-03-22 19:19:20.099644
+109,Bayern,Neustadt a.d. Waldnaab (Landkreis),27,,2020-03-22 19:19:20.099644
+110,Bayern,Nürnberg (Kreisfreie Stadt),69,,2020-03-22 19:19:20.099644
+111,Bayern,Nürnberger Land (Landkreis),48,,2020-03-22 19:19:20.099644
+112,Bayern,Oberallgäu (Landkreis),61,1,2020-03-22 19:19:20.099644
+113,Bayern,Ostallgäu (Landkreis),38,,2020-03-22 19:19:20.099644
+114,Bayern,Passau (Kreisfreie Stadt),7,,2020-03-22 19:19:20.099644
+115,Bayern,Passau (Landkreis),25,,2020-03-22 19:19:20.099644
+116,Bayern,Pfaffenhofen a.d. Ilm (Landkreis),19,,2020-03-22 19:19:20.099644
+117,Bayern,Regen (Landkreis),25,,2020-03-22 19:19:20.099644
+118,Bayern,Regensburg (Kreisfreie Stadt),82,,2020-03-22 19:19:20.099644
+119,Bayern,Regensburg (Landkreis),76,,2020-03-22 19:19:20.099644
+120,Bayern,Rhön-Grabfeld (Landkreis),13,,2020-03-22 19:19:20.099644
+121,Bayern,Rosenheim (Kreisfreie Stadt),8,,2020-03-22 19:19:20.099644
+122,Bayern,Rosenheim (Landkreis),196,,2020-03-22 19:19:20.099644
+123,Bayern,Roth (Landkreis),14,,2020-03-22 19:19:20.099644
+124,Bayern,Rottal-Inn (Landkreis),67,,2020-03-22 19:19:20.099644
+125,Bayern,Schwabach (Kreisfreie Stadt),8,,2020-03-22 19:19:20.099644
+126,Bayern,Schwandorf (Landkreis),24,,2020-03-22 19:19:20.099644
+127,Bayern,Schweinfurt (Kreisfreie Stadt),4,,2020-03-22 19:19:20.099644
+128,Bayern,Schweinfurt (Landkreis),34,,2020-03-22 19:19:20.099644
+129,Bayern,Starnberg (Landkreis),97,,2020-03-22 19:19:20.099644
+130,Bayern,Straubing (Kreisfreie Stadt),30,,2020-03-22 19:19:20.099644
+131,Bayern,Straubing-Bogen (Landkreis),29,,2020-03-22 19:19:20.099644
+132,Bayern,Tirschenreuth (Landkreis),148,,2020-03-22 19:19:20.099644
+133,Bayern,Traunstein (Landkreis),55,1,2020-03-22 19:19:20.099644
+134,Bayern,Unterallgäu (Landkreis),39,,2020-03-22 19:19:20.099644
+135,Bayern,Weiden i.d. OPf. (Kreisfreie Stadt),20,,2020-03-22 19:19:20.099644
+136,Bayern,Weilheim-Schongau (Landkreis),79,1,2020-03-22 19:19:20.099644
+137,Bayern,Weißenburg-Gunzenhausen (Landkreis),20,,2020-03-22 19:19:20.099644
+138,Bayern,Wunsiedel i. Fichtelgebirge (Landkreis),47,,2020-03-22 19:19:20.099644
+139,Bayern,Würzburg (Kreisfreie Stadt),83,4,2020-03-22 19:19:20.099644
+140,Bayern,Würzburg (Landkreis),130,1,2020-03-22 19:19:20.099644
+141,Berlin,Berlin (Kreisfreie Stadt),1025,1,2020-03-22 19:19:20.099644
+142,Brandenburg,Barnim (Landkreis),38,,2020-03-22 19:19:20.099644
+143,Brandenburg,Brandenburg an der Havel (Kreisfreie Stadt),3,,2020-03-22 19:19:20.099644
+144,Brandenburg,Cottbus (Kreisfreie Stadt),24,,2020-03-22 19:19:20.099644
+145,Brandenburg,Dahme-Spreewald (Landkreis),25,,2020-03-22 19:19:20.099644
+146,Brandenburg,Elbe-Elster (Landkreis),8,,2020-03-22 19:19:20.099644
+147,Brandenburg,Frankfurt (Oder) (Kreisfreie Stadt),5,,2020-03-22 19:19:20.099644
+148,Brandenburg,Havelland (Landkreis),18,,2020-03-22 19:19:20.099644
+149,Brandenburg,Märkisch-Oderland (Landkreis),39,,2020-03-22 19:19:20.099644
+150,Brandenburg,Oberhavel (Landkreis),31,1,2020-03-22 19:19:20.099644
+151,Brandenburg,Oberspreewald-Lausitz (Landkreis),11,,2020-03-22 19:19:20.099644
+152,Brandenburg,Oder-Spree (Landkreis),46,,2020-03-22 19:19:20.099644
+153,Brandenburg,Ostprignitz-Ruppin (Landkreis),7,,2020-03-22 19:19:20.099644
+154,Brandenburg,Potsdam (Kreisfreie Stadt),22,,2020-03-22 19:19:20.099644
+155,Brandenburg,Potsdam-Mittelmark (Landkreis),26,,2020-03-22 19:19:20.099644
+156,Brandenburg,Prignitz (Landkreis),1,,2020-03-22 19:19:20.099644
+157,Brandenburg,Spree-Neiße (Landkreis),23,,2020-03-22 19:19:20.099644
+158,Brandenburg,Teltow-Fläming (Landkreis),22,,2020-03-22 19:19:20.099644
+159,Brandenburg,Uckermark (Landkreis),4,,2020-03-22 19:19:20.099644
+160,Bremen,Bremen (Kreisfreie Stadt),158,,2020-03-22 19:19:20.099644
+161,Bremen,Bremerhaven (Kreisfreie Stadt),15,,2020-03-22 19:19:20.099644
+162,Hamburg,Hamburg (Kreisfreie Stadt),887,1,2020-03-22 19:19:20.099644
+163,Hessen,Bergstraße (Landkreis),37,,2020-03-22 19:19:20.099644
+164,Hessen,Darmstadt (Kreisfreie Stadt),23,,2020-03-22 19:19:20.099644
+165,Hessen,Darmstadt-Dieburg (Landkreis),63,,2020-03-22 19:19:20.099644
+166,Hessen,Frankfurt am Main (Kreisfreie Stadt),148,,2020-03-22 19:19:20.099644
+167,Hessen,Fulda (Landkreis),77,,2020-03-22 19:19:20.099644
+168,Hessen,Gießen (Landkreis),60,,2020-03-22 19:19:20.099644
+169,Hessen,Groß-Gerau (Landkreis),85,,2020-03-22 19:19:20.099644
+170,Hessen,Hersfeld-Rotenburg (Landkreis),25,,2020-03-22 19:19:20.099644
+171,Hessen,Hochtaunuskreis (Landkreis),67,,2020-03-22 19:19:20.099644
+172,Hessen,Kassel (Kreisfreie Stadt),43,,2020-03-22 19:19:20.099644
+173,Hessen,Kassel (Landkreis),44,,2020-03-22 19:19:20.099644
+174,Hessen,Lahn-Dill-Kreis (Landkreis),65,,2020-03-22 19:19:20.099644
+175,Hessen,Limburg-Weilburg (Landkreis),45,,2020-03-22 19:19:20.099644
+176,Hessen,Main-Kinzig-Kreis (Landkreis),53,,2020-03-22 19:19:20.099644
+177,Hessen,Main-Taunus-Kreis (Landkreis),55,1,2020-03-22 19:19:20.099644
+178,Hessen,Marburg-Biedenkopf (Landkreis),38,,2020-03-22 19:19:20.099644
+179,Hessen,Odenwaldkreis (Landkreis),22,,2020-03-22 19:19:20.099644
+180,Hessen,Offenbach (Landkreis),68,1,2020-03-22 19:19:20.099644
+181,Hessen,Offenbach am Main (Kreisfreie Stadt),8,,2020-03-22 19:19:20.099644
+182,Hessen,Rheingau-Taunus-Kreis (Landkreis),31,,2020-03-22 19:19:20.099644
+183,Hessen,Schwalm-Eder-Kreis (Landkreis),66,,2020-03-22 19:19:20.099644
+184,Hessen,Vogelsbergkreis (Landkreis),21,,2020-03-22 19:19:20.099644
+185,Hessen,Waldeck-Frankenberg (Landkreis),28,,2020-03-22 19:19:20.099644
+186,Hessen,Werra-Meißner-Kreis (Landkreis),5,,2020-03-22 19:19:20.099644
+187,Hessen,Wetteraukreis (Landkreis),38,,2020-03-22 19:19:20.099644
+188,Hessen,Wiesbaden (Kreisfreie Stadt),52,1,2020-03-22 19:19:20.099644
+189,Mecklenburg-Vorpommern,Ludwigslust-Parchim (Landkreis),19,,2020-03-22 19:19:20.099644
+190,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte (Landkreis),28,,2020-03-22 19:19:20.099644
+191,Mecklenburg-Vorpommern,Nordwestmecklenburg (Landkreis),17,,2020-03-22 19:19:20.099644
+192,Mecklenburg-Vorpommern,Rostock (Kreisfreie Stadt),27,,2020-03-22 19:19:20.099644
+193,Mecklenburg-Vorpommern,Rostock (Landkreis),17,,2020-03-22 19:19:20.099644
+194,Mecklenburg-Vorpommern,Schwerin (Kreisfreie Stadt),38,,2020-03-22 19:19:20.099644
+195,Mecklenburg-Vorpommern,Vorpommern-Greifswald (Landkreis),26,,2020-03-22 19:19:20.099644
+196,Mecklenburg-Vorpommern,Vorpommern-Rügen (Landkreis),15,,2020-03-22 19:19:20.099644
+197,Niedersachsen,Ammerland (Landkreis),24,,2020-03-22 19:19:20.099644
+198,Niedersachsen,Aurich (Landkreis),23,,2020-03-22 19:19:20.099644
+199,Niedersachsen,Braunschweig (Kreisfreie Stadt),30,,2020-03-22 19:19:20.099644
+200,Niedersachsen,Celle (Landkreis),31,,2020-03-22 19:19:20.099644
+201,Niedersachsen,Cloppenburg (Landkreis),8,,2020-03-22 19:19:20.099644
+202,Niedersachsen,Cuxhaven (Landkreis),24,,2020-03-22 19:19:20.099644
+203,Niedersachsen,Delmenhorst (Kreisfreie Stadt),10,,2020-03-22 19:19:20.099644
+204,Niedersachsen,Diepholz (Landkreis),62,,2020-03-22 19:19:20.099644
+205,Niedersachsen,Emden (Kreisfreie Stadt),7,,2020-03-22 19:19:20.099644
+206,Niedersachsen,Emsland (Landkreis),60,,2020-03-22 19:19:20.099644
+207,Niedersachsen,Friesland (Landkreis),5,,2020-03-22 19:19:20.099644
+208,Niedersachsen,Gifhorn (Landkreis),34,,2020-03-22 19:19:20.099644
+209,Niedersachsen,Goslar (Landkreis),21,,2020-03-22 19:19:20.099644
+210,Niedersachsen,Göttingen (Landkreis),57,,2020-03-22 19:19:20.099644
+211,Niedersachsen,Grafschaft Bentheim (Landkreis),29,,2020-03-22 19:19:20.099644
+212,Niedersachsen,Hameln-Pyrmont (Landkreis),26,,2020-03-22 19:19:20.099644
+213,Niedersachsen,Harburg (Landkreis),71,,2020-03-22 19:19:20.099644
+214,Niedersachsen,Heidekreis (Landkreis),4,,2020-03-22 19:19:20.099644
+215,Niedersachsen,Helmstedt (Landkreis),16,,2020-03-22 19:19:20.099644
+216,Niedersachsen,Hildesheim (Landkreis),95,,2020-03-22 19:19:20.099644
+217,Niedersachsen,Holzminden (Landkreis),27,,2020-03-22 19:19:20.099644
+218,Niedersachsen,Leer (Landkreis),12,1,2020-03-22 19:19:20.099644
+219,Niedersachsen,Lüchow-Dannenberg (Landkreis),5,,2020-03-22 19:19:20.099644
+220,Niedersachsen,Lüneburg (Landkreis),59,,2020-03-22 19:19:20.099644
+221,Niedersachsen,Nienburg (Weser) (Landkreis),15,,2020-03-22 19:19:20.099644
+222,Niedersachsen,Northeim (Landkreis),16,,2020-03-22 19:19:20.099644
+223,Niedersachsen,Oldenburg (Landkreis),16,,2020-03-22 19:19:20.099644
+224,Niedersachsen,Oldenburg (Oldb) (Kreisfreie Stadt),29,,2020-03-22 19:19:20.099644
+225,Niedersachsen,Osnabrück (Kreisfreie Stadt),75,,2020-03-22 19:19:20.099644
+226,Niedersachsen,Osnabrück (Landkreis),64,,2020-03-22 19:19:20.099644
+227,Niedersachsen,Osterholz (Landkreis),24,,2020-03-22 19:19:20.099644
+228,Niedersachsen,Peine (Landkreis),20,,2020-03-22 19:19:20.099644
+229,Niedersachsen,Region Hannover (Landkreis),341,,2020-03-22 19:19:20.099644
+230,Niedersachsen,Rotenburg (Wümme) (Landkreis),26,,2020-03-22 19:19:20.099644
+231,Niedersachsen,Salzgitter (Kreisfreie Stadt),24,,2020-03-22 19:19:20.099644
+232,Niedersachsen,Schaumburg (Landkreis),29,,2020-03-22 19:19:20.099644
+233,Niedersachsen,Stade (Landkreis),46,,2020-03-22 19:19:20.099644
+234,Niedersachsen,Uelzen (Landkreis),7,,2020-03-22 19:19:20.099644
+235,Niedersachsen,Vechta (Landkreis),47,,2020-03-22 19:19:20.099644
+236,Niedersachsen,Verden (Landkreis),27,,2020-03-22 19:19:20.099644
+237,Niedersachsen,Wesermarsch (Landkreis),9,,2020-03-22 19:19:20.099644
+238,Niedersachsen,Wilhelmshaven (Kreisfreie Stadt),5,,2020-03-22 19:19:20.099644
+239,Niedersachsen,Wittmund (Landkreis),4,,2020-03-22 19:19:20.099644
+240,Niedersachsen,Wolfenbüttel (Landkreis),4,,2020-03-22 19:19:20.099644
+241,Niedersachsen,Wolfsburg (Kreisfreie Stadt),18,,2020-03-22 19:19:20.099644
+242,Nordrhein-Westfalen,Bielefeld (Kreisfreie Stadt),81,,2020-03-22 19:19:20.099644
+243,Nordrhein-Westfalen,Bochum (Kreisfreie Stadt),99,1,2020-03-22 19:19:20.099644
+244,Nordrhein-Westfalen,Bonn (Kreisfreie Stadt),132,,2020-03-22 19:19:20.099644
+245,Nordrhein-Westfalen,Borken (Kreis),274,,2020-03-22 19:19:20.099644
+246,Nordrhein-Westfalen,Bottrop (Kreisfreie Stadt),16,,2020-03-22 19:19:20.099644
+247,Nordrhein-Westfalen,Coesfeld (Kreis),152,,2020-03-22 19:19:20.099644
+248,Nordrhein-Westfalen,Dortmund (Kreisfreie Stadt),140,,2020-03-22 19:19:20.099644
+249,Nordrhein-Westfalen,Duisburg (Kreisfreie Stadt),89,,2020-03-22 19:19:20.099644
+250,Nordrhein-Westfalen,Düren (Kreis),130,,2020-03-22 19:19:20.099644
+251,Nordrhein-Westfalen,Düsseldorf (Kreisfreie Stadt),189,1,2020-03-22 19:19:20.099644
+252,Nordrhein-Westfalen,Ennepe-Ruhr-Kreis (Kreis),52,1,2020-03-22 19:19:20.099644
+253,Nordrhein-Westfalen,Essen (Kreisfreie Stadt),218,1,2020-03-22 19:19:20.099644
+254,Nordrhein-Westfalen,Euskirchen (Kreis),51,,2020-03-22 19:19:20.099644
+255,Nordrhein-Westfalen,Gelsenkirchen (Kreisfreie Stadt),41,,2020-03-22 19:19:20.099644
+256,Nordrhein-Westfalen,Gütersloh (Kreis),202,,2020-03-22 19:19:20.099644
+257,Nordrhein-Westfalen,Hagen (Kreisfreie Stadt),37,,2020-03-22 19:19:20.099644
+258,Nordrhein-Westfalen,Hamm (Kreisfreie Stadt),62,,2020-03-22 19:19:20.099644
+259,Nordrhein-Westfalen,Heinsberg (Kreis),964,15,2020-03-22 19:19:20.099644
+260,Nordrhein-Westfalen,Herford (Kreis),97,,2020-03-22 19:19:20.099644
+261,Nordrhein-Westfalen,Herne (Kreisfreie Stadt),23,,2020-03-22 19:19:20.099644
+262,Nordrhein-Westfalen,Hochsauerlandkreis (Kreis),116,,2020-03-22 19:19:20.099644
+263,Nordrhein-Westfalen,Höxter (Kreis),20,,2020-03-22 19:19:20.099644
+264,Nordrhein-Westfalen,Kleve (Kreis),109,,2020-03-22 19:19:20.099644
+265,Nordrhein-Westfalen,Köln (Kreisfreie Stadt),688,2,2020-03-22 19:19:20.099644
+266,Nordrhein-Westfalen,Krefeld (Kreisfreie Stadt),71,,2020-03-22 19:19:20.099644
+267,Nordrhein-Westfalen,Leverkusen (Kreisfreie Stadt),48,,2020-03-22 19:19:20.099644
+268,Nordrhein-Westfalen,Lippe (Kreis),138,1,2020-03-22 19:19:20.099644
+269,Nordrhein-Westfalen,Märkischer Kreis (Kreis),38,,2020-03-22 19:19:20.099644
+270,Nordrhein-Westfalen,Mettmann (Kreis),113,1,2020-03-22 19:19:20.099644
+271,Nordrhein-Westfalen,Minden-Lübbecke (Kreis),148,,2020-03-22 19:19:20.099644
+272,Nordrhein-Westfalen,Mönchengladbach (Kreisfreie Stadt),77,,2020-03-22 19:19:20.099644
+273,Nordrhein-Westfalen,Mülheim an der Ruhr (Kreisfreie Stadt),36,,2020-03-22 19:19:20.099644
+274,Nordrhein-Westfalen,Münster (Kreisfreie Stadt),243,,2020-03-22 19:19:20.099644
+275,Nordrhein-Westfalen,Oberbergischer Kreis (Kreis),75,1,2020-03-22 19:19:20.099644
+276,Nordrhein-Westfalen,Oberhausen (Kreisfreie Stadt),35,,2020-03-22 19:19:20.099644
+277,Nordrhein-Westfalen,Olpe (Kreis),17,,2020-03-22 19:19:20.099644
+278,Nordrhein-Westfalen,Paderborn (Kreis),78,,2020-03-22 19:19:20.099644
+279,Nordrhein-Westfalen,Recklinghausen (Kreis),143,,2020-03-22 19:19:20.099644
+280,Nordrhein-Westfalen,Remscheid (Kreisfreie Stadt),21,,2020-03-22 19:19:20.099644
+281,Nordrhein-Westfalen,Rhein-Erft-Kreis (Kreis),181,,2020-03-22 19:19:20.099644
+282,Nordrhein-Westfalen,Rhein-Kreis Neuss (Kreis),119,2,2020-03-22 19:19:20.099644
+283,Nordrhein-Westfalen,Rhein-Sieg-Kreis (Kreis),262,,2020-03-22 19:19:20.099644
+284,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis (Kreis),95,1,2020-03-22 19:19:20.099644
+285,Nordrhein-Westfalen,Siegen-Wittgenstein (Kreis),29,,2020-03-22 19:19:20.099644
+286,Nordrhein-Westfalen,Soest (Kreis),73,,2020-03-22 19:19:20.099644
+287,Nordrhein-Westfalen,Solingen (Kreisfreie Stadt),38,,2020-03-22 19:19:20.099644
+288,Nordrhein-Westfalen,Städteregion Aachen (Kreis),501,4,2020-03-22 19:19:20.099644
+289,Nordrhein-Westfalen,Steinfurt (Kreis),201,,2020-03-22 19:19:20.099644
+290,Nordrhein-Westfalen,Unna (Kreis),60,,2020-03-22 19:19:20.099644
+291,Nordrhein-Westfalen,Viersen (Kreis),123,1,2020-03-22 19:19:20.099644
+292,Nordrhein-Westfalen,Warendorf (Kreis),208,,2020-03-22 19:19:20.099644
+293,Nordrhein-Westfalen,Wesel (Kreis),124,,2020-03-22 19:19:20.099644
+294,Nordrhein-Westfalen,Wuppertal (Kreisfreie Stadt),74,,2020-03-22 19:19:20.099644
+295,Rheinland-Pfalz,Ahrweiler (Landkreis),40,,2020-03-22 19:19:20.099644
+296,Rheinland-Pfalz,Altenkirchen (Westerwald) (Landkreis),17,,2020-03-22 19:19:20.099644
+297,Rheinland-Pfalz,Alzey-Worms (Landkreis),68,,2020-03-22 19:19:20.099644
+298,Rheinland-Pfalz,Bad Dürkheim (Landkreis),83,,2020-03-22 19:19:20.099644
+299,Rheinland-Pfalz,Bad Kreuznach (Landkreis),37,,2020-03-22 19:19:20.099644
+300,Rheinland-Pfalz,Bernkastel-Wittlich (Landkreis),21,,2020-03-22 19:19:20.099644
+301,Rheinland-Pfalz,Birkenfeld (Landkreis),5,,2020-03-22 19:19:20.099644
+302,Rheinland-Pfalz,Cochem-Zell (Landkreis),40,,2020-03-22 19:19:20.099644
+303,Rheinland-Pfalz,Donnersbergkreis (Landkreis),17,,2020-03-22 19:19:20.099644
+304,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm (Landkreis),44,,2020-03-22 19:19:20.099644
+305,Rheinland-Pfalz,Frankenthal (Pfalz) (Kreisfreie Stadt),11,,2020-03-22 19:19:20.099644
+306,Rheinland-Pfalz,Germersheim (Landkreis),25,,2020-03-22 19:19:20.099644
+307,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),14,,2020-03-22 19:19:20.099644
+308,Rheinland-Pfalz,Kaiserslautern (Landkreis),14,,2020-03-22 19:19:20.099644
+309,Rheinland-Pfalz,Koblenz (Kreisfreie Stadt),57,,2020-03-22 19:19:20.099644
+310,Rheinland-Pfalz,Kusel (Landkreis),21,,2020-03-22 19:19:20.099644
+311,Rheinland-Pfalz,Landau in der Pfalz (Kreisfreie Stadt),5,,2020-03-22 19:19:20.099644
+312,Rheinland-Pfalz,Ludwigshafen am Rhein (Kreisfreie Stadt),17,,2020-03-22 19:19:20.099644
+313,Rheinland-Pfalz,Mainz (Kreisfreie Stadt),81,,2020-03-22 19:19:20.099644
+314,Rheinland-Pfalz,Mainz-Bingen (Landkreis),54,,2020-03-22 19:19:20.099644
+315,Rheinland-Pfalz,Mayen-Koblenz (Landkreis),136,1,2020-03-22 19:19:20.099644
+316,Rheinland-Pfalz,Neustadt an der Weinstraße (Kreisfreie Stadt),10,,2020-03-22 19:19:20.099644
+317,Rheinland-Pfalz,Neuwied (Landkreis),59,,2020-03-22 19:19:20.099644
+318,Rheinland-Pfalz,Pirmasens (Kreisfreie Stadt),3,,2020-03-22 19:19:20.099644
+319,Rheinland-Pfalz,Rhein-Hunsrück-Kreis (Landkreis),47,,2020-03-22 19:19:20.099644
+320,Rheinland-Pfalz,Rhein-Lahn-Kreis (Landkreis),34,,2020-03-22 19:19:20.099644
+321,Rheinland-Pfalz,Rhein-Pfalz-Kreis (Landkreis),9,,2020-03-22 19:19:20.099644
+322,Rheinland-Pfalz,Speyer (Kreisfreie Stadt),7,,2020-03-22 19:19:20.099644
+323,Rheinland-Pfalz,Südliche Weinstraße (Landkreis),31,,2020-03-22 19:19:20.099644
+324,Rheinland-Pfalz,Südwestpfalz (Landkreis),12,,2020-03-22 19:19:20.099644
+325,Rheinland-Pfalz,Trier (Kreisfreie Stadt),11,,2020-03-22 19:19:20.099644
+326,Rheinland-Pfalz,Trier-Saarburg (Landkreis),19,,2020-03-22 19:19:20.099644
+327,Rheinland-Pfalz,Vulkaneifel (Landkreis),28,,2020-03-22 19:19:20.099644
+328,Rheinland-Pfalz,Westerwaldkreis (Landkreis),62,1,2020-03-22 19:19:20.099644
+329,Rheinland-Pfalz,Worms (Kreisfreie Stadt),8,,2020-03-22 19:19:20.099644
+330,Rheinland-Pfalz,Zweibrücken (Kreisfreie Stadt),2,,2020-03-22 19:19:20.099644
+331,Saarland,Merzig-Wadern (Landkreis),19,,2020-03-22 19:19:20.099644
+332,Saarland,Neunkirchen (Landkreis),34,,2020-03-22 19:19:20.099644
+333,Saarland,Regionalverband Saarbrücken (Landkreis),121,,2020-03-22 19:19:20.099644
+334,Saarland,Saarlouis (Landkreis),38,,2020-03-22 19:19:20.099644
+335,Saarland,Saarpfalz-Kreis (Landkreis),56,1,2020-03-22 19:19:20.099644
+336,Saarland,St. Wendel (Landkreis),50,,2020-03-22 19:19:20.099644
+337,Sachsen,Bautzen (Landkreis),65,1,2020-03-22 19:19:20.099644
+338,Sachsen,Chemnitz (Kreisfreie Stadt),51,,2020-03-22 19:19:20.099644
+339,Sachsen,Dresden (Kreisfreie Stadt),123,,2020-03-22 19:19:20.099644
+340,Sachsen,Erzgebirgskreis (Landkreis),33,,2020-03-22 19:19:20.099644
+341,Sachsen,Görlitz (Landkreis),15,,2020-03-22 19:19:20.099644
+342,Sachsen,Leipzig (Kreisfreie Stadt),144,,2020-03-22 19:19:20.099644
+343,Sachsen,Leipzig (Landkreis),32,,2020-03-22 19:19:20.099644
+344,Sachsen,Meißen (Landkreis),25,,2020-03-22 19:19:20.099644
+345,Sachsen,Mittelsachsen (Landkreis),24,,2020-03-22 19:19:20.099644
+346,Sachsen,Nordsachsen (Landkreis),13,,2020-03-22 19:19:20.099644
+347,Sachsen,Sächsische Schweiz-Osterzgebirge (Landkreis),41,,2020-03-22 19:19:20.099644
+348,Sachsen,Vogtlandkreis (Landkreis),16,,2020-03-22 19:19:20.099644
+349,Sachsen,Zwickau (Landkreis),149,,2020-03-22 19:19:20.099644
+350,Sachsen-Anhalt,Altmarkkreis Salzwedel (Landkreis),6,,2020-03-22 19:19:20.099644
+351,Sachsen-Anhalt,Anhalt-Bitterfeld (Landkreis),12,,2020-03-22 19:19:20.099644
+352,Sachsen-Anhalt,Börde (Landkreis),29,,2020-03-22 19:19:20.099644
+353,Sachsen-Anhalt,Burgenlandkreis (Landkreis),15,,2020-03-22 19:19:20.099644
+354,Sachsen-Anhalt,Dessau-Roßlau (Kreisfreie Stadt),11,,2020-03-22 19:19:20.099644
+355,Sachsen-Anhalt,Halle (Saale) (Kreisfreie Stadt),71,,2020-03-22 19:19:20.099644
+356,Sachsen-Anhalt,Harz (Landkreis),12,,2020-03-22 19:19:20.099644
+357,Sachsen-Anhalt,Jerichower Land (Landkreis),4,,2020-03-22 19:19:20.099644
+358,Sachsen-Anhalt,Magdeburg (Kreisfreie Stadt),39,,2020-03-22 19:19:20.099644
+359,Sachsen-Anhalt,Mansfeld-Südharz (Landkreis),10,,2020-03-22 19:19:20.099644
+360,Sachsen-Anhalt,Saalekreis (Landkreis),14,,2020-03-22 19:19:20.099644
+361,Sachsen-Anhalt,Salzlandkreis (Landkreis),17,,2020-03-22 19:19:20.099644
+362,Sachsen-Anhalt,Stendal (Landkreis),10,,2020-03-22 19:19:20.099644
+363,Sachsen-Anhalt,Wittenberg (Landkreis),19,,2020-03-22 19:19:20.099644
+364,Schleswig-Holstein,Dithmarschen (Kreis),12,,2020-03-22 19:19:20.099644
+365,Schleswig-Holstein,Flensburg (Kreisfreie Stadt),13,,2020-03-22 19:19:20.099644
+366,Schleswig-Holstein,Herzogtum Lauenburg (Kreis),36,,2020-03-22 19:19:20.099644
+367,Schleswig-Holstein,Kiel (Kreisfreie Stadt),39,,2020-03-22 19:19:20.099644
+368,Schleswig-Holstein,Lübeck (Kreisfreie Stadt),56,1,2020-03-22 19:19:20.099644
+369,Schleswig-Holstein,Neumünster (Kreisfreie Stadt),7,,2020-03-22 19:19:20.099644
+370,Schleswig-Holstein,Nordfriesland (Kreis),18,,2020-03-22 19:19:20.099644
+371,Schleswig-Holstein,Ostholstein (Kreis),13,,2020-03-22 19:19:20.099644
+372,Schleswig-Holstein,Pinneberg (Kreis),88,,2020-03-22 19:19:20.099644
+373,Schleswig-Holstein,Plön (Kreis),12,,2020-03-22 19:19:20.099644
+374,Schleswig-Holstein,Rendsburg-Eckernförde (Kreis),33,,2020-03-22 19:19:20.099644
+375,Schleswig-Holstein,Schleswig-Flensburg (Kreis),24,,2020-03-22 19:19:20.099644
+376,Schleswig-Holstein,Segeberg (Kreis),29,,2020-03-22 19:19:20.099644
+377,Schleswig-Holstein,Steinburg (Kreis),13,,2020-03-22 19:19:20.099644
+378,Schleswig-Holstein,Stormarn (Kreis),43,,2020-03-22 19:19:20.099644
+379,Thüringen,Altenburger Land (Landkreis),7,,2020-03-22 19:19:20.099644
+380,Thüringen,Eichsfeld (Landkreis),15,,2020-03-22 19:19:20.099644
+381,Thüringen,Eisenach (Kreisfreie Stadt),1,,2020-03-22 19:19:20.099644
+382,Thüringen,Erfurt (Kreisfreie Stadt),28,,2020-03-22 19:19:20.099644
+383,Thüringen,Gera (Kreisfreie Stadt),4,,2020-03-22 19:19:20.099644
+384,Thüringen,Gotha (Landkreis),4,,2020-03-22 19:19:20.099644
+385,Thüringen,Greiz (Landkreis),36,,2020-03-22 19:19:20.099644
+386,Thüringen,Hildburghausen (Landkreis),1,,2020-03-22 19:19:20.099644
+387,Thüringen,Ilm-Kreis (Landkreis),10,,2020-03-22 19:19:20.099644
+388,Thüringen,Jena (Kreisfreie Stadt),21,,2020-03-22 19:19:20.099644
+389,Thüringen,Kyffhäuserkreis (Landkreis),12,,2020-03-22 19:19:20.099644
+390,Thüringen,Nordhausen (Landkreis),3,,2020-03-22 19:19:20.099644
+391,Thüringen,Saale-Holzland-Kreis (Landkreis),17,,2020-03-22 19:19:20.099644
+392,Thüringen,Saale-Orla-Kreis (Landkreis),7,,2020-03-22 19:19:20.099644
+393,Thüringen,Saalfeld-Rudolstadt (Landkreis),17,,2020-03-22 19:19:20.099644
+394,Thüringen,Schmalkalden-Meiningen (Landkreis),13,,2020-03-22 19:19:20.099644
+395,Thüringen,Sömmerda (Landkreis),4,,2020-03-22 19:19:20.099644
+396,Thüringen,Sonneberg (Landkreis),0,,2020-03-22 19:19:20.099644
+397,Thüringen,Suhl (Kreisfreie Stadt),4,,2020-03-22 19:19:20.099644
+398,Thüringen,Unstrut-Hainich-Kreis (Landkreis),5,,2020-03-22 19:19:20.099644
+399,Thüringen,Wartburgkreis (Landkreis),9,,2020-03-22 19:19:20.099644
+400,Thüringen,Weimar (Kreisfreie Stadt),10,,2020-03-22 19:19:20.099644
+401,Thüringen,Weimarer Land (Landkreis),9,,2020-03-22 19:19:20.099644
