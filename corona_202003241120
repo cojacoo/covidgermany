@@ -1,0 +1,403 @@
+,Bundesland,Landkreis,Faelle,Kausali,Zeit
+0,Bundesland,NAME_DE,FÃ¤lle,Anzahl Tote,2020-03-24 11:20:23.848236
+1,Baden-Württemberg,Alb-Donau-Kreis (Landkreis),60,,2020-03-24 11:20:23.848236
+2,Baden-Württemberg,Baden-Baden (Stadtkreis),33,,2020-03-24 11:20:23.848236
+3,Baden-Württemberg,Biberach (Landkreis),74,,2020-03-24 11:20:23.848236
+4,Baden-Württemberg,Böblingen (Landkreis),187,,2020-03-24 11:20:23.848236
+5,Baden-Württemberg,Bodenseekreis (Landkreis),83,,2020-03-24 11:20:23.848236
+6,Baden-Württemberg,Breisgau-Hochschwarzwald (Landkreis),178,,2020-03-24 11:20:23.848236
+7,Baden-Württemberg,Calw (Landkreis),150,1,2020-03-24 11:20:23.848236
+8,Baden-Württemberg,Emmendingen (Landkreis),123,5,2020-03-24 11:20:23.848236
+9,Baden-Württemberg,Enzkreis (Landkreis),37,,2020-03-24 11:20:23.848236
+10,Baden-Württemberg,Esslingen (Landkreis),435,3,2020-03-24 11:20:23.848236
+11,Baden-Württemberg,Freiburg im Breisgau (Stadtkreis),212,1,2020-03-24 11:20:23.848236
+12,Baden-Württemberg,Freudenstadt (Landkreis),39,,2020-03-24 11:20:23.848236
+13,Baden-Württemberg,Göppingen (Landkreis),166,1,2020-03-24 11:20:23.848236
+14,Baden-Württemberg,Heidelberg (Stadtkreis),89,,2020-03-24 11:20:23.848236
+15,Baden-Württemberg,Heidenheim (Landkreis),60,1,2020-03-24 11:20:23.848236
+16,Baden-Württemberg,Heilbronn (Landkreis),197,3,2020-03-24 11:20:23.848236
+17,Baden-Württemberg,Heilbronn (Stadtkreis),55,,2020-03-24 11:20:23.848236
+18,Baden-Württemberg,Hohenlohekreis (Landkreis),257,3,2020-03-24 11:20:23.848236
+19,Baden-Württemberg,Karlsruhe (Landkreis),154,,2020-03-24 11:20:23.848236
+20,Baden-Württemberg,Karlsruhe (Stadtkreis),60,,2020-03-24 11:20:23.848236
+21,Baden-Württemberg,Konstanz (Landkreis),70,,2020-03-24 11:20:23.848236
+22,Baden-Württemberg,Lörrach (Landkreis),57,,2020-03-24 11:20:23.848236
+23,Baden-Württemberg,Ludwigsburg (Landkreis),250,,2020-03-24 11:20:23.848236
+24,Baden-Württemberg,Main-Tauber-Kreis (Landkreis),53,,2020-03-24 11:20:23.848236
+25,Baden-Württemberg,Mannheim (Stadtkreis),80,,2020-03-24 11:20:23.848236
+26,Baden-Württemberg,Neckar-Odenwald-Kreis (Landkreis),35,1,2020-03-24 11:20:23.848236
+27,Baden-Württemberg,Ortenaukreis (Landkreis),104,4,2020-03-24 11:20:23.848236
+28,Baden-Württemberg,Ostalbkreis (Landkreis),121,,2020-03-24 11:20:23.848236
+29,Baden-Württemberg,Pforzheim (Stadtkreis),18,,2020-03-24 11:20:23.848236
+30,Baden-Württemberg,Rastatt (Landkreis),146,,2020-03-24 11:20:23.848236
+31,Baden-Württemberg,Ravensburg (Landkreis),127,,2020-03-24 11:20:23.848236
+32,Baden-Württemberg,Rems-Murr-Kreis (Landkreis),117,1,2020-03-24 11:20:23.848236
+33,Baden-Württemberg,Reutlingen (Landkreis),113,2,2020-03-24 11:20:23.848236
+34,Baden-Württemberg,Rhein-Neckar-Kreis (Landkreis),276,,2020-03-24 11:20:23.848236
+35,Baden-Württemberg,Rottweil (Landkreis),8,1,2020-03-24 11:20:23.848236
+36,Baden-Württemberg,Schwäbisch Hall (Landkreis),145,,2020-03-24 11:20:23.848236
+37,Baden-Württemberg,Schwarzwald-Baar-Kreis (Landkreis),78,,2020-03-24 11:20:23.848236
+38,Baden-Württemberg,Sigmaringen (Landkreis),99,2,2020-03-24 11:20:23.848236
+39,Baden-Württemberg,Stuttgart (Stadtkreis),441,1,2020-03-24 11:20:23.848236
+40,Baden-Württemberg,Tübingen (Landkreis),144,,2020-03-24 11:20:23.848236
+41,Baden-Württemberg,Tuttlingen (Landkreis),15,,2020-03-24 11:20:23.848236
+42,Baden-Württemberg,Ulm (Stadtkreis),53,,2020-03-24 11:20:23.848236
+43,Baden-Württemberg,Waldshut (Landkreis),25,1,2020-03-24 11:20:23.848236
+44,Baden-Württemberg,Zollernalbkreis (Landkreis),109,,2020-03-24 11:20:23.848236
+45,Bayern,Aichach-Friedberg (Landkreis),27,,2020-03-24 11:20:23.848236
+46,Bayern,Altötting (Landkreis),35,,2020-03-24 11:20:23.848236
+47,Bayern,Amberg (Kreisfreie Stadt),6,,2020-03-24 11:20:23.848236
+48,Bayern,Amberg-Sulzbach (Landkreis),31,2,2020-03-24 11:20:23.848236
+49,Bayern,Ansbach (Kreisfreie Stadt),6,,2020-03-24 11:20:23.848236
+50,Bayern,Ansbach (Landkreis),40,,2020-03-24 11:20:23.848236
+51,Bayern,Aschaffenburg (Kreisfreie Stadt),23,,2020-03-24 11:20:23.848236
+52,Bayern,Aschaffenburg (Landkreis),56,,2020-03-24 11:20:23.848236
+53,Bayern,Augsburg (Kreisfreie Stadt),60,1,2020-03-24 11:20:23.848236
+54,Bayern,Augsburg (Landkreis),77,,2020-03-24 11:20:23.848236
+55,Bayern,Bad Kissingen (Landkreis),22,,2020-03-24 11:20:23.848236
+56,Bayern,Bad Tölz-Wolfratshausen (Landkreis),53,,2020-03-24 11:20:23.848236
+57,Bayern,Bamberg (Kreisfreie Stadt),17,,2020-03-24 11:20:23.848236
+58,Bayern,Bamberg (Landkreis),35,,2020-03-24 11:20:23.848236
+59,Bayern,Bayreuth (Kreisfreie Stadt),6,,2020-03-24 11:20:23.848236
+60,Bayern,Bayreuth (Landkreis),26,,2020-03-24 11:20:23.848236
+61,Bayern,Berchtesgadener Land (Landkreis),6,,2020-03-24 11:20:23.848236
+62,Bayern,Cham (Landkreis),52,,2020-03-24 11:20:23.848236
+63,Bayern,Coburg (Kreisfreie Stadt),0,,2020-03-24 11:20:23.848236
+64,Bayern,Coburg (Landkreis),33,,2020-03-24 11:20:23.848236
+65,Bayern,Dachau (Landkreis),75,,2020-03-24 11:20:23.848236
+66,Bayern,Deggendorf (Landkreis),60,,2020-03-24 11:20:23.848236
+67,Bayern,Dillingen a.d. Donau (Landkreis),17,1,2020-03-24 11:20:23.848236
+68,Bayern,Dingolfing-Landau (Landkreis),41,,2020-03-24 11:20:23.848236
+69,Bayern,Donau-Ries (Landkreis),24,,2020-03-24 11:20:23.848236
+70,Bayern,Ebersberg (Landkreis),70,,2020-03-24 11:20:23.848236
+71,Bayern,Eichstätt (Landkreis),25,,2020-03-24 11:20:23.848236
+72,Bayern,Erding (Landkreis),111,,2020-03-24 11:20:23.848236
+73,Bayern,Erlangen (Kreisfreie Stadt),24,,2020-03-24 11:20:23.848236
+74,Bayern,Erlangen-Höchstadt (Landkreis),27,,2020-03-24 11:20:23.848236
+75,Bayern,Forchheim (Landkreis),25,,2020-03-24 11:20:23.848236
+76,Bayern,Freising (Landkreis),246,3,2020-03-24 11:20:23.848236
+77,Bayern,Freyung-Grafenau (Landkreis),19,,2020-03-24 11:20:23.848236
+78,Bayern,Fürstenfeldbruck (Landkreis),90,,2020-03-24 11:20:23.848236
+79,Bayern,Fürth (Kreisfreie Stadt),25,,2020-03-24 11:20:23.848236
+80,Bayern,Fürth (Landkreis),22,,2020-03-24 11:20:23.848236
+81,Bayern,Garmisch-Partenkirchen (Landkreis),41,,2020-03-24 11:20:23.848236
+82,Bayern,Günzburg (Landkreis),12,,2020-03-24 11:20:23.848236
+83,Bayern,Haßberge (Landkreis),17,,2020-03-24 11:20:23.848236
+84,Bayern,Hof (Kreisfreie Stadt),12,,2020-03-24 11:20:23.848236
+85,Bayern,Hof (Landkreis),41,,2020-03-24 11:20:23.848236
+86,Bayern,Ingolstadt (Kreisfreie Stadt),12,,2020-03-24 11:20:23.848236
+87,Bayern,Kaufbeuren (Kreisfreie Stadt),0,,2020-03-24 11:20:23.848236
+88,Bayern,Kelheim (Landkreis),56,,2020-03-24 11:20:23.848236
+89,Bayern,Kempten (Allgäu) (Kreisfreie Stadt),0,,2020-03-24 11:20:23.848236
+90,Bayern,Kitzingen (Landkreis),12,,2020-03-24 11:20:23.848236
+91,Bayern,Kronach (Landkreis),16,,2020-03-24 11:20:23.848236
+92,Bayern,Kulmbach (Landkreis),21,,2020-03-24 11:20:23.848236
+93,Bayern,Landsberg am Lech (Landkreis),47,1,2020-03-24 11:20:23.848236
+94,Bayern,Landshut (Kreisfreie Stadt),38,,2020-03-24 11:20:23.848236
+95,Bayern,Landshut (Landkreis),113,,2020-03-24 11:20:23.848236
+96,Bayern,Lichtenfels (Landkreis),23,,2020-03-24 11:20:23.848236
+97,Bayern,Lindau (Bodensee) (Landkreis),50,,2020-03-24 11:20:23.848236
+98,Bayern,Main-Spessart (Landkreis),14,,2020-03-24 11:20:23.848236
+99,Bayern,Memmingen (Kreisfreie Stadt),18,,2020-03-24 11:20:23.848236
+100,Bayern,Miesbach (Landkreis),136,,2020-03-24 11:20:23.848236
+101,Bayern,Miltenberg (Landkreis),50,,2020-03-24 11:20:23.848236
+102,Bayern,Mühldorf a. Inn (Landkreis),41,,2020-03-24 11:20:23.848236
+103,Bayern,München (Kreisfreie Stadt),1.312,,2020-03-24 11:20:23.848236
+104,Bayern,München (Landkreis),239,,2020-03-24 11:20:23.848236
+105,Bayern,Neu-Ulm (Landkreis),60,1,2020-03-24 11:20:23.848236
+106,Bayern,Neuburg-Schrobenhausen (Landkreis),28,,2020-03-24 11:20:23.848236
+107,Bayern,Neumarkt i.d. OPf. (Landkreis),35,,2020-03-24 11:20:23.848236
+108,Bayern,Neustadt a.d. Aisch-Bad Windsheim (Landkreis),15,,2020-03-24 11:20:23.848236
+109,Bayern,Neustadt a.d. Waldnaab (Landkreis),32,,2020-03-24 11:20:23.848236
+110,Bayern,Nürnberg (Kreisfreie Stadt),99,,2020-03-24 11:20:23.848236
+111,Bayern,Nürnberger Land (Landkreis),68,2,2020-03-24 11:20:23.848236
+112,Bayern,Oberallgäu (Landkreis),66,2,2020-03-24 11:20:23.848236
+113,Bayern,Ostallgäu (Landkreis),5,,2020-03-24 11:20:23.848236
+114,Bayern,Passau (Kreisfreie Stadt),14,,2020-03-24 11:20:23.848236
+115,Bayern,Passau (Landkreis),36,,2020-03-24 11:20:23.848236
+116,Bayern,Pfaffenhofen a.d. Ilm (Landkreis),31,,2020-03-24 11:20:23.848236
+117,Bayern,Regen (Landkreis),25,,2020-03-24 11:20:23.848236
+118,Bayern,Regensburg (Kreisfreie Stadt),74,,2020-03-24 11:20:23.848236
+119,Bayern,Regensburg (Landkreis),71,,2020-03-24 11:20:23.848236
+120,Bayern,Rhön-Grabfeld (Landkreis),17,,2020-03-24 11:20:23.848236
+121,Bayern,Rosenheim (Kreisfreie Stadt),49,,2020-03-24 11:20:23.848236
+122,Bayern,Rosenheim (Landkreis),226,,2020-03-24 11:20:23.848236
+123,Bayern,Roth (Landkreis),22,,2020-03-24 11:20:23.848236
+124,Bayern,Rottal-Inn (Landkreis),79,,2020-03-24 11:20:23.848236
+125,Bayern,Schwabach (Kreisfreie Stadt),9,,2020-03-24 11:20:23.848236
+126,Bayern,Schwandorf (Landkreis),38,,2020-03-24 11:20:23.848236
+127,Bayern,Schweinfurt (Kreisfreie Stadt),7,,2020-03-24 11:20:23.848236
+128,Bayern,Schweinfurt (Landkreis),39,,2020-03-24 11:20:23.848236
+129,Bayern,Starnberg (Landkreis),110,1,2020-03-24 11:20:23.848236
+130,Bayern,Straubing (Kreisfreie Stadt),40,,2020-03-24 11:20:23.848236
+131,Bayern,Straubing-Bogen (Landkreis),49,,2020-03-24 11:20:23.848236
+132,Bayern,Tirschenreuth (Landkreis),148,2,2020-03-24 11:20:23.848236
+133,Bayern,Traunstein (Landkreis),79,2,2020-03-24 11:20:23.848236
+134,Bayern,Unterallgäu (Landkreis),22,,2020-03-24 11:20:23.848236
+135,Bayern,Weiden i.d. OPf. (Kreisfreie Stadt),22,,2020-03-24 11:20:23.848236
+136,Bayern,Weilheim-Schongau (Landkreis),95,1,2020-03-24 11:20:23.848236
+137,Bayern,Weißenburg-Gunzenhausen (Landkreis),24,,2020-03-24 11:20:23.848236
+138,Bayern,Wunsiedel i. Fichtelgebirge (Landkreis),51,2,2020-03-24 11:20:23.848236
+139,Bayern,Würzburg (Kreisfreie Stadt),54,6,2020-03-24 11:20:23.848236
+140,Bayern,Würzburg (Landkreis),82,3,2020-03-24 11:20:23.848236
+141,Berlin,Berlin (Kreisfreie Stadt),1219,2,2020-03-24 11:20:23.848236
+142,Brandenburg,Barnim (Landkreis),40,,2020-03-24 11:20:23.848236
+143,Brandenburg,Brandenburg an der Havel (Kreisfreie Stadt),8,,2020-03-24 11:20:23.848236
+144,Brandenburg,Cottbus (Kreisfreie Stadt),24,,2020-03-24 11:20:23.848236
+145,Brandenburg,Dahme-Spreewald (Landkreis),27,,2020-03-24 11:20:23.848236
+146,Brandenburg,Elbe-Elster (Landkreis),8,,2020-03-24 11:20:23.848236
+147,Brandenburg,Frankfurt (Oder) (Kreisfreie Stadt),5,,2020-03-24 11:20:23.848236
+148,Brandenburg,Havelland (Landkreis),21,,2020-03-24 11:20:23.848236
+149,Brandenburg,Märkisch-Oderland (Landkreis),49,,2020-03-24 11:20:23.848236
+150,Brandenburg,Oberhavel (Landkreis),31,1,2020-03-24 11:20:23.848236
+151,Brandenburg,Oberspreewald-Lausitz (Landkreis),11,,2020-03-24 11:20:23.848236
+152,Brandenburg,Oder-Spree (Landkreis),46,,2020-03-24 11:20:23.848236
+153,Brandenburg,Ostprignitz-Ruppin (Landkreis),7,,2020-03-24 11:20:23.848236
+154,Brandenburg,Potsdam (Kreisfreie Stadt),22,,2020-03-24 11:20:23.848236
+155,Brandenburg,Potsdam-Mittelmark (Landkreis),30,,2020-03-24 11:20:23.848236
+156,Brandenburg,Prignitz (Landkreis),1,,2020-03-24 11:20:23.848236
+157,Brandenburg,Spree-Neiße (Landkreis),29,,2020-03-24 11:20:23.848236
+158,Brandenburg,Teltow-Fläming (Landkreis),22,,2020-03-24 11:20:23.848236
+159,Brandenburg,Uckermark (Landkreis),4,,2020-03-24 11:20:23.848236
+160,Bremen,Bremen (Kreisfreie Stadt),161,,2020-03-24 11:20:23.848236
+161,Bremen,Bremerhaven (Kreisfreie Stadt),14,,2020-03-24 11:20:23.848236
+162,Hamburg,Hamburg (Kreisfreie Stadt),989,1,2020-03-24 11:20:23.848236
+163,Hessen,Bergstraße (Landkreis),45,,2020-03-24 11:20:23.848236
+164,Hessen,Darmstadt (Kreisfreie Stadt),23,,2020-03-24 11:20:23.848236
+165,Hessen,Darmstadt-Dieburg (Landkreis),63,,2020-03-24 11:20:23.848236
+166,Hessen,Frankfurt am Main (Kreisfreie Stadt),164,,2020-03-24 11:20:23.848236
+167,Hessen,Fulda (Landkreis),78,,2020-03-24 11:20:23.848236
+168,Hessen,Gießen (Landkreis),63,,2020-03-24 11:20:23.848236
+169,Hessen,Groß-Gerau (Landkreis),87,,2020-03-24 11:20:23.848236
+170,Hessen,Hersfeld-Rotenburg (Landkreis),26,,2020-03-24 11:20:23.848236
+171,Hessen,Hochtaunuskreis (Landkreis),72,,2020-03-24 11:20:23.848236
+172,Hessen,Kassel (Kreisfreie Stadt),43,,2020-03-24 11:20:23.848236
+173,Hessen,Kassel (Landkreis),44,,2020-03-24 11:20:23.848236
+174,Hessen,Lahn-Dill-Kreis (Landkreis),65,,2020-03-24 11:20:23.848236
+175,Hessen,Limburg-Weilburg (Landkreis),46,,2020-03-24 11:20:23.848236
+176,Hessen,Main-Kinzig-Kreis (Landkreis),57,,2020-03-24 11:20:23.848236
+177,Hessen,Main-Taunus-Kreis (Landkreis),55,1,2020-03-24 11:20:23.848236
+178,Hessen,Marburg-Biedenkopf (Landkreis),48,,2020-03-24 11:20:23.848236
+179,Hessen,Odenwaldkreis (Landkreis),23,,2020-03-24 11:20:23.848236
+180,Hessen,Offenbach (Landkreis),77,1,2020-03-24 11:20:23.848236
+181,Hessen,Offenbach am Main (Kreisfreie Stadt),8,,2020-03-24 11:20:23.848236
+182,Hessen,Rheingau-Taunus-Kreis (Landkreis),31,,2020-03-24 11:20:23.848236
+183,Hessen,Schwalm-Eder-Kreis (Landkreis),69,,2020-03-24 11:20:23.848236
+184,Hessen,Vogelsbergkreis (Landkreis),25,,2020-03-24 11:20:23.848236
+185,Hessen,Waldeck-Frankenberg (Landkreis),27,,2020-03-24 11:20:23.848236
+186,Hessen,Werra-Meißner-Kreis (Landkreis),5,,2020-03-24 11:20:23.848236
+187,Hessen,Wetteraukreis (Landkreis),41,,2020-03-24 11:20:23.848236
+188,Hessen,Wiesbaden (Kreisfreie Stadt),67,1,2020-03-24 11:20:23.848236
+189,Mecklenburg-Vorpommern,Ludwigslust-Parchim (Landkreis),24,,2020-03-24 11:20:23.848236
+190,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte (Landkreis),30,,2020-03-24 11:20:23.848236
+191,Mecklenburg-Vorpommern,Nordwestmecklenburg (Landkreis),18,,2020-03-24 11:20:23.848236
+192,Mecklenburg-Vorpommern,Rostock (Kreisfreie Stadt),29,,2020-03-24 11:20:23.848236
+193,Mecklenburg-Vorpommern,Rostock (Landkreis),18,,2020-03-24 11:20:23.848236
+194,Mecklenburg-Vorpommern,Schwerin (Kreisfreie Stadt),38,,2020-03-24 11:20:23.848236
+195,Mecklenburg-Vorpommern,Vorpommern-Greifswald (Landkreis),29,,2020-03-24 11:20:23.848236
+196,Mecklenburg-Vorpommern,Vorpommern-Rügen (Landkreis),15,,2020-03-24 11:20:23.848236
+197,Niedersachsen,Ammerland (Landkreis),28,,2020-03-24 11:20:23.848236
+198,Niedersachsen,Aurich (Landkreis),26,,2020-03-24 11:20:23.848236
+199,Niedersachsen,Braunschweig (Kreisfreie Stadt),55,,2020-03-24 11:20:23.848236
+200,Niedersachsen,Celle (Landkreis),31,,2020-03-24 11:20:23.848236
+201,Niedersachsen,Cloppenburg (Landkreis),10,,2020-03-24 11:20:23.848236
+202,Niedersachsen,Cuxhaven (Landkreis),35,,2020-03-24 11:20:23.848236
+203,Niedersachsen,Delmenhorst (Kreisfreie Stadt),10,,2020-03-24 11:20:23.848236
+204,Niedersachsen,Diepholz (Landkreis),68,,2020-03-24 11:20:23.848236
+205,Niedersachsen,Emden (Kreisfreie Stadt),7,,2020-03-24 11:20:23.848236
+206,Niedersachsen,Emsland (Landkreis),64,,2020-03-24 11:20:23.848236
+207,Niedersachsen,Friesland (Landkreis),6,,2020-03-24 11:20:23.848236
+208,Niedersachsen,Gifhorn (Landkreis),35,,2020-03-24 11:20:23.848236
+209,Niedersachsen,Goslar (Landkreis),22,,2020-03-24 11:20:23.848236
+210,Niedersachsen,Göttingen (Landkreis),64,,2020-03-24 11:20:23.848236
+211,Niedersachsen,Grafschaft Bentheim (Landkreis),29,,2020-03-24 11:20:23.848236
+212,Niedersachsen,Hameln-Pyrmont (Landkreis),26,,2020-03-24 11:20:23.848236
+213,Niedersachsen,Harburg (Landkreis),71,1,2020-03-24 11:20:23.848236
+214,Niedersachsen,Heidekreis (Landkreis),6,,2020-03-24 11:20:23.848236
+215,Niedersachsen,Helmstedt (Landkreis),18,,2020-03-24 11:20:23.848236
+216,Niedersachsen,Hildesheim (Landkreis),100,,2020-03-24 11:20:23.848236
+217,Niedersachsen,Holzminden (Landkreis),29,,2020-03-24 11:20:23.848236
+218,Niedersachsen,Leer (Landkreis),13,1,2020-03-24 11:20:23.848236
+219,Niedersachsen,Lüchow-Dannenberg (Landkreis),5,,2020-03-24 11:20:23.848236
+220,Niedersachsen,Lüneburg (Landkreis),59,,2020-03-24 11:20:23.848236
+221,Niedersachsen,Nienburg (Weser) (Landkreis),17,,2020-03-24 11:20:23.848236
+222,Niedersachsen,Northeim (Landkreis),21,,2020-03-24 11:20:23.848236
+223,Niedersachsen,Oldenburg (Landkreis),16,,2020-03-24 11:20:23.848236
+224,Niedersachsen,Oldenburg (Oldb) (Kreisfreie Stadt),40,,2020-03-24 11:20:23.848236
+225,Niedersachsen,Osnabrück (Kreisfreie Stadt),98,,2020-03-24 11:20:23.848236
+226,Niedersachsen,Osnabrück (Landkreis),91,,2020-03-24 11:20:23.848236
+227,Niedersachsen,Osterholz (Landkreis),24,,2020-03-24 11:20:23.848236
+228,Niedersachsen,Peine (Landkreis),21,,2020-03-24 11:20:23.848236
+229,Niedersachsen,Region Hannover (Landkreis),346,2,2020-03-24 11:20:23.848236
+230,Niedersachsen,Rotenburg (Wümme) (Landkreis),26,,2020-03-24 11:20:23.848236
+231,Niedersachsen,Salzgitter (Kreisfreie Stadt),25,,2020-03-24 11:20:23.848236
+232,Niedersachsen,Schaumburg (Landkreis),29,,2020-03-24 11:20:23.848236
+233,Niedersachsen,Stade (Landkreis),64,,2020-03-24 11:20:23.848236
+234,Niedersachsen,Uelzen (Landkreis),11,,2020-03-24 11:20:23.848236
+235,Niedersachsen,Vechta (Landkreis),55,1,2020-03-24 11:20:23.848236
+236,Niedersachsen,Verden (Landkreis),27,,2020-03-24 11:20:23.848236
+237,Niedersachsen,Wesermarsch (Landkreis),9,,2020-03-24 11:20:23.848236
+238,Niedersachsen,Wilhelmshaven (Kreisfreie Stadt),5,,2020-03-24 11:20:23.848236
+239,Niedersachsen,Wittmund (Landkreis),4,,2020-03-24 11:20:23.848236
+240,Niedersachsen,Wolfenbüttel (Landkreis),6,,2020-03-24 11:20:23.848236
+241,Niedersachsen,Wolfsburg (Kreisfreie Stadt),27,1,2020-03-24 11:20:23.848236
+242,Nordrhein-Westfalen,Bielefeld (Kreisfreie Stadt),98,,2020-03-24 11:20:23.848236
+243,Nordrhein-Westfalen,Bochum (Kreisfreie Stadt),141,1,2020-03-24 11:20:23.848236
+244,Nordrhein-Westfalen,Bonn (Kreisfreie Stadt),157,,2020-03-24 11:20:23.848236
+245,Nordrhein-Westfalen,Borken (Kreis),282,,2020-03-24 11:20:23.848236
+246,Nordrhein-Westfalen,Bottrop (Kreisfreie Stadt),17,,2020-03-24 11:20:23.848236
+247,Nordrhein-Westfalen,Coesfeld (Kreis),152,,2020-03-24 11:20:23.848236
+248,Nordrhein-Westfalen,Dortmund (Kreisfreie Stadt),160,,2020-03-24 11:20:23.848236
+249,Nordrhein-Westfalen,Duisburg (Kreisfreie Stadt),133,,2020-03-24 11:20:23.848236
+250,Nordrhein-Westfalen,Düren (Kreis),142,1,2020-03-24 11:20:23.848236
+251,Nordrhein-Westfalen,Düsseldorf (Kreisfreie Stadt),205,1,2020-03-24 11:20:23.848236
+252,Nordrhein-Westfalen,Ennepe-Ruhr-Kreis (Kreis),76,1,2020-03-24 11:20:23.848236
+253,Nordrhein-Westfalen,Essen (Kreisfreie Stadt),228,1,2020-03-24 11:20:23.848236
+254,Nordrhein-Westfalen,Euskirchen (Kreis),53,,2020-03-24 11:20:23.848236
+255,Nordrhein-Westfalen,Gelsenkirchen (Kreisfreie Stadt),47,,2020-03-24 11:20:23.848236
+256,Nordrhein-Westfalen,Gütersloh (Kreis),224,,2020-03-24 11:20:23.848236
+257,Nordrhein-Westfalen,Hagen (Kreisfreie Stadt),43,,2020-03-24 11:20:23.848236
+258,Nordrhein-Westfalen,Hamm (Kreisfreie Stadt),85,,2020-03-24 11:20:23.848236
+259,Nordrhein-Westfalen,Heinsberg (Kreis),1004,21,2020-03-24 11:20:23.848236
+260,Nordrhein-Westfalen,Herford (Kreis),99,,2020-03-24 11:20:23.848236
+261,Nordrhein-Westfalen,Herne (Kreisfreie Stadt),23,,2020-03-24 11:20:23.848236
+262,Nordrhein-Westfalen,Hochsauerlandkreis (Kreis),131,,2020-03-24 11:20:23.848236
+263,Nordrhein-Westfalen,Höxter (Kreis),21,,2020-03-24 11:20:23.848236
+264,Nordrhein-Westfalen,Kleve (Kreis),109,,2020-03-24 11:20:23.848236
+265,Nordrhein-Westfalen,Köln (Kreisfreie Stadt),809,2,2020-03-24 11:20:23.848236
+266,Nordrhein-Westfalen,Krefeld (Kreisfreie Stadt),92,,2020-03-24 11:20:23.848236
+267,Nordrhein-Westfalen,Leverkusen (Kreisfreie Stadt),48,,2020-03-24 11:20:23.848236
+268,Nordrhein-Westfalen,Lippe (Kreis),170,1,2020-03-24 11:20:23.848236
+269,Nordrhein-Westfalen,Märkischer Kreis (Kreis),47,,2020-03-24 11:20:23.848236
+270,Nordrhein-Westfalen,Mettmann (Kreis),173,1,2020-03-24 11:20:23.848236
+271,Nordrhein-Westfalen,Minden-Lübbecke (Kreis),166,,2020-03-24 11:20:23.848236
+272,Nordrhein-Westfalen,Mönchengladbach (Kreisfreie Stadt),77,,2020-03-24 11:20:23.848236
+273,Nordrhein-Westfalen,Mülheim an der Ruhr (Kreisfreie Stadt),36,,2020-03-24 11:20:23.848236
+274,Nordrhein-Westfalen,Münster (Kreisfreie Stadt),276,,2020-03-24 11:20:23.848236
+275,Nordrhein-Westfalen,Oberbergischer Kreis (Kreis),94,0,2020-03-24 11:20:23.848236
+276,Nordrhein-Westfalen,Oberhausen (Kreisfreie Stadt),37,,2020-03-24 11:20:23.848236
+277,Nordrhein-Westfalen,Olpe (Kreis),19,,2020-03-24 11:20:23.848236
+278,Nordrhein-Westfalen,Paderborn (Kreis),92,,2020-03-24 11:20:23.848236
+279,Nordrhein-Westfalen,Recklinghausen (Kreis),150,,2020-03-24 11:20:23.848236
+280,Nordrhein-Westfalen,Remscheid (Kreisfreie Stadt),30,,2020-03-24 11:20:23.848236
+281,Nordrhein-Westfalen,Rhein-Erft-Kreis (Kreis),180,,2020-03-24 11:20:23.848236
+282,Nordrhein-Westfalen,Rhein-Kreis Neuss (Kreis),140,2,2020-03-24 11:20:23.848236
+283,Nordrhein-Westfalen,Rhein-Sieg-Kreis (Kreis),305,,2020-03-24 11:20:23.848236
+284,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis (Kreis),108,1,2020-03-24 11:20:23.848236
+285,Nordrhein-Westfalen,Siegen-Wittgenstein (Kreis),47,,2020-03-24 11:20:23.848236
+286,Nordrhein-Westfalen,Soest (Kreis),93,,2020-03-24 11:20:23.848236
+287,Nordrhein-Westfalen,Solingen (Kreisfreie Stadt),38,,2020-03-24 11:20:23.848236
+288,Nordrhein-Westfalen,Städteregion Aachen (Kreis),530,5,2020-03-24 11:20:23.848236
+289,Nordrhein-Westfalen,Steinfurt (Kreis),207,,2020-03-24 11:20:23.848236
+290,Nordrhein-Westfalen,Unna (Kreis),98,,2020-03-24 11:20:23.848236
+291,Nordrhein-Westfalen,Viersen (Kreis),123,1,2020-03-24 11:20:23.848236
+292,Nordrhein-Westfalen,Warendorf (Kreis),203,,2020-03-24 11:20:23.848236
+293,Nordrhein-Westfalen,Wesel (Kreis),132,,2020-03-24 11:20:23.848236
+294,Nordrhein-Westfalen,Wuppertal (Kreisfreie Stadt),74,1,2020-03-24 11:20:23.848236
+295,Rheinland-Pfalz,Ahrweiler (Landkreis),41,,2020-03-24 11:20:23.848236
+296,Rheinland-Pfalz,Altenkirchen (Westerwald) (Landkreis),17,,2020-03-24 11:20:23.848236
+297,Rheinland-Pfalz,Alzey-Worms (Landkreis),78,,2020-03-24 11:20:23.848236
+298,Rheinland-Pfalz,Bad Dürkheim (Landkreis),94,,2020-03-24 11:20:23.848236
+299,Rheinland-Pfalz,Bad Kreuznach (Landkreis),37,,2020-03-24 11:20:23.848236
+300,Rheinland-Pfalz,Bernkastel-Wittlich (Landkreis),22,,2020-03-24 11:20:23.848236
+301,Rheinland-Pfalz,Birkenfeld (Landkreis),10,,2020-03-24 11:20:23.848236
+302,Rheinland-Pfalz,Cochem-Zell (Landkreis),40,,2020-03-24 11:20:23.848236
+303,Rheinland-Pfalz,Donnersbergkreis (Landkreis),29,,2020-03-24 11:20:23.848236
+304,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm (Landkreis),46,,2020-03-24 11:20:23.848236
+305,Rheinland-Pfalz,Frankenthal (Pfalz) (Kreisfreie Stadt),11,,2020-03-24 11:20:23.848236
+306,Rheinland-Pfalz,Germersheim (Landkreis),25,,2020-03-24 11:20:23.848236
+307,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),21,,2020-03-24 11:20:23.848236
+308,Rheinland-Pfalz,Kaiserslautern (Landkreis),23,,2020-03-24 11:20:23.848236
+309,Rheinland-Pfalz,Koblenz (Kreisfreie Stadt),61,,2020-03-24 11:20:23.848236
+310,Rheinland-Pfalz,Kusel (Landkreis),23,,2020-03-24 11:20:23.848236
+311,Rheinland-Pfalz,Landau in der Pfalz (Kreisfreie Stadt),7,,2020-03-24 11:20:23.848236
+312,Rheinland-Pfalz,Ludwigshafen am Rhein (Kreisfreie Stadt),17,,2020-03-24 11:20:23.848236
+313,Rheinland-Pfalz,Mainz (Kreisfreie Stadt),82,,2020-03-24 11:20:23.848236
+314,Rheinland-Pfalz,Mainz-Bingen (Landkreis),57,,2020-03-24 11:20:23.848236
+315,Rheinland-Pfalz,Mayen-Koblenz (Landkreis),151,1,2020-03-24 11:20:23.848236
+316,Rheinland-Pfalz,Neustadt an der Weinstraße (Kreisfreie Stadt),11,1,2020-03-24 11:20:23.848236
+317,Rheinland-Pfalz,Neuwied (Landkreis),75,1,2020-03-24 11:20:23.848236
+318,Rheinland-Pfalz,Pirmasens (Kreisfreie Stadt),6,,2020-03-24 11:20:23.848236
+319,Rheinland-Pfalz,Rhein-Hunsrück-Kreis (Landkreis),48,,2020-03-24 11:20:23.848236
+320,Rheinland-Pfalz,Rhein-Lahn-Kreis (Landkreis),37,,2020-03-24 11:20:23.848236
+321,Rheinland-Pfalz,Rhein-Pfalz-Kreis (Landkreis),9,,2020-03-24 11:20:23.848236
+322,Rheinland-Pfalz,Speyer (Kreisfreie Stadt),7,,2020-03-24 11:20:23.848236
+323,Rheinland-Pfalz,Südliche Weinstraße (Landkreis),32,,2020-03-24 11:20:23.848236
+324,Rheinland-Pfalz,Südwestpfalz (Landkreis),16,,2020-03-24 11:20:23.848236
+325,Rheinland-Pfalz,Trier (Kreisfreie Stadt),11,,2020-03-24 11:20:23.848236
+326,Rheinland-Pfalz,Trier-Saarburg (Landkreis),19,,2020-03-24 11:20:23.848236
+327,Rheinland-Pfalz,Vulkaneifel (Landkreis),29,,2020-03-24 11:20:23.848236
+328,Rheinland-Pfalz,Westerwaldkreis (Landkreis),78,1,2020-03-24 11:20:23.848236
+329,Rheinland-Pfalz,Worms (Kreisfreie Stadt),12,,2020-03-24 11:20:23.848236
+330,Rheinland-Pfalz,Zweibrücken (Kreisfreie Stadt),3,,2020-03-24 11:20:23.848236
+331,Saarland,Merzig-Wadern (Landkreis),24,,2020-03-24 11:20:23.848236
+332,Saarland,Neunkirchen (Landkreis),47,,2020-03-24 11:20:23.848236
+333,Saarland,Regionalverband Saarbrücken (Landkreis),147,,2020-03-24 11:20:23.848236
+334,Saarland,Saarlouis (Landkreis),54,,2020-03-24 11:20:23.848236
+335,Saarland,Saarpfalz-Kreis (Landkreis),60,1,2020-03-24 11:20:23.848236
+336,Saarland,St. Wendel (Landkreis),51,,2020-03-24 11:20:23.848236
+337,Sachsen,Bautzen (Landkreis),85,1,2020-03-24 11:20:23.848236
+338,Sachsen,Chemnitz (Kreisfreie Stadt),55,,2020-03-24 11:20:23.848236
+339,Sachsen,Dresden (Kreisfreie Stadt),123,,2020-03-24 11:20:23.848236
+340,Sachsen,Erzgebirgskreis (Landkreis),44,,2020-03-24 11:20:23.848236
+341,Sachsen,Görlitz (Landkreis),28,,2020-03-24 11:20:23.848236
+342,Sachsen,Leipzig (Kreisfreie Stadt),161,,2020-03-24 11:20:23.848236
+343,Sachsen,Leipzig (Landkreis),45,,2020-03-24 11:20:23.848236
+344,Sachsen,Meißen (Landkreis),26,,2020-03-24 11:20:23.848236
+345,Sachsen,Mittelsachsen (Landkreis),34,,2020-03-24 11:20:23.848236
+346,Sachsen,Nordsachsen (Landkreis),13,,2020-03-24 11:20:23.848236
+347,Sachsen,Sächsische Schweiz-Osterzgebirge (Landkreis),60,,2020-03-24 11:20:23.848236
+348,Sachsen,Vogtlandkreis (Landkreis),16,,2020-03-24 11:20:23.848236
+349,Sachsen,Zwickau (Landkreis),175,,2020-03-24 11:20:23.848236
+350,Sachsen-Anhalt,Altmarkkreis Salzwedel (Landkreis),6,,2020-03-24 11:20:23.848236
+351,Sachsen-Anhalt,Anhalt-Bitterfeld (Landkreis),16,,2020-03-24 11:20:23.848236
+352,Sachsen-Anhalt,Börde (Landkreis),36,,2020-03-24 11:20:23.848236
+353,Sachsen-Anhalt,Burgenlandkreis (Landkreis),15,,2020-03-24 11:20:23.848236
+354,Sachsen-Anhalt,Dessau-Roßlau (Kreisfreie Stadt),12,,2020-03-24 11:20:23.848236
+355,Sachsen-Anhalt,Halle (Saale) (Kreisfreie Stadt),72,1,2020-03-24 11:20:23.848236
+356,Sachsen-Anhalt,Harz (Landkreis),12,,2020-03-24 11:20:23.848236
+357,Sachsen-Anhalt,Jerichower Land (Landkreis),7,,2020-03-24 11:20:23.848236
+358,Sachsen-Anhalt,Magdeburg (Kreisfreie Stadt),39,,2020-03-24 11:20:23.848236
+359,Sachsen-Anhalt,Mansfeld-Südharz (Landkreis),12,,2020-03-24 11:20:23.848236
+360,Sachsen-Anhalt,Saalekreis (Landkreis),21,,2020-03-24 11:20:23.848236
+361,Sachsen-Anhalt,Salzlandkreis (Landkreis),26,,2020-03-24 11:20:23.848236
+362,Sachsen-Anhalt,Stendal (Landkreis),10,,2020-03-24 11:20:23.848236
+363,Sachsen-Anhalt,Wittenberg (Landkreis),19,,2020-03-24 11:20:23.848236
+364,Schleswig-Holstein,Dithmarschen (Kreis),12,,2020-03-24 11:20:23.848236
+365,Schleswig-Holstein,Flensburg (Kreisfreie Stadt),13,,2020-03-24 11:20:23.848236
+366,Schleswig-Holstein,Herzogtum Lauenburg (Kreis),39,,2020-03-24 11:20:23.848236
+367,Schleswig-Holstein,Kiel (Kreisfreie Stadt),41,,2020-03-24 11:20:23.848236
+368,Schleswig-Holstein,Lübeck (Kreisfreie Stadt),57,1,2020-03-24 11:20:23.848236
+369,Schleswig-Holstein,Neumünster (Kreisfreie Stadt),7,,2020-03-24 11:20:23.848236
+370,Schleswig-Holstein,Nordfriesland (Kreis),19,,2020-03-24 11:20:23.848236
+371,Schleswig-Holstein,Ostholstein (Kreis),13,,2020-03-24 11:20:23.848236
+372,Schleswig-Holstein,Pinneberg (Kreis),88,,2020-03-24 11:20:23.848236
+373,Schleswig-Holstein,Plön (Kreis),19,,2020-03-24 11:20:23.848236
+374,Schleswig-Holstein,Rendsburg-Eckernförde (Kreis),37,,2020-03-24 11:20:23.848236
+375,Schleswig-Holstein,Schleswig-Flensburg (Kreis),27,,2020-03-24 11:20:23.848236
+376,Schleswig-Holstein,Segeberg (Kreis),30,,2020-03-24 11:20:23.848236
+377,Schleswig-Holstein,Steinburg (Kreis),13,,2020-03-24 11:20:23.848236
+378,Schleswig-Holstein,Stormarn (Kreis),52,,2020-03-24 11:20:23.848236
+379,Thüringen,Altenburger Land (Landkreis),8,,2020-03-24 11:20:23.848236
+380,Thüringen,Eichsfeld (Landkreis),18,,2020-03-24 11:20:23.848236
+381,Thüringen,Eisenach (Kreisfreie Stadt),1,,2020-03-24 11:20:23.848236
+382,Thüringen,Erfurt (Kreisfreie Stadt),29,,2020-03-24 11:20:23.848236
+383,Thüringen,Gera (Kreisfreie Stadt),4,,2020-03-24 11:20:23.848236
+384,Thüringen,Gotha (Landkreis),4,,2020-03-24 11:20:23.848236
+385,Thüringen,Greiz (Landkreis),45,,2020-03-24 11:20:23.848236
+386,Thüringen,Hildburghausen (Landkreis),1,,2020-03-24 11:20:23.848236
+387,Thüringen,Ilm-Kreis (Landkreis),11,,2020-03-24 11:20:23.848236
+388,Thüringen,Jena (Kreisfreie Stadt),21,1,2020-03-24 11:20:23.848236
+389,Thüringen,Kyffhäuserkreis (Landkreis),12,,2020-03-24 11:20:23.848236
+390,Thüringen,Nordhausen (Landkreis),3,,2020-03-24 11:20:23.848236
+391,Thüringen,Saale-Holzland-Kreis (Landkreis),17,,2020-03-24 11:20:23.848236
+392,Thüringen,Saale-Orla-Kreis (Landkreis),7,,2020-03-24 11:20:23.848236
+393,Thüringen,Saalfeld-Rudolstadt (Landkreis),17,,2020-03-24 11:20:23.848236
+394,Thüringen,Schmalkalden-Meiningen (Landkreis),13,,2020-03-24 11:20:23.848236
+395,Thüringen,Sömmerda (Landkreis),6,,2020-03-24 11:20:23.848236
+396,Thüringen,Sonneberg (Landkreis),6,,2020-03-24 11:20:23.848236
+397,Thüringen,Suhl (Kreisfreie Stadt),4,,2020-03-24 11:20:23.848236
+398,Thüringen,Unstrut-Hainich-Kreis (Landkreis),5,,2020-03-24 11:20:23.848236
+399,Thüringen,Wartburgkreis (Landkreis),9,,2020-03-24 11:20:23.848236
+400,Thüringen,Weimar (Kreisfreie Stadt),10,,2020-03-24 11:20:23.848236
+401,Thüringen,Weimarer Land (Landkreis),12,,2020-03-24 11:20:23.848236
