@@ -247,15 +247,16 @@ lo = sm.Logit(yt,X)
 resl = lo.fit()
 
 #exponential model for only last days
-lm1 = sm.OLS(np.append(y[0],y[-6:]),np.append(X[0],X[-6:]).reshape(7,2))
+#lm1 = sm.OLS(np.append(y[0],y[-6:]),np.append(X[0],X[-6:]).reshape(7,2))
+lm1 = sm.OLS(y[-6:],X[-6:,:])
 res1 = lm1.fit()
 #res1.params
 
 
 fig = go.Figure()
 fig.add_trace(go.Scatter(x=dc.index,y=dc[dc.columns[0]],mode='markers', name=dc.columns[0]))
-fig.add_trace(go.Scatter(x=dc.index[0]+pd.to_timedelta(np.arange(dran*10)/10., unit='d'), y=np.exp(res.predict(sm.add_constant(np.arange(dran*10)/10.))),line=dict(dash='dash', width=1),name='Exponential Model'))
-fig.add_trace(go.Scatter(x=dc.index[0]+pd.to_timedelta(np.arange(dran*10)/10., unit='d'), y=np.exp(res1.predict(sm.add_constant(np.arange(dran*10)/10.))),line=dict(dash='dash', width=1),name='Exponential Model (fitted to last days)'))
+fig.add_trace(go.Scatter(x=dc.index[0]+pd.to_timedelta(np.arange(dran*10)/10., unit='d'), y=np.exp(res.predict(sm.add_constant(np.arange(dran*10)/10.))),line=dict(dash='dash', width=1),name='Exponential Model (2x in '+str(np.round(np.log(2)/res.params[1],2))+' Tagen)'))
+fig.add_trace(go.Scatter(x=dc.index[0]+pd.to_timedelta(np.arange(dran*10)/10., unit='d'), y=np.exp(res1.predict(sm.add_constant(np.arange(dran*10)/10.))),line=dict(dash='dash', width=1),name='Exponentielles Model (letzte 5 Tage, 2x in '+str(np.round(np.log(2)/res1.params[1],2))+' Tagen)'))
 fig.add_trace(go.Scatter(x=dc.index[0]+pd.to_timedelta(np.arange(dran*10)/10., unit='d'), y=resl.predict(sm.add_constant(np.arange(dran*10)/10.))*(dcmx*scmax),line=dict(dash='dash', width=1),name='Logistic Model'))
 
 if linscaley:
