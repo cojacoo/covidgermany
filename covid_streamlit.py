@@ -38,53 +38,82 @@ def exp_reg_last(dc,lastn=5):
 
 @st.cache
 def load_data():
-    #get file list
-    fi = glob.glob("./corona_*")
-    
-    #read all files into dataframe
-    dummy = pd.read_csv(fi[0],index_col=0).loc[:401]
-    dummy_cases = dummy.iloc[1:,:2].copy()
-    dummy_kausali = dummy.iloc[1:,:2].copy()
-    
-    for fix in fi:
-        dummy = pd.read_csv(fix,index_col=0).loc[:401]
-        cases = pd.DataFrame(dummy.iloc[1:,2],dtype=float)
-        cases.columns = [pd.to_datetime(dummy.iloc[1,-1])]
-        dummy_cases = pd.concat([dummy_cases,cases],axis=1)
+    import os 
+    import time
+    import datetime
+
+    try:
+        dummyt = pd.to_datetime(time.ctime(os.path.getmtime('dummy_casesx2.csv')))
+    except:
+        dummyt = pd.to_datetime('2020-03-01 00:10')
+
+    if (pd.to_datetime(datetime.datetime.now())-dummyt).days > 0:
+        #reload all data
+        data_load_state = st.text('Loading data and running initial analyses...')
+        #get file list
+        fi = glob.glob("./corona_*")
         
-        if np.shape(dummy)[1]==5:
-            kausali = pd.DataFrame(dummy.iloc[1:,3],dtype=float)
-            kausali.columns = [pd.to_datetime(dummy.iloc[1,-1])]
-            dummy_kausali = pd.concat([dummy_kausali,kausali],axis=1)
-
-    LKx = pd.read_csv('LKposi.csv',index_col=0)
-    dummy_cases = pd.concat([LKx,dummy_cases[dummy_cases.columns[2:].sort_values()]],axis=1)
-    dummy_kausali = pd.concat([LKx,dummy_kausali[dummy_kausali.columns[2:].sort_values()]],axis=1)
-
-    dummy_casesx = dummy_cases.iloc[:,5:].T
-    dummy_casesx.index = pd.to_datetime(dummy_casesx.index)
+        #read all files into dataframe
+        dummy = pd.read_csv(fi[0],index_col=0).loc[:401]
+        dummy_cases = dummy.iloc[1:,:2].copy()
+        dummy_kausali = dummy.iloc[1:,:2].copy()
+        
+        for fix in fi:
+            dummy = pd.read_csv(fix,index_col=0).loc[:401]
+            cases = pd.DataFrame(dummy.iloc[1:,2],dtype=float)
+            cases.columns = [pd.to_datetime(dummy.iloc[1,-1])]
+            dummy_cases = pd.concat([dummy_cases,cases],axis=1)
+            
+            if np.shape(dummy)[1]==5:
+                kausali = pd.DataFrame(dummy.iloc[1:,3],dtype=float)
+                kausali.columns = [pd.to_datetime(dummy.iloc[1,-1])]
+                dummy_kausali = pd.concat([dummy_kausali,kausali],axis=1)
     
-    dummy_casesx2 = dummy_casesx.resample('1D').max().T
-    dummy_increase = dummy_casesx.resample('1D').max().T.diff(2,1)
+        LKx = pd.read_csv('LKposi.csv',index_col=0)
+        dummy_cases = pd.concat([LKx,dummy_cases[dummy_cases.columns[2:].sort_values()]],axis=1)
+        dummy_kausali = pd.concat([LKx,dummy_kausali[dummy_kausali.columns[2:].sort_values()]],axis=1)
     
-    dummy_frowfac = dummy_increase.copy()*np.nan
-    dummy_double = dummy_increase.copy()*np.nan
-    for i in np.arange(len(dummy_frowfac.columns))[1:][::-1]:
-        dummy_frowfac.iloc[:,i] = dummy_frowfac.iloc[:,i].div(dummy_frowfac.iloc[:,i-1])
+        dummy_casesx = dummy_cases.iloc[:,5:].T
+        dummy_casesx.index = pd.to_datetime(dummy_casesx.index)
+        
+        dummy_casesx2 = dummy_casesx.resample('1D').max().T
+        dummy_increase = dummy_casesx.resample('1D').max().T.diff(2,1)
+        
+        dummy_frowfac = dummy_increase.copy()*np.nan
+        dummy_double = dummy_increase.copy()*np.nan
+        for i in np.arange(len(dummy_frowfac.columns))[1:][::-1]:
+            dummy_frowfac.iloc[:,i] = dummy_frowfac.iloc[:,i].div(dummy_frowfac.iloc[:,i-1])
+    
+        for i in dummy_casesx2.index:
+            for j in np.arange(len(dummy_casesx2.columns))[5:]:
+                try:
+                    res = exp_reg_last(dummy_casesx2.loc[i,dummy_double.columns[:j]])
+                    dummy_double.loc[i,dummy_double.columns[j]] = np.round(np.log(2)/res.params[1],2)
+                except:
+                    pass
+        data_load_state.text('Loading data... done!')
+    
+        #store results
+        dummy_casesx2.to_csv('dummy_casesx2.csv')
+        dummy_increase.to_csv('dummy_increase.csv')
+        dummy_frowfac.to_csv('dummy_frowfac.csv')
+        dummy_double.to_csv('dummy_double.csv')
 
-    for i in dummy_casesx2.index:
-        for j in np.arange(len(dummy_casesx2.columns))[5:]:
-            try:
-                res = exp_reg_last(dummy_casesx2.loc[i,dummy_double.columns[:j]])
-                dummy_double.loc[i,dummy_double.columns[j]] = np.round(np.log(2)/res.params[1],2)
-            except:
-                pass
+    else:
+        #use stored results:
+        LKx = pd.read_csv('LKposi.csv',index_col=0)
+        dummy_casesx2 = pd.read_csv('dummy_casesx2.csv',index_col=0)
+        dummy_casesx2.columns = pd.to_datetime(dummy_casesx2.columns)
+        dummy_increase = pd.read_csv('dummy_increase.csv',index_col=0)
+        dummy_increase.columns = pd.to_datetime(dummy_increase.columns)
+        dummy_frowfac = pd.read_csv('dummy_frowfac.csv',index_col=0)
+        dummy_frowfac.columns = pd.to_datetime(dummy_frowfac.columns)
+        dummy_double = pd.read_csv('dummy_double.csv',index_col=0)
+        dummy_double.columns = pd.to_datetime(dummy_double.columns)
 
     return [pd.concat([LKx,dummy_casesx2],axis=1),dummy_increase,dummy_frowfac,dummy_double,LKx]
 
-data_load_state = st.text('Loading data and running initial analyses...')
 [data_case,data_increase,data_frowfac,data_double,LKx] = load_data()
-data_load_state.text('Loading data... done!')
 
 
 def get_table_download_link(df):
