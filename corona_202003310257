@@ -1,0 +1,779 @@
+,Bundesland,Landkreis,Faelle,Kausali,Zeit
+0,Bundesland,NAME_DE,FÃ¤lle,Anzahl Tote,2020-03-31 02:57:50.032878
+1,Baden-Württemberg,Alb-Donau-Kreis (Landkreis),217,,2020-03-31 02:57:50.032878
+2,Baden-Württemberg,Baden-Baden (Stadtkreis),73,3,2020-03-31 02:57:50.032878
+3,Baden-Württemberg,Biberach (Landkreis),216,2,2020-03-31 02:57:50.032878
+4,Baden-Württemberg,Böblingen (Landkreis),413,8,2020-03-31 02:57:50.032878
+5,Baden-Württemberg,Bodenseekreis (Landkreis),186,1,2020-03-31 02:57:50.032878
+6,Baden-Württemberg,Breisgau-Hochschwarzwald (Landkreis),392,7,2020-03-31 02:57:50.032878
+7,Baden-Württemberg,Calw (Landkreis),295,2,2020-03-31 02:57:50.032878
+8,Baden-Württemberg,Emmendingen (Landkreis),264,12,2020-03-31 02:57:50.032878
+9,Baden-Württemberg,Enzkreis (Landkreis),115,1,2020-03-31 02:57:50.032878
+10,Baden-Württemberg,Esslingen (Landkreis),761,11,2020-03-31 02:57:50.032878
+11,Baden-Württemberg,Freiburg im Breisgau (Stadtkreis),414,11,2020-03-31 02:57:50.032878
+12,Baden-Württemberg,Freudenstadt (Landkreis),154,,2020-03-31 02:57:50.032878
+13,Baden-Württemberg,Göppingen (Landkreis),361,9,2020-03-31 02:57:50.032878
+14,Baden-Württemberg,Heidelberg (Stadtkreis),148,,2020-03-31 02:57:50.032878
+15,Baden-Württemberg,Heidenheim (Landkreis),160,4,2020-03-31 02:57:50.032878
+16,Baden-Württemberg,Heilbronn (Landkreis),390,5,2020-03-31 02:57:50.032878
+17,Baden-Württemberg,Heilbronn (Stadtkreis),147,,2020-03-31 02:57:50.032878
+18,Baden-Württemberg,Hohenlohekreis (Landkreis),453,9,2020-03-31 02:57:50.032878
+19,Baden-Württemberg,Karlsruhe (Landkreis),246,3,2020-03-31 02:57:50.032878
+20,Baden-Württemberg,Karlsruhe (Stadtkreis),119,,2020-03-31 02:57:50.032878
+21,Baden-Württemberg,Konstanz (Landkreis),144,1,2020-03-31 02:57:50.032878
+22,Baden-Württemberg,Lörrach (Landkreis),216,3,2020-03-31 02:57:50.032878
+23,Baden-Württemberg,Ludwigsburg (Landkreis),671,6,2020-03-31 02:57:50.032878
+24,Baden-Württemberg,Main-Tauber-Kreis (Landkreis),112,,2020-03-31 02:57:50.032878
+25,Baden-Württemberg,Mannheim (Stadtkreis),213,,2020-03-31 02:57:50.032878
+26,Baden-Württemberg,Neckar-Odenwald-Kreis (Landkreis),86,2,2020-03-31 02:57:50.032878
+27,Baden-Württemberg,Ortenaukreis (Landkreis),316,15,2020-03-31 02:57:50.032878
+28,Baden-Württemberg,Ostalbkreis (Landkreis),273,,2020-03-31 02:57:50.032878
+29,Baden-Württemberg,Pforzheim (Stadtkreis),40,,2020-03-31 02:57:50.032878
+30,Baden-Württemberg,Rastatt (Landkreis),277,,2020-03-31 02:57:50.032878
+31,Baden-Württemberg,Ravensburg (Landkreis),321,,2020-03-31 02:57:50.032878
+32,Baden-Württemberg,Rems-Murr-Kreis (Landkreis),285,3,2020-03-31 02:57:50.032878
+33,Baden-Württemberg,Reutlingen (Landkreis),260,6,2020-03-31 02:57:50.032878
+34,Baden-Württemberg,Rhein-Neckar-Kreis (Landkreis),564,4,2020-03-31 02:57:50.032878
+35,Baden-Württemberg,Rottweil (Landkreis),109,3,2020-03-31 02:57:50.032878
+36,Baden-Württemberg,Schwäbisch Hall (Landkreis),316,9,2020-03-31 02:57:50.032878
+37,Baden-Württemberg,Schwarzwald-Baar-Kreis (Landkreis),187,2,2020-03-31 02:57:50.032878
+38,Baden-Württemberg,Sigmaringen (Landkreis),311,3,2020-03-31 02:57:50.032878
+39,Baden-Württemberg,Stuttgart (Stadtkreis),705,7,2020-03-31 02:57:50.032878
+40,Baden-Württemberg,Tübingen (Landkreis),636,4,2020-03-31 02:57:50.032878
+41,Baden-Württemberg,Tuttlingen (Landkreis),142,3,2020-03-31 02:57:50.032878
+42,Baden-Württemberg,Ulm (Stadtkreis),112,,2020-03-31 02:57:50.032878
+43,Baden-Württemberg,Waldshut (Landkreis),91,1,2020-03-31 02:57:50.032878
+44,Baden-Württemberg,Zollernalbkreis (Landkreis),346,4,2020-03-31 02:57:50.032878
+45,Bayern,Aichach-Friedberg (Landkreis),113,1,2020-03-31 02:57:50.032878
+46,Bayern,Altötting (Landkreis),122,3,2020-03-31 02:57:50.032878
+47,Bayern,Amberg (Kreisfreie Stadt),9,,2020-03-31 02:57:50.032878
+48,Bayern,Amberg-Sulzbach (Landkreis),56,3,2020-03-31 02:57:50.032878
+49,Bayern,Ansbach (Kreisfreie Stadt),19,,2020-03-31 02:57:50.032878
+50,Bayern,Ansbach (Landkreis),149,,2020-03-31 02:57:50.032878
+51,Bayern,Aschaffenburg (Kreisfreie Stadt),46,,2020-03-31 02:57:50.032878
+52,Bayern,Aschaffenburg (Landkreis),123,3,2020-03-31 02:57:50.032878
+53,Bayern,Augsburg (Kreisfreie Stadt),152,2,2020-03-31 02:57:50.032878
+54,Bayern,Augsburg (Landkreis),162,,2020-03-31 02:57:50.032878
+55,Bayern,Bad Kissingen (Landkreis),69,,2020-03-31 02:57:50.032878
+56,Bayern,Bad Tölz-Wolfratshausen (Landkreis),160,,2020-03-31 02:57:50.032878
+57,Bayern,Bamberg (Kreisfreie Stadt),55,,2020-03-31 02:57:50.032878
+58,Bayern,Bamberg (Landkreis),144,1,2020-03-31 02:57:50.032878
+59,Bayern,Bayreuth (Kreisfreie Stadt),49,1,2020-03-31 02:57:50.032878
+60,Bayern,Bayreuth (Landkreis),105,2,2020-03-31 02:57:50.032878
+61,Bayern,Berchtesgadener Land (Landkreis),79,,2020-03-31 02:57:50.032878
+62,Bayern,Cham (Landkreis),162,,2020-03-31 02:57:50.032878
+63,Bayern,Coburg (Kreisfreie Stadt),22,,2020-03-31 02:57:50.032878
+64,Bayern,Coburg (Landkreis),50,,2020-03-31 02:57:50.032878
+65,Bayern,Dachau (Landkreis),201,1,2020-03-31 02:57:50.032878
+66,Bayern,Deggendorf (Landkreis),115,2,2020-03-31 02:57:50.032878
+67,Bayern,Dillingen a.d. Donau (Landkreis),48,1,2020-03-31 02:57:50.032878
+68,Bayern,Dingolfing-Landau (Landkreis),92,1,2020-03-31 02:57:50.032878
+69,Bayern,Donau-Ries (Landkreis),85,2,2020-03-31 02:57:50.032878
+70,Bayern,Ebersberg (Landkreis),176,,2020-03-31 02:57:50.032878
+71,Bayern,Eichstätt (Landkreis),71,,2020-03-31 02:57:50.032878
+72,Bayern,Erding (Landkreis),291,,2020-03-31 02:57:50.032878
+73,Bayern,Erlangen (Kreisfreie Stadt),53,,2020-03-31 02:57:50.032878
+74,Bayern,Erlangen-Höchstadt (Landkreis),57,1,2020-03-31 02:57:50.032878
+75,Bayern,Forchheim (Landkreis),84,1,2020-03-31 02:57:50.032878
+76,Bayern,Freising (Landkreis),448,6,2020-03-31 02:57:50.032878
+77,Bayern,Freyung-Grafenau (Landkreis),80,1,2020-03-31 02:57:50.032878
+78,Bayern,Fürstenfeldbruck (Landkreis),320,2,2020-03-31 02:57:50.032878
+79,Bayern,Fürth (Kreisfreie Stadt),76,1,2020-03-31 02:57:50.032878
+80,Bayern,Fürth (Landkreis),88,3,2020-03-31 02:57:50.032878
+81,Bayern,Garmisch-Partenkirchen (Landkreis),107,,2020-03-31 02:57:50.032878
+82,Bayern,Günzburg (Landkreis),101,,2020-03-31 02:57:50.032878
+83,Bayern,Haßberge (Landkreis),48,,2020-03-31 02:57:50.032878
+84,Bayern,Hof (Kreisfreie Stadt),33,,2020-03-31 02:57:50.032878
+85,Bayern,Hof (Landkreis),104,,2020-03-31 02:57:50.032878
+86,Bayern,Ingolstadt (Kreisfreie Stadt),73,,2020-03-31 02:57:50.032878
+87,Bayern,Kaufbeuren (Kreisfreie Stadt),31,,2020-03-31 02:57:50.032878
+88,Bayern,Kelheim (Landkreis),123,3,2020-03-31 02:57:50.032878
+89,Bayern,Kempten (Allgäu) (Kreisfreie Stadt),40,2,2020-03-31 02:57:50.032878
+90,Bayern,Kitzingen (Landkreis),29,,2020-03-31 02:57:50.032878
+91,Bayern,Kronach (Landkreis),50,,2020-03-31 02:57:50.032878
+92,Bayern,Kulmbach (Landkreis),61,,2020-03-31 02:57:50.032878
+93,Bayern,Landsberg am Lech (Landkreis),135,2,2020-03-31 02:57:50.032878
+94,Bayern,Landshut (Kreisfreie Stadt),93,,2020-03-31 02:57:50.032878
+95,Bayern,Landshut (Landkreis),248,1,2020-03-31 02:57:50.032878
+96,Bayern,Lichtenfels (Landkreis),77,,2020-03-31 02:57:50.032878
+97,Bayern,Lindau (Bodensee) (Landkreis),120,1,2020-03-31 02:57:50.032878
+98,Bayern,Main-Spessart (Landkreis),61,1,2020-03-31 02:57:50.032878
+99,Bayern,Memmingen (Kreisfreie Stadt),26,,2020-03-31 02:57:50.032878
+100,Bayern,Miesbach (Landkreis),282,,2020-03-31 02:57:50.032878
+101,Bayern,Miltenberg (Landkreis),97,,2020-03-31 02:57:50.032878
+102,Bayern,Mühldorf a. Inn (Landkreis),145,2,2020-03-31 02:57:50.032878
+103,Bayern,München (Kreisfreie Stadt),2296,5,2020-03-31 02:57:50.032878
+104,Bayern,München (Landkreis),562,5,2020-03-31 02:57:50.032878
+105,Bayern,Neu-Ulm (Landkreis),130,1,2020-03-31 02:57:50.032878
+106,Bayern,Neuburg-Schrobenhausen (Landkreis),78,,2020-03-31 02:57:50.032878
+107,Bayern,Neumarkt i.d. OPf. (Landkreis),87,2,2020-03-31 02:57:50.032878
+108,Bayern,Neustadt a.d. Aisch-Bad Windsheim (Landkreis),53,,2020-03-31 02:57:50.032878
+109,Bayern,Neustadt a.d. Waldnaab (Landkreis),184,3,2020-03-31 02:57:50.032878
+110,Bayern,Nürnberg (Kreisfreie Stadt),232,,2020-03-31 02:57:50.032878
+111,Bayern,Nürnberger Land (Landkreis),144,3,2020-03-31 02:57:50.032878
+112,Bayern,Oberallgäu (Landkreis),90,1,2020-03-31 02:57:50.032878
+113,Bayern,Ostallgäu (Landkreis),149,4,2020-03-31 02:57:50.032878
+114,Bayern,Passau (Kreisfreie Stadt),37,1,2020-03-31 02:57:50.032878
+115,Bayern,Passau (Landkreis),108,1,2020-03-31 02:57:50.032878
+116,Bayern,Pfaffenhofen a.d. Ilm (Landkreis),106,,2020-03-31 02:57:50.032878
+117,Bayern,Regen (Landkreis),40,,2020-03-31 02:57:50.032878
+118,Bayern,Regensburg (Kreisfreie Stadt),158,1,2020-03-31 02:57:50.032878
+119,Bayern,Regensburg (Landkreis),156,,2020-03-31 02:57:50.032878
+120,Bayern,Rhön-Grabfeld (Landkreis),37,,2020-03-31 02:57:50.032878
+121,Bayern,Rosenheim (Kreisfreie Stadt),124,,2020-03-31 02:57:50.032878
+122,Bayern,Rosenheim (Landkreis),738,7,2020-03-31 02:57:50.032878
+123,Bayern,Roth (Landkreis),82,1,2020-03-31 02:57:50.032878
+124,Bayern,Rottal-Inn (Landkreis),224,,2020-03-31 02:57:50.032878
+125,Bayern,Schwabach (Kreisfreie Stadt),25,,2020-03-31 02:57:50.032878
+126,Bayern,Schwandorf (Landkreis),109,1,2020-03-31 02:57:50.032878
+127,Bayern,Schweinfurt (Kreisfreie Stadt),31,3,2020-03-31 02:57:50.032878
+128,Bayern,Schweinfurt (Landkreis),100,,2020-03-31 02:57:50.032878
+129,Bayern,Starnberg (Landkreis),246,1,2020-03-31 02:57:50.032878
+130,Bayern,Straubing (Kreisfreie Stadt),78,1,2020-03-31 02:57:50.032878
+131,Bayern,Straubing-Bogen (Landkreis),86,,2020-03-31 02:57:50.032878
+132,Bayern,Tirschenreuth (Landkreis),416,17,2020-03-31 02:57:50.032878
+133,Bayern,Traunstein (Landkreis),226,3,2020-03-31 02:57:50.032878
+134,Bayern,Unterallgäu (Landkreis),119,2,2020-03-31 02:57:50.032878
+135,Bayern,Weiden i.d. OPf. (Kreisfreie Stadt),64,,2020-03-31 02:57:50.032878
+136,Bayern,Weilheim-Schongau (Landkreis),187,1,2020-03-31 02:57:50.032878
+137,Bayern,Weißenburg-Gunzenhausen (Landkreis),88,1,2020-03-31 02:57:50.032878
+138,Bayern,Wunsiedel i. Fichtelgebirge (Landkreis),186,6,2020-03-31 02:57:50.032878
+139,Bayern,Würzburg (Kreisfreie Stadt),250,13,2020-03-31 02:57:50.032878
+140,Bayern,Würzburg (Landkreis),196,0,2020-03-31 02:57:50.032878
+141,Berlin,Berlin (Kreisfreie Stadt),2581,13,2020-03-31 02:57:50.032878
+142,Brandenburg,Barnim (Landkreis),71,,2020-03-31 02:57:50.032878
+143,Brandenburg,Brandenburg an der Havel (Kreisfreie Stadt),17,,2020-03-31 02:57:50.032878
+144,Brandenburg,Cottbus (Kreisfreie Stadt),31,,2020-03-31 02:57:50.032878
+145,Brandenburg,Dahme-Spreewald (Landkreis),70,,2020-03-31 02:57:50.032878
+146,Brandenburg,Elbe-Elster (Landkreis),27,,2020-03-31 02:57:50.032878
+147,Brandenburg,Frankfurt (Oder) (Kreisfreie Stadt),6,,2020-03-31 02:57:50.032878
+148,Brandenburg,Havelland (Landkreis),48,,2020-03-31 02:57:50.032878
+149,Brandenburg,Märkisch-Oderland (Landkreis),80,,2020-03-31 02:57:50.032878
+150,Brandenburg,Oberhavel (Landkreis),96,1,2020-03-31 02:57:50.032878
+151,Brandenburg,Oberspreewald-Lausitz (Landkreis),18,,2020-03-31 02:57:50.032878
+152,Brandenburg,Oder-Spree (Landkreis),75,,2020-03-31 02:57:50.032878
+153,Brandenburg,Ostprignitz-Ruppin (Landkreis),13,,2020-03-31 02:57:50.032878
+154,Brandenburg,Potsdam (Kreisfreie Stadt),139,3,2020-03-31 02:57:50.032878
+155,Brandenburg,Potsdam-Mittelmark (Landkreis),98,,2020-03-31 02:57:50.032878
+156,Brandenburg,Prignitz (Landkreis),9,,2020-03-31 02:57:50.032878
+157,Brandenburg,Spree-Neiße (Landkreis),43,,2020-03-31 02:57:50.032878
+158,Brandenburg,Teltow-Fläming (Landkreis),43,,2020-03-31 02:57:50.032878
+159,Brandenburg,Uckermark (Landkreis),10,,2020-03-31 02:57:50.032878
+160,Bremen,Bremen (Kreisfreie Stadt),277,4,2020-03-31 02:57:50.032878
+161,Bremen,Bremerhaven (Kreisfreie Stadt),20,,2020-03-31 02:57:50.032878
+162,Hamburg,Hamburg (Kreisfreie Stadt),2214,7,2020-03-31 02:57:50.032878
+163,Hessen,Bergstraße (Landkreis),152,1,2020-03-31 02:57:50.032878
+164,Hessen,Darmstadt (Kreisfreie Stadt),61,,2020-03-31 02:57:50.032878
+165,Hessen,Darmstadt-Dieburg (Landkreis),161,1,2020-03-31 02:57:50.032878
+166,Hessen,Frankfurt am Main (Kreisfreie Stadt),352,2,2020-03-31 02:57:50.032878
+167,Hessen,Fulda (Landkreis),148,1,2020-03-31 02:57:50.032878
+168,Hessen,Gießen (Landkreis),122,0,2020-03-31 02:57:50.032878
+169,Hessen,Groß-Gerau (Landkreis),184,,2020-03-31 02:57:50.032878
+170,Hessen,Hersfeld-Rotenburg (Landkreis),39,,2020-03-31 02:57:50.032878
+171,Hessen,Hochtaunuskreis (Landkreis),139,,2020-03-31 02:57:50.032878
+172,Hessen,Kassel (Kreisfreie Stadt),83,,2020-03-31 02:57:50.032878
+173,Hessen,Kassel (Landkreis),82,,2020-03-31 02:57:50.032878
+174,Hessen,Lahn-Dill-Kreis (Landkreis),152,,2020-03-31 02:57:50.032878
+175,Hessen,Limburg-Weilburg (Landkreis),149,,2020-03-31 02:57:50.032878
+176,Hessen,Main-Kinzig-Kreis (Landkreis),146,1,2020-03-31 02:57:50.032878
+177,Hessen,Main-Taunus-Kreis (Landkreis),115,1,2020-03-31 02:57:50.032878
+178,Hessen,Marburg-Biedenkopf (Landkreis),102,1,2020-03-31 02:57:50.032878
+179,Hessen,Odenwaldkreis (Landkreis),60,,2020-03-31 02:57:50.032878
+180,Hessen,Offenbach (Landkreis),173,3,2020-03-31 02:57:50.032878
+181,Hessen,Offenbach am Main (Kreisfreie Stadt),24,1,2020-03-31 02:57:50.032878
+182,Hessen,Rheingau-Taunus-Kreis (Landkreis),107,,2020-03-31 02:57:50.032878
+183,Hessen,Schwalm-Eder-Kreis (Landkreis),158,1,2020-03-31 02:57:50.032878
+184,Hessen,Vogelsbergkreis (Landkreis),53,,2020-03-31 02:57:50.032878
+185,Hessen,Waldeck-Frankenberg (Landkreis),61,,2020-03-31 02:57:50.032878
+186,Hessen,Werra-Meißner-Kreis (Landkreis),20,,2020-03-31 02:57:50.032878
+187,Hessen,Wetteraukreis (Landkreis),91,,2020-03-31 02:57:50.032878
+188,Hessen,Wiesbaden (Kreisfreie Stadt),166,1,2020-03-31 02:57:50.032878
+189,Mecklenburg-Vorpommern,Ludwigslust-Parchim (Landkreis),37,1,2020-03-31 02:57:50.032878
+190,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte (Landkreis),60,,2020-03-31 02:57:50.032878
+191,Mecklenburg-Vorpommern,Nordwestmecklenburg (Landkreis),28,,2020-03-31 02:57:50.032878
+192,Mecklenburg-Vorpommern,Rostock (Kreisfreie Stadt),58,,2020-03-31 02:57:50.032878
+193,Mecklenburg-Vorpommern,Rostock (Landkreis),29,,2020-03-31 02:57:50.032878
+194,Mecklenburg-Vorpommern,Schwerin (Kreisfreie Stadt),62,,2020-03-31 02:57:50.032878
+195,Mecklenburg-Vorpommern,Vorpommern-Greifswald (Landkreis),56,,2020-03-31 02:57:50.032878
+196,Mecklenburg-Vorpommern,Vorpommern-Rügen (Landkreis),36,,2020-03-31 02:57:50.032878
+197,Niedersachsen,Ammerland (Landkreis),77,,2020-03-31 02:57:50.032878
+198,Niedersachsen,Aurich (Landkreis),44,,2020-03-31 02:57:50.032878
+199,Niedersachsen,Braunschweig (Kreisfreie Stadt),144,,2020-03-31 02:57:50.032878
+200,Niedersachsen,Celle (Landkreis),73,,2020-03-31 02:57:50.032878
+201,Niedersachsen,Cloppenburg (Landkreis),27,,2020-03-31 02:57:50.032878
+202,Niedersachsen,Cuxhaven (Landkreis),49,,2020-03-31 02:57:50.032878
+203,Niedersachsen,Delmenhorst (Kreisfreie Stadt),19,1,2020-03-31 02:57:50.032878
+204,Niedersachsen,Diepholz (Landkreis),114,,2020-03-31 02:57:50.032878
+205,Niedersachsen,Emden (Kreisfreie Stadt),7,,2020-03-31 02:57:50.032878
+206,Niedersachsen,Emsland (Landkreis),135,2,2020-03-31 02:57:50.032878
+207,Niedersachsen,Friesland (Landkreis),10,,2020-03-31 02:57:50.032878
+208,Niedersachsen,Gifhorn (Landkreis),60,,2020-03-31 02:57:50.032878
+209,Niedersachsen,Goslar (Landkreis),51,,2020-03-31 02:57:50.032878
+210,Niedersachsen,Göttingen (Landkreis),158,,2020-03-31 02:57:50.032878
+211,Niedersachsen,Grafschaft Bentheim (Landkreis),80,1,2020-03-31 02:57:50.032878
+212,Niedersachsen,Hameln-Pyrmont (Landkreis),48,,2020-03-31 02:57:50.032878
+213,Niedersachsen,Harburg (Landkreis),155,1,2020-03-31 02:57:50.032878
+214,Niedersachsen,Heidekreis (Landkreis),25,,2020-03-31 02:57:50.032878
+215,Niedersachsen,Helmstedt (Landkreis),56,,2020-03-31 02:57:50.032878
+216,Niedersachsen,Hildesheim (Landkreis),150,,2020-03-31 02:57:50.032878
+217,Niedersachsen,Holzminden (Landkreis),47,,2020-03-31 02:57:50.032878
+218,Niedersachsen,Leer (Landkreis),23,1,2020-03-31 02:57:50.032878
+219,Niedersachsen,Lüchow-Dannenberg (Landkreis),8,,2020-03-31 02:57:50.032878
+220,Niedersachsen,Lüneburg (Landkreis),82,,2020-03-31 02:57:50.032878
+221,Niedersachsen,Nienburg (Weser) (Landkreis),28,,2020-03-31 02:57:50.032878
+222,Niedersachsen,Northeim (Landkreis),33,,2020-03-31 02:57:50.032878
+223,Niedersachsen,Oldenburg (Landkreis),98,,2020-03-31 02:57:50.032878
+224,Niedersachsen,Oldenburg (Oldb) (Kreisfreie Stadt),81,1,2020-03-31 02:57:50.032878
+225,Niedersachsen,Osnabrück (Kreisfreie Stadt),211,,2020-03-31 02:57:50.032878
+226,Niedersachsen,Osnabrück (Landkreis),303,1,2020-03-31 02:57:50.032878
+227,Niedersachsen,Osterholz (Landkreis),39,,2020-03-31 02:57:50.032878
+228,Niedersachsen,Peine (Landkreis),61,,2020-03-31 02:57:50.032878
+229,Niedersachsen,Region Hannover (Landkreis),786,4,2020-03-31 02:57:50.032878
+230,Niedersachsen,Rotenburg (Wümme) (Landkreis),49,1,2020-03-31 02:57:50.032878
+231,Niedersachsen,Salzgitter (Kreisfreie Stadt),50,1,2020-03-31 02:57:50.032878
+232,Niedersachsen,Schaumburg (Landkreis),52,,2020-03-31 02:57:50.032878
+233,Niedersachsen,Stade (Landkreis),115,,2020-03-31 02:57:50.032878
+234,Niedersachsen,Uelzen (Landkreis),20,,2020-03-31 02:57:50.032878
+235,Niedersachsen,Vechta (Landkreis),145,1,2020-03-31 02:57:50.032878
+236,Niedersachsen,Verden (Landkreis),57,,2020-03-31 02:57:50.032878
+237,Niedersachsen,Wesermarsch (Landkreis),39,,2020-03-31 02:57:50.032878
+238,Niedersachsen,Wilhelmshaven (Kreisfreie Stadt),6,,2020-03-31 02:57:50.032878
+239,Niedersachsen,Wittmund (Landkreis),14,,2020-03-31 02:57:50.032878
+240,Niedersachsen,Wolfenbüttel (Landkreis),35,,2020-03-31 02:57:50.032878
+241,Niedersachsen,Wolfsburg (Kreisfreie Stadt),162,18,2020-03-31 02:57:50.032878
+242,Nordrhein-Westfalen,Bielefeld (Kreisfreie Stadt),169,,2020-03-31 02:57:50.032878
+243,Nordrhein-Westfalen,Bochum (Kreisfreie Stadt),245,5,2020-03-31 02:57:50.032878
+244,Nordrhein-Westfalen,Bonn (Kreisfreie Stadt),268,1,2020-03-31 02:57:50.032878
+245,Nordrhein-Westfalen,Borken (Kreis),443,5,2020-03-31 02:57:50.032878
+246,Nordrhein-Westfalen,Bottrop (Kreisfreie Stadt),38,1,2020-03-31 02:57:50.032878
+247,Nordrhein-Westfalen,Coesfeld (Kreis),304,1,2020-03-31 02:57:50.032878
+248,Nordrhein-Westfalen,Dortmund (Kreisfreie Stadt),256,,2020-03-31 02:57:50.032878
+249,Nordrhein-Westfalen,Duisburg (Kreisfreie Stadt),286,2,2020-03-31 02:57:50.032878
+250,Nordrhein-Westfalen,Düren (Kreis),246,1,2020-03-31 02:57:50.032878
+251,Nordrhein-Westfalen,Düsseldorf (Kreisfreie Stadt),363,2,2020-03-31 02:57:50.032878
+252,Nordrhein-Westfalen,Ennepe-Ruhr-Kreis (Kreis),175,1,2020-03-31 02:57:50.032878
+253,Nordrhein-Westfalen,Essen (Kreisfreie Stadt),399,6,2020-03-31 02:57:50.032878
+254,Nordrhein-Westfalen,Euskirchen (Kreis),120,2,2020-03-31 02:57:50.032878
+255,Nordrhein-Westfalen,Gelsenkirchen (Kreisfreie Stadt),94,,2020-03-31 02:57:50.032878
+256,Nordrhein-Westfalen,Gütersloh (Kreis),372,1,2020-03-31 02:57:50.032878
+257,Nordrhein-Westfalen,Hagen (Kreisfreie Stadt),80,2,2020-03-31 02:57:50.032878
+258,Nordrhein-Westfalen,Hamm (Kreisfreie Stadt),153,1,2020-03-31 02:57:50.032878
+259,Nordrhein-Westfalen,Heinsberg (Kreis),1265,33,2020-03-31 02:57:50.032878
+260,Nordrhein-Westfalen,Herford (Kreis),148,,2020-03-31 02:57:50.032878
+261,Nordrhein-Westfalen,Herne (Kreisfreie Stadt),55,,2020-03-31 02:57:50.032878
+262,Nordrhein-Westfalen,Hochsauerlandkreis (Kreis),244,,2020-03-31 02:57:50.032878
+263,Nordrhein-Westfalen,Höxter (Kreis),66,,2020-03-31 02:57:50.032878
+264,Nordrhein-Westfalen,Kleve (Kreis),233,2,2020-03-31 02:57:50.032878
+265,Nordrhein-Westfalen,Köln (Kreisfreie Stadt),1290,9,2020-03-31 02:57:50.032878
+266,Nordrhein-Westfalen,Krefeld (Kreisfreie Stadt),208,1,2020-03-31 02:57:50.032878
+267,Nordrhein-Westfalen,Leverkusen (Kreisfreie Stadt),102,,2020-03-31 02:57:50.032878
+268,Nordrhein-Westfalen,Lippe (Kreis),302,3,2020-03-31 02:57:50.032878
+269,Nordrhein-Westfalen,Märkischer Kreis (Kreis),115,,2020-03-31 02:57:50.032878
+270,Nordrhein-Westfalen,Mettmann (Kreis),306,5,2020-03-31 02:57:50.032878
+271,Nordrhein-Westfalen,Minden-Lübbecke (Kreis),268,,2020-03-31 02:57:50.032878
+272,Nordrhein-Westfalen,Mönchengladbach (Kreisfreie Stadt),174,1,2020-03-31 02:57:50.032878
+273,Nordrhein-Westfalen,Mülheim an der Ruhr (Kreisfreie Stadt),68,1,2020-03-31 02:57:50.032878
+274,Nordrhein-Westfalen,Münster (Kreisfreie Stadt),448,2,2020-03-31 02:57:50.032878
+275,Nordrhein-Westfalen,Oberbergischer Kreis (Kreis),215,2,2020-03-31 02:57:50.032878
+276,Nordrhein-Westfalen,Oberhausen (Kreisfreie Stadt),66,,2020-03-31 02:57:50.032878
+277,Nordrhein-Westfalen,Olpe (Kreis),127,1,2020-03-31 02:57:50.032878
+278,Nordrhein-Westfalen,Paderborn (Kreis),201,1,2020-03-31 02:57:50.032878
+279,Nordrhein-Westfalen,Recklinghausen (Kreis),331,1,2020-03-31 02:57:50.032878
+280,Nordrhein-Westfalen,Remscheid (Kreisfreie Stadt),58,1,2020-03-31 02:57:50.032878
+281,Nordrhein-Westfalen,Rhein-Erft-Kreis (Kreis),341,1,2020-03-31 02:57:50.032878
+282,Nordrhein-Westfalen,Rhein-Kreis Neuss (Kreis),328,6,2020-03-31 02:57:50.032878
+283,Nordrhein-Westfalen,Rhein-Sieg-Kreis (Kreis),525,2,2020-03-31 02:57:50.032878
+284,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis (Kreis),197,2,2020-03-31 02:57:50.032878
+285,Nordrhein-Westfalen,Siegen-Wittgenstein (Kreis),98,1,2020-03-31 02:57:50.032878
+286,Nordrhein-Westfalen,Soest (Kreis),193,,2020-03-31 02:57:50.032878
+287,Nordrhein-Westfalen,Solingen (Kreisfreie Stadt),87,,2020-03-31 02:57:50.032878
+288,Nordrhein-Westfalen,Städteregion Aachen (Kreis),824,14,2020-03-31 02:57:50.032878
+289,Nordrhein-Westfalen,Steinfurt (Kreis),395,1,2020-03-31 02:57:50.032878
+290,Nordrhein-Westfalen,Unna (Kreis),189,2,2020-03-31 02:57:50.032878
+291,Nordrhein-Westfalen,Viersen (Kreis),262,2,2020-03-31 02:57:50.032878
+292,Nordrhein-Westfalen,Warendorf (Kreis),297,1,2020-03-31 02:57:50.032878
+293,Nordrhein-Westfalen,Wesel (Kreis),219,2,2020-03-31 02:57:50.032878
+294,Nordrhein-Westfalen,Wuppertal (Kreisfreie Stadt),186,2,2020-03-31 02:57:50.032878
+295,Rheinland-Pfalz,Ahrweiler (Landkreis),62,1,2020-03-31 02:57:50.032878
+296,Rheinland-Pfalz,Altenkirchen (Westerwald) (Landkreis),48,,2020-03-31 02:57:50.032878
+297,Rheinland-Pfalz,Alzey-Worms (Landkreis),82,,2020-03-31 02:57:50.032878
+298,Rheinland-Pfalz,Bad Dürkheim (Landkreis),162,2,2020-03-31 02:57:50.032878
+299,Rheinland-Pfalz,Bad Kreuznach (Landkreis),59,,2020-03-31 02:57:50.032878
+300,Rheinland-Pfalz,Bernkastel-Wittlich (Landkreis),57,,2020-03-31 02:57:50.032878
+301,Rheinland-Pfalz,Birkenfeld (Landkreis),30,,2020-03-31 02:57:50.032878
+302,Rheinland-Pfalz,Cochem-Zell (Landkreis),99,,2020-03-31 02:57:50.032878
+303,Rheinland-Pfalz,Donnersbergkreis (Landkreis),58,1,2020-03-31 02:57:50.032878
+304,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm (Landkreis),93,,2020-03-31 02:57:50.032878
+305,Rheinland-Pfalz,Frankenthal (Pfalz) (Kreisfreie Stadt),16,,2020-03-31 02:57:50.032878
+306,Rheinland-Pfalz,Germersheim (Landkreis),62,1,2020-03-31 02:57:50.032878
+307,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),53,1,2020-03-31 02:57:50.032878
+308,Rheinland-Pfalz,Kaiserslautern (Landkreis),54,,2020-03-31 02:57:50.032878
+309,Rheinland-Pfalz,Koblenz (Kreisfreie Stadt),119,4,2020-03-31 02:57:50.032878
+310,Rheinland-Pfalz,Kusel (Landkreis),44,,2020-03-31 02:57:50.032878
+311,Rheinland-Pfalz,Landau in der Pfalz (Kreisfreie Stadt),31,,2020-03-31 02:57:50.032878
+312,Rheinland-Pfalz,Ludwigshafen am Rhein (Kreisfreie Stadt),74,,2020-03-31 02:57:50.032878
+313,Rheinland-Pfalz,Mainz (Kreisfreie Stadt),182,,2020-03-31 02:57:50.032878
+314,Rheinland-Pfalz,Mainz-Bingen (Landkreis),115,,2020-03-31 02:57:50.032878
+315,Rheinland-Pfalz,Mayen-Koblenz (Landkreis),220,1,2020-03-31 02:57:50.032878
+316,Rheinland-Pfalz,Neustadt an der Weinstraße (Kreisfreie Stadt),52,1,2020-03-31 02:57:50.032878
+317,Rheinland-Pfalz,Neuwied (Landkreis),127,1,2020-03-31 02:57:50.032878
+318,Rheinland-Pfalz,Pirmasens (Kreisfreie Stadt),15,,2020-03-31 02:57:50.032878
+319,Rheinland-Pfalz,Rhein-Hunsrück-Kreis (Landkreis),102,,2020-03-31 02:57:50.032878
+320,Rheinland-Pfalz,Rhein-Lahn-Kreis (Landkreis),79,2,2020-03-31 02:57:50.032878
+321,Rheinland-Pfalz,Rhein-Pfalz-Kreis (Landkreis),60,,2020-03-31 02:57:50.032878
+322,Rheinland-Pfalz,Speyer (Kreisfreie Stadt),22,,2020-03-31 02:57:50.032878
+323,Rheinland-Pfalz,Südliche Weinstraße (Landkreis),76,,2020-03-31 02:57:50.032878
+324,Rheinland-Pfalz,Südwestpfalz (Landkreis),40,1,2020-03-31 02:57:50.032878
+325,Rheinland-Pfalz,Trier (Kreisfreie Stadt),57,,2020-03-31 02:57:50.032878
+326,Rheinland-Pfalz,Trier-Saarburg (Landkreis),76,1,2020-03-31 02:57:50.032878
+327,Rheinland-Pfalz,Vulkaneifel (Landkreis),48,,2020-03-31 02:57:50.032878
+328,Rheinland-Pfalz,Westerwaldkreis (Landkreis),135,2,2020-03-31 02:57:50.032878
+329,Rheinland-Pfalz,Worms (Kreisfreie Stadt),68,,2020-03-31 02:57:50.032878
+330,Rheinland-Pfalz,Zweibrücken (Kreisfreie Stadt),9,,2020-03-31 02:57:50.032878
+331,Saarland,Merzig-Wadern (Landkreis),55,,2020-03-31 02:57:50.032878
+332,Saarland,Neunkirchen (Landkreis),106,,2020-03-31 02:57:50.032878
+333,Saarland,Regionalverband Saarbrücken (Landkreis),268,7,2020-03-31 02:57:50.032878
+334,Saarland,Saarlouis (Landkreis),129,1,2020-03-31 02:57:50.032878
+335,Saarland,Saarpfalz-Kreis (Landkreis),156,1,2020-03-31 02:57:50.032878
+336,Saarland,St. Wendel (Landkreis),86,,2020-03-31 02:57:50.032878
+337,Sachsen,Bautzen (Landkreis),156,1,2020-03-31 02:57:50.032878
+338,Sachsen,Chemnitz (Kreisfreie Stadt),99,,2020-03-31 02:57:50.032878
+339,Sachsen,Dresden (Kreisfreie Stadt),339,3,2020-03-31 02:57:50.032878
+340,Sachsen,Erzgebirgskreis (Landkreis),94,1,2020-03-31 02:57:50.032878
+341,Sachsen,Görlitz (Landkreis),67,1,2020-03-31 02:57:50.032878
+342,Sachsen,Leipzig (Kreisfreie Stadt),299,,2020-03-31 02:57:50.032878
+343,Sachsen,Leipzig (Landkreis),91,,2020-03-31 02:57:50.032878
+344,Sachsen,Meißen (Landkreis),69,1,2020-03-31 02:57:50.032878
+345,Sachsen,Mittelsachsen (Landkreis),94,,2020-03-31 02:57:50.032878
+346,Sachsen,Nordsachsen (Landkreis),37,,2020-03-31 02:57:50.032878
+347,Sachsen,Sächsische Schweiz-Osterzgebirge (Landkreis),149,,2020-03-31 02:57:50.032878
+348,Sachsen,Vogtlandkreis (Landkreis),106,1,2020-03-31 02:57:50.032878
+349,Sachsen,Zwickau (Landkreis),330,3,2020-03-31 02:57:50.032878
+350,Sachsen-Anhalt,Altmarkkreis Salzwedel (Landkreis),14,,2020-03-31 02:57:50.032878
+351,Sachsen-Anhalt,Anhalt-Bitterfeld (Landkreis),35,,2020-03-31 02:57:50.032878
+352,Sachsen-Anhalt,Börde (Landkreis),49,,2020-03-31 02:57:50.032878
+353,Sachsen-Anhalt,Burgenlandkreis (Landkreis),31,,2020-03-31 02:57:50.032878
+354,Sachsen-Anhalt,Dessau-Roßlau (Kreisfreie Stadt),20,,2020-03-31 02:57:50.032878
+355,Sachsen-Anhalt,Halle (Saale) (Kreisfreie Stadt),142,2,2020-03-31 02:57:50.032878
+356,Sachsen-Anhalt,Harz (Landkreis),67,1,2020-03-31 02:57:50.032878
+357,Sachsen-Anhalt,Jerichower Land (Landkreis),18,,2020-03-31 02:57:50.032878
+358,Sachsen-Anhalt,Magdeburg (Kreisfreie Stadt),79,1,2020-03-31 02:57:50.032878
+359,Sachsen-Anhalt,Mansfeld-Südharz (Landkreis),18,,2020-03-31 02:57:50.032878
+360,Sachsen-Anhalt,Saalekreis (Landkreis),55,,2020-03-31 02:57:50.032878
+361,Sachsen-Anhalt,Salzlandkreis (Landkreis),39,,2020-03-31 02:57:50.032878
+362,Sachsen-Anhalt,Stendal (Landkreis),52,1,2020-03-31 02:57:50.032878
+363,Sachsen-Anhalt,Wittenberg (Landkreis),81,1,2020-03-31 02:57:50.032878
+364,Schleswig-Holstein,Dithmarschen (Kreis),23,,2020-03-31 02:57:50.032878
+365,Schleswig-Holstein,Flensburg (Kreisfreie Stadt),22,,2020-03-31 02:57:50.032878
+366,Schleswig-Holstein,Herzogtum Lauenburg (Kreis),80,1,2020-03-31 02:57:50.032878
+367,Schleswig-Holstein,Kiel (Kreisfreie Stadt),113,1,2020-03-31 02:57:50.032878
+368,Schleswig-Holstein,Lübeck (Kreisfreie Stadt),77,1,2020-03-31 02:57:50.032878
+369,Schleswig-Holstein,Neumünster (Kreisfreie Stadt),15,,2020-03-31 02:57:50.032878
+370,Schleswig-Holstein,Nordfriesland (Kreis),39,,2020-03-31 02:57:50.032878
+371,Schleswig-Holstein,Ostholstein (Kreis),23,,2020-03-31 02:57:50.032878
+372,Schleswig-Holstein,Pinneberg (Kreis),194,,2020-03-31 02:57:50.032878
+373,Schleswig-Holstein,Plön (Kreis),54,1,2020-03-31 02:57:50.032878
+374,Schleswig-Holstein,Rendsburg-Eckernförde (Kreis),112,1,2020-03-31 02:57:50.032878
+375,Schleswig-Holstein,Schleswig-Flensburg (Kreis),65,,2020-03-31 02:57:50.032878
+376,Schleswig-Holstein,Segeberg (Kreis),80,,2020-03-31 02:57:50.032878
+377,Schleswig-Holstein,Steinburg (Kreis),36,,2020-03-31 02:57:50.032878
+378,Schleswig-Holstein,Stormarn (Kreis),120,,2020-03-31 02:57:50.032878
+379,Thüringen,Altenburger Land (Landkreis),20,,2020-03-31 02:57:50.032878
+380,Thüringen,Eichsfeld (Landkreis),49,1,2020-03-31 02:57:50.032878
+381,Thüringen,Eisenach (Kreisfreie Stadt),4,,2020-03-31 02:57:50.032878
+382,Thüringen,Erfurt (Kreisfreie Stadt),76,,2020-03-31 02:57:50.032878
+383,Thüringen,Gera (Kreisfreie Stadt),19,,2020-03-31 02:57:50.032878
+384,Thüringen,Gotha (Landkreis),21,,2020-03-31 02:57:50.032878
+385,Thüringen,Greiz (Landkreis),130,2,2020-03-31 02:57:50.032878
+386,Thüringen,Hildburghausen (Landkreis),7,,2020-03-31 02:57:50.032878
+387,Thüringen,Ilm-Kreis (Landkreis),55,1,2020-03-31 02:57:50.032878
+388,Thüringen,Jena (Kreisfreie Stadt),101,1,2020-03-31 02:57:50.032878
+389,Thüringen,Kyffhäuserkreis (Landkreis),19,,2020-03-31 02:57:50.032878
+390,Thüringen,Nordhausen (Landkreis),12,,2020-03-31 02:57:50.032878
+391,Thüringen,Saale-Holzland-Kreis (Landkreis),27,,2020-03-31 02:57:50.032878
+392,Thüringen,Saale-Orla-Kreis (Landkreis),31,,2020-03-31 02:57:50.032878
+393,Thüringen,Saalfeld-Rudolstadt (Landkreis),33,,2020-03-31 02:57:50.032878
+394,Thüringen,Schmalkalden-Meiningen (Landkreis),30,,2020-03-31 02:57:50.032878
+395,Thüringen,Sömmerda (Landkreis),22,,2020-03-31 02:57:50.032878
+396,Thüringen,Sonneberg (Landkreis),20,,2020-03-31 02:57:50.032878
+397,Thüringen,Suhl (Kreisfreie Stadt),6,,2020-03-31 02:57:50.032878
+398,Thüringen,Unstrut-Hainich-Kreis (Landkreis),11,,2020-03-31 02:57:50.032878
+399,Thüringen,Wartburgkreis (Landkreis),17,,2020-03-31 02:57:50.032878
+400,Thüringen,Weimar (Kreisfreie Stadt),29,,2020-03-31 02:57:50.032878
+401,Thüringen,Weimarer Land (Landkreis),22,,2020-03-31 02:57:50.032878
+402,,,86,2,2020-03-31 02:57:50.032878
+403,,,316,15,2020-03-31 02:57:50.032878
+404,,,273,,2020-03-31 02:57:50.032878
+405,,,40,,2020-03-31 02:57:50.032878
+406,,,277,,2020-03-31 02:57:50.032878
+407,,,321,,2020-03-31 02:57:50.032878
+408,,,285,3,2020-03-31 02:57:50.032878
+409,,,260,6,2020-03-31 02:57:50.032878
+410,,,564,4,2020-03-31 02:57:50.032878
+411,,,109,3,2020-03-31 02:57:50.032878
+412,,,316,9,2020-03-31 02:57:50.032878
+413,,,187,2,2020-03-31 02:57:50.032878
+414,,,311,3,2020-03-31 02:57:50.032878
+415,,,705,7,2020-03-31 02:57:50.032878
+416,,,636,4,2020-03-31 02:57:50.032878
+417,,,142,3,2020-03-31 02:57:50.032878
+418,,,112,,2020-03-31 02:57:50.032878
+419,,,91,1,2020-03-31 02:57:50.032878
+420,,,346,4,2020-03-31 02:57:50.032878
+421,,,113,1,2020-03-31 02:57:50.032878
+422,,,122,3,2020-03-31 02:57:50.032878
+423,,,9,,2020-03-31 02:57:50.032878
+424,,,56,3,2020-03-31 02:57:50.032878
+425,,,19,,2020-03-31 02:57:50.032878
+426,,,149,,2020-03-31 02:57:50.032878
+427,,,46,,2020-03-31 02:57:50.032878
+428,,,123,3,2020-03-31 02:57:50.032878
+429,,,152,2,2020-03-31 02:57:50.032878
+430,,,162,,2020-03-31 02:57:50.032878
+431,,,69,,2020-03-31 02:57:50.032878
+432,,,160,,2020-03-31 02:57:50.032878
+433,,,55,,2020-03-31 02:57:50.032878
+434,,,144,1,2020-03-31 02:57:50.032878
+435,,,49,1,2020-03-31 02:57:50.032878
+436,,,105,2,2020-03-31 02:57:50.032878
+437,,,79,,2020-03-31 02:57:50.032878
+438,,,162,,2020-03-31 02:57:50.032878
+439,,,22,,2020-03-31 02:57:50.032878
+440,,,50,,2020-03-31 02:57:50.032878
+441,,,201,1,2020-03-31 02:57:50.032878
+442,,,115,2,2020-03-31 02:57:50.032878
+443,,,48,1,2020-03-31 02:57:50.032878
+444,,,92,1,2020-03-31 02:57:50.032878
+445,,,85,2,2020-03-31 02:57:50.032878
+446,,,176,,2020-03-31 02:57:50.032878
+447,,,71,,2020-03-31 02:57:50.032878
+448,,,291,,2020-03-31 02:57:50.032878
+449,,,53,,2020-03-31 02:57:50.032878
+450,,,57,1,2020-03-31 02:57:50.032878
+451,,,84,1,2020-03-31 02:57:50.032878
+452,,,448,6,2020-03-31 02:57:50.032878
+453,,,80,1,2020-03-31 02:57:50.032878
+454,,,320,2,2020-03-31 02:57:50.032878
+455,,,76,1,2020-03-31 02:57:50.032878
+456,,,88,3,2020-03-31 02:57:50.032878
+457,,,107,,2020-03-31 02:57:50.032878
+458,,,101,,2020-03-31 02:57:50.032878
+459,,,48,,2020-03-31 02:57:50.032878
+460,,,33,,2020-03-31 02:57:50.032878
+461,,,104,,2020-03-31 02:57:50.032878
+462,,,73,,2020-03-31 02:57:50.032878
+463,,,31,,2020-03-31 02:57:50.032878
+464,,,123,3,2020-03-31 02:57:50.032878
+465,,,40,2,2020-03-31 02:57:50.032878
+466,,,29,,2020-03-31 02:57:50.032878
+467,,,50,,2020-03-31 02:57:50.032878
+468,,,61,,2020-03-31 02:57:50.032878
+469,,,135,2,2020-03-31 02:57:50.032878
+470,,,93,,2020-03-31 02:57:50.032878
+471,,,248,1,2020-03-31 02:57:50.032878
+472,,,77,,2020-03-31 02:57:50.032878
+473,,,120,1,2020-03-31 02:57:50.032878
+474,,,61,1,2020-03-31 02:57:50.032878
+475,,,26,,2020-03-31 02:57:50.032878
+476,,,282,,2020-03-31 02:57:50.032878
+477,,,97,,2020-03-31 02:57:50.032878
+478,,,145,2,2020-03-31 02:57:50.032878
+479,,,2296,5,2020-03-31 02:57:50.032878
+480,,,562,5,2020-03-31 02:57:50.032878
+481,,,130,1,2020-03-31 02:57:50.032878
+482,,,78,,2020-03-31 02:57:50.032878
+483,,,87,2,2020-03-31 02:57:50.032878
+484,,,53,,2020-03-31 02:57:50.032878
+485,,,184,3,2020-03-31 02:57:50.032878
+486,,,232,,2020-03-31 02:57:50.032878
+487,,,144,3,2020-03-31 02:57:50.032878
+488,,,90,1,2020-03-31 02:57:50.032878
+489,,,149,4,2020-03-31 02:57:50.032878
+490,,,37,1,2020-03-31 02:57:50.032878
+491,,,108,1,2020-03-31 02:57:50.032878
+492,,,106,,2020-03-31 02:57:50.032878
+493,,,40,,2020-03-31 02:57:50.032878
+494,,,158,1,2020-03-31 02:57:50.032878
+495,,,156,,2020-03-31 02:57:50.032878
+496,,,37,,2020-03-31 02:57:50.032878
+497,,,124,,2020-03-31 02:57:50.032878
+498,,,738,7,2020-03-31 02:57:50.032878
+499,,,82,1,2020-03-31 02:57:50.032878
+500,,,224,,2020-03-31 02:57:50.032878
+501,,,25,,2020-03-31 02:57:50.032878
+502,,,109,1,2020-03-31 02:57:50.032878
+503,,,31,3,2020-03-31 02:57:50.032878
+504,,,100,,2020-03-31 02:57:50.032878
+505,,,246,1,2020-03-31 02:57:50.032878
+506,,,78,1,2020-03-31 02:57:50.032878
+507,,,86,,2020-03-31 02:57:50.032878
+508,,,416,17,2020-03-31 02:57:50.032878
+509,,,226,3,2020-03-31 02:57:50.032878
+510,,,119,2,2020-03-31 02:57:50.032878
+511,,,64,,2020-03-31 02:57:50.032878
+512,,,187,1,2020-03-31 02:57:50.032878
+513,,,88,1,2020-03-31 02:57:50.032878
+514,,,186,6,2020-03-31 02:57:50.032878
+515,,,250,13,2020-03-31 02:57:50.032878
+516,,,196,0,2020-03-31 02:57:50.032878
+517,,,2581,13,2020-03-31 02:57:50.032878
+518,,,71,,2020-03-31 02:57:50.032878
+519,,,17,,2020-03-31 02:57:50.032878
+520,,,31,,2020-03-31 02:57:50.032878
+521,,,70,,2020-03-31 02:57:50.032878
+522,,,27,,2020-03-31 02:57:50.032878
+523,,,6,,2020-03-31 02:57:50.032878
+524,,,48,,2020-03-31 02:57:50.032878
+525,,,80,,2020-03-31 02:57:50.032878
+526,,,96,1,2020-03-31 02:57:50.032878
+527,,,18,,2020-03-31 02:57:50.032878
+528,,,75,,2020-03-31 02:57:50.032878
+529,,,13,,2020-03-31 02:57:50.032878
+530,,,139,3,2020-03-31 02:57:50.032878
+531,,,98,,2020-03-31 02:57:50.032878
+532,,,9,,2020-03-31 02:57:50.032878
+533,,,43,,2020-03-31 02:57:50.032878
+534,,,43,,2020-03-31 02:57:50.032878
+535,,,10,,2020-03-31 02:57:50.032878
+536,,,277,4,2020-03-31 02:57:50.032878
+537,,,20,,2020-03-31 02:57:50.032878
+538,,,2214,7,2020-03-31 02:57:50.032878
+539,,,152,1,2020-03-31 02:57:50.032878
+540,,,61,,2020-03-31 02:57:50.032878
+541,,,161,1,2020-03-31 02:57:50.032878
+542,,,352,2,2020-03-31 02:57:50.032878
+543,,,148,1,2020-03-31 02:57:50.032878
+544,,,122,0,2020-03-31 02:57:50.032878
+545,,,184,,2020-03-31 02:57:50.032878
+546,,,39,,2020-03-31 02:57:50.032878
+547,,,139,,2020-03-31 02:57:50.032878
+548,,,83,,2020-03-31 02:57:50.032878
+549,,,82,,2020-03-31 02:57:50.032878
+550,,,152,,2020-03-31 02:57:50.032878
+551,,,149,,2020-03-31 02:57:50.032878
+552,,,146,1,2020-03-31 02:57:50.032878
+553,,,115,1,2020-03-31 02:57:50.032878
+554,,,102,1,2020-03-31 02:57:50.032878
+555,,,60,,2020-03-31 02:57:50.032878
+556,,,173,3,2020-03-31 02:57:50.032878
+557,,,24,1,2020-03-31 02:57:50.032878
+558,,,107,,2020-03-31 02:57:50.032878
+559,,,158,1,2020-03-31 02:57:50.032878
+560,,,53,,2020-03-31 02:57:50.032878
+561,,,61,,2020-03-31 02:57:50.032878
+562,,,20,,2020-03-31 02:57:50.032878
+563,,,91,,2020-03-31 02:57:50.032878
+564,,,166,1,2020-03-31 02:57:50.032878
+565,,,37,1,2020-03-31 02:57:50.032878
+566,,,60,,2020-03-31 02:57:50.032878
+567,,,28,,2020-03-31 02:57:50.032878
+568,,,58,,2020-03-31 02:57:50.032878
+569,,,29,,2020-03-31 02:57:50.032878
+570,,,62,,2020-03-31 02:57:50.032878
+571,,,56,,2020-03-31 02:57:50.032878
+572,,,36,,2020-03-31 02:57:50.032878
+573,,,77,,2020-03-31 02:57:50.032878
+574,,,44,,2020-03-31 02:57:50.032878
+575,,,144,,2020-03-31 02:57:50.032878
+576,,,73,,2020-03-31 02:57:50.032878
+577,,,27,,2020-03-31 02:57:50.032878
+578,,,49,,2020-03-31 02:57:50.032878
+579,,,19,1,2020-03-31 02:57:50.032878
+580,,,114,,2020-03-31 02:57:50.032878
+581,,,7,,2020-03-31 02:57:50.032878
+582,,,135,2,2020-03-31 02:57:50.032878
+583,,,10,,2020-03-31 02:57:50.032878
+584,,,60,,2020-03-31 02:57:50.032878
+585,,,51,,2020-03-31 02:57:50.032878
+586,,,158,,2020-03-31 02:57:50.032878
+587,,,80,1,2020-03-31 02:57:50.032878
+588,,,48,,2020-03-31 02:57:50.032878
+589,,,155,1,2020-03-31 02:57:50.032878
+590,,,25,,2020-03-31 02:57:50.032878
+591,,,56,,2020-03-31 02:57:50.032878
+592,,,150,,2020-03-31 02:57:50.032878
+593,,,47,,2020-03-31 02:57:50.032878
+594,,,23,1,2020-03-31 02:57:50.032878
+595,,,8,,2020-03-31 02:57:50.032878
+596,,,82,,2020-03-31 02:57:50.032878
+597,,,28,,2020-03-31 02:57:50.032878
+598,,,33,,2020-03-31 02:57:50.032878
+599,,,98,,2020-03-31 02:57:50.032878
+600,,,81,1,2020-03-31 02:57:50.032878
+601,,,211,,2020-03-31 02:57:50.032878
+602,,,303,1,2020-03-31 02:57:50.032878
+603,,,39,,2020-03-31 02:57:50.032878
+604,,,61,,2020-03-31 02:57:50.032878
+605,,,786,4,2020-03-31 02:57:50.032878
+606,,,49,1,2020-03-31 02:57:50.032878
+607,,,50,1,2020-03-31 02:57:50.032878
+608,,,52,,2020-03-31 02:57:50.032878
+609,,,115,,2020-03-31 02:57:50.032878
+610,,,20,,2020-03-31 02:57:50.032878
+611,,,145,1,2020-03-31 02:57:50.032878
+612,,,57,,2020-03-31 02:57:50.032878
+613,,,39,,2020-03-31 02:57:50.032878
+614,,,6,,2020-03-31 02:57:50.032878
+615,,,14,,2020-03-31 02:57:50.032878
+616,,,35,,2020-03-31 02:57:50.032878
+617,,,162,18,2020-03-31 02:57:50.032878
+618,,,169,,2020-03-31 02:57:50.032878
+619,,,245,5,2020-03-31 02:57:50.032878
+620,,,268,1,2020-03-31 02:57:50.032878
+621,,,443,5,2020-03-31 02:57:50.032878
+622,,,38,1,2020-03-31 02:57:50.032878
+623,,,304,1,2020-03-31 02:57:50.032878
+624,,,256,,2020-03-31 02:57:50.032878
+625,,,286,2,2020-03-31 02:57:50.032878
+626,,,246,1,2020-03-31 02:57:50.032878
+627,,,363,2,2020-03-31 02:57:50.032878
+628,,,175,1,2020-03-31 02:57:50.032878
+629,,,399,6,2020-03-31 02:57:50.032878
+630,,,120,2,2020-03-31 02:57:50.032878
+631,,,94,,2020-03-31 02:57:50.032878
+632,,,372,1,2020-03-31 02:57:50.032878
+633,,,80,2,2020-03-31 02:57:50.032878
+634,,,153,1,2020-03-31 02:57:50.032878
+635,,,1265,33,2020-03-31 02:57:50.032878
+636,,,148,,2020-03-31 02:57:50.032878
+637,,,55,,2020-03-31 02:57:50.032878
+638,,,244,,2020-03-31 02:57:50.032878
+639,,,66,,2020-03-31 02:57:50.032878
+640,,,233,2,2020-03-31 02:57:50.032878
+641,,,1290,9,2020-03-31 02:57:50.032878
+642,,,208,1,2020-03-31 02:57:50.032878
+643,,,102,,2020-03-31 02:57:50.032878
+644,,,302,3,2020-03-31 02:57:50.032878
+645,,,115,,2020-03-31 02:57:50.032878
+646,,,306,5,2020-03-31 02:57:50.032878
+647,,,268,,2020-03-31 02:57:50.032878
+648,,,174,1,2020-03-31 02:57:50.032878
+649,,,68,1,2020-03-31 02:57:50.032878
+650,,,448,2,2020-03-31 02:57:50.032878
+651,,,215,2,2020-03-31 02:57:50.032878
+652,,,66,,2020-03-31 02:57:50.032878
+653,,,127,1,2020-03-31 02:57:50.032878
+654,,,201,1,2020-03-31 02:57:50.032878
+655,,,331,1,2020-03-31 02:57:50.032878
+656,,,58,1,2020-03-31 02:57:50.032878
+657,,,341,1,2020-03-31 02:57:50.032878
+658,,,328,6,2020-03-31 02:57:50.032878
+659,,,525,2,2020-03-31 02:57:50.032878
+660,,,197,2,2020-03-31 02:57:50.032878
+661,,,98,1,2020-03-31 02:57:50.032878
+662,,,193,,2020-03-31 02:57:50.032878
+663,,,87,,2020-03-31 02:57:50.032878
+664,,,824,14,2020-03-31 02:57:50.032878
+665,,,395,1,2020-03-31 02:57:50.032878
+666,,,189,2,2020-03-31 02:57:50.032878
+667,,,262,2,2020-03-31 02:57:50.032878
+668,,,297,1,2020-03-31 02:57:50.032878
+669,,,219,2,2020-03-31 02:57:50.032878
+670,,,186,2,2020-03-31 02:57:50.032878
+671,,,62,1,2020-03-31 02:57:50.032878
+672,,,48,,2020-03-31 02:57:50.032878
+673,,,82,,2020-03-31 02:57:50.032878
+674,,,162,2,2020-03-31 02:57:50.032878
+675,,,59,,2020-03-31 02:57:50.032878
+676,,,57,,2020-03-31 02:57:50.032878
+677,,,30,,2020-03-31 02:57:50.032878
+678,,,99,,2020-03-31 02:57:50.032878
+679,,,58,1,2020-03-31 02:57:50.032878
+680,,,93,,2020-03-31 02:57:50.032878
+681,,,16,,2020-03-31 02:57:50.032878
+682,,,62,1,2020-03-31 02:57:50.032878
+683,,,53,1,2020-03-31 02:57:50.032878
+684,,,54,,2020-03-31 02:57:50.032878
+685,,,119,4,2020-03-31 02:57:50.032878
+686,,,44,,2020-03-31 02:57:50.032878
+687,,,31,,2020-03-31 02:57:50.032878
+688,,,74,,2020-03-31 02:57:50.032878
+689,,,182,,2020-03-31 02:57:50.032878
+690,,,115,,2020-03-31 02:57:50.032878
+691,,,220,1,2020-03-31 02:57:50.032878
+692,,,52,1,2020-03-31 02:57:50.032878
+693,,,127,1,2020-03-31 02:57:50.032878
+694,,,15,,2020-03-31 02:57:50.032878
+695,,,102,,2020-03-31 02:57:50.032878
+696,,,79,2,2020-03-31 02:57:50.032878
+697,,,60,,2020-03-31 02:57:50.032878
+698,,,22,,2020-03-31 02:57:50.032878
+699,,,76,,2020-03-31 02:57:50.032878
+700,,,40,1,2020-03-31 02:57:50.032878
+701,,,57,,2020-03-31 02:57:50.032878
+702,,,76,1,2020-03-31 02:57:50.032878
+703,,,48,,2020-03-31 02:57:50.032878
+704,,,135,2,2020-03-31 02:57:50.032878
+705,,,68,,2020-03-31 02:57:50.032878
+706,,,9,,2020-03-31 02:57:50.032878
+707,,,55,,2020-03-31 02:57:50.032878
+708,,,106,,2020-03-31 02:57:50.032878
+709,,,268,7,2020-03-31 02:57:50.032878
+710,,,129,1,2020-03-31 02:57:50.032878
+711,,,156,1,2020-03-31 02:57:50.032878
+712,,,86,,2020-03-31 02:57:50.032878
+713,,,156,1,2020-03-31 02:57:50.032878
+714,,,99,,2020-03-31 02:57:50.032878
+715,,,339,3,2020-03-31 02:57:50.032878
+716,,,94,1,2020-03-31 02:57:50.032878
+717,,,67,1,2020-03-31 02:57:50.032878
+718,,,299,,2020-03-31 02:57:50.032878
+719,,,91,,2020-03-31 02:57:50.032878
+720,,,69,1,2020-03-31 02:57:50.032878
+721,,,94,,2020-03-31 02:57:50.032878
+722,,,37,,2020-03-31 02:57:50.032878
+723,,,149,,2020-03-31 02:57:50.032878
+724,,,106,1,2020-03-31 02:57:50.032878
+725,,,330,3,2020-03-31 02:57:50.032878
+726,,,14,,2020-03-31 02:57:50.032878
+727,,,35,,2020-03-31 02:57:50.032878
+728,,,49,,2020-03-31 02:57:50.032878
+729,,,31,,2020-03-31 02:57:50.032878
+730,,,20,,2020-03-31 02:57:50.032878
+731,,,142,2,2020-03-31 02:57:50.032878
+732,,,67,1,2020-03-31 02:57:50.032878
+733,,,18,,2020-03-31 02:57:50.032878
+734,,,79,1,2020-03-31 02:57:50.032878
+735,,,18,,2020-03-31 02:57:50.032878
+736,,,55,,2020-03-31 02:57:50.032878
+737,,,39,,2020-03-31 02:57:50.032878
+738,,,52,1,2020-03-31 02:57:50.032878
+739,,,81,1,2020-03-31 02:57:50.032878
+740,,,23,,2020-03-31 02:57:50.032878
+741,,,22,,2020-03-31 02:57:50.032878
+742,,,80,1,2020-03-31 02:57:50.032878
+743,,,113,1,2020-03-31 02:57:50.032878
+744,,,77,1,2020-03-31 02:57:50.032878
+745,,,15,,2020-03-31 02:57:50.032878
+746,,,39,,2020-03-31 02:57:50.032878
+747,,,23,,2020-03-31 02:57:50.032878
+748,,,194,,2020-03-31 02:57:50.032878
+749,,,54,1,2020-03-31 02:57:50.032878
+750,,,112,1,2020-03-31 02:57:50.032878
+751,,,65,,2020-03-31 02:57:50.032878
+752,,,80,,2020-03-31 02:57:50.032878
+753,,,36,,2020-03-31 02:57:50.032878
+754,,,120,,2020-03-31 02:57:50.032878
+755,,,20,,2020-03-31 02:57:50.032878
+756,,,49,1,2020-03-31 02:57:50.032878
+757,,,4,,2020-03-31 02:57:50.032878
+758,,,76,,2020-03-31 02:57:50.032878
+759,,,19,,2020-03-31 02:57:50.032878
+760,,,21,,2020-03-31 02:57:50.032878
+761,,,130,2,2020-03-31 02:57:50.032878
+762,,,7,,2020-03-31 02:57:50.032878
+763,,,55,1,2020-03-31 02:57:50.032878
+764,,,101,1,2020-03-31 02:57:50.032878
+765,,,19,,2020-03-31 02:57:50.032878
+766,,,12,,2020-03-31 02:57:50.032878
+767,,,27,,2020-03-31 02:57:50.032878
+768,,,31,,2020-03-31 02:57:50.032878
+769,,,33,,2020-03-31 02:57:50.032878
+770,,,30,,2020-03-31 02:57:50.032878
+771,,,22,,2020-03-31 02:57:50.032878
+772,,,20,,2020-03-31 02:57:50.032878
+773,,,6,,2020-03-31 02:57:50.032878
+774,,,11,,2020-03-31 02:57:50.032878
+775,,,17,,2020-03-31 02:57:50.032878
+776,,,29,,2020-03-31 02:57:50.032878
+777,,,22,,2020-03-31 02:57:50.032878

@@ -36,7 +36,7 @@ def exp_reg_last(dc,lastn=5):
 
     return res
 
-@st.cache
+@st.cache(suppress_st_warning=True)
 def load_data():
     import os 
     import time
@@ -138,7 +138,7 @@ else:
 BL = st.selectbox('Select Bundesland',np.append(np.array('Alle'),LKx.Bundesland.unique()),0)
 LK = st.selectbox('Select Landkreis',np.append(np.array('Alle'),LKx.loc[LKx.Bundesland==BL,'Landkreis'].unique()),0)
 
-scmax = st.slider('Saturation at x times of the current maximum (for logistic model)', 1., 100., 10.)
+scmax = st.slider('Saturation at x times of the current maximum for logistic model. Activate by click in the legend of the plot.', 1., 100., 10.)
 
 dranx = len(data_double.columns)-1
 dran = st.slider('no. of days shown', 8, 200, int(np.round(dranx*1.3)))
