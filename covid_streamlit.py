@@ -113,6 +113,16 @@ def load_data():
 
     return [pd.concat([LKx,dummy_casesx2],axis=1),dummy_increase,dummy_frowfac,dummy_double,LKx]
 
+@st.cache(suppress_st_warning=True)
+def load_data_divi():
+    fi1 = glob.glob('./divix*csv')
+    divix = pd.read_csv(fi1[0])[1:]
+    for i in fi1[1:]:
+        divix = pd.concat([divix,pd.read_csv(i)[1:]])
+    divix.date = pd.to_datetime(divix.date)
+    divix.iloc[:,2:16] = divix.iloc[:,2:16].astype(int)
+    return divix
+
 [data_case,data_increase,data_frowfac,data_double,LKx] = load_data()
 
 
@@ -138,7 +148,7 @@ else:
 BL = st.selectbox('Select Bundesland',np.append(np.array('Alle'),LKx.Bundesland.unique()),0)
 LK = st.selectbox('Select Landkreis',np.append(np.array('Alle'),LKx.loc[LKx.Bundesland==BL,'Landkreis'].unique()),0)
 
-scmax = st.slider('Saturation at x times of the current maximum for logistic model. Activate by click in the legend of the plot.', 1., 100., 10.)
+scmax = st.slider('Saturation at x times of the current maximum for logistic model. Activate model by click in the legend of the plot.', 1., 100., 10.)
 
 dranx = len(data_double.columns)-1
 dran = st.slider('no. of days shown', 8, 200, int(np.round(dranx*1.3)))
@@ -415,8 +425,82 @@ else:
 
 
 
+if det:
+    st.subheader('Stationäre Medizinische Versorgung')
+    st.markdown('Ein Teil der erkrankten Personen muss im Krankenhaus behandelt werden. Die folgende Graphik zeigt die Anzahl der genutzten und freien intensivmedizinischen Plätze.')
+else:
+    st.subheader('Emergency Medical Treatment')
+    st.markdown('A fraction of the infected persons require treatment in hospitals. The following plot gives the number of occupied and still available ICUs.')
+
+divix = load_data_divi()
+
+BL1 = st.selectbox('Bundesland',np.append(np.array('Alle'),LKx.Bundesland.unique()),0)
+linscaley2 = st.checkbox('Linear y-axis',value=True)
+
+if BL1 == 'Alle':
+    dummyk = divix.groupby('date').sum().resample('12h').mean().fillna(method='bfill')
+else:
+    Blx = pd.DataFrame(['BW','BY', 'BE', 'BB', 'HB', 'HH', 'HE', 'MV', 'NI', 'NRW', 'RP','SL', 'SN', 'ST','SH', 'TH'],index=['Baden-Württemberg', 'Bayern', 'Berlin', 'Brandenburg', 'Bremen','Hamburg', 'Hessen', 'Mecklenburg-Vorpommern', 'Niedersachsen','Nordrhein-Westfalen', 'Rheinland-Pfalz', 'Saarland', 'Sachsen','Sachsen-Anhalt', 'Schleswig-Holstein', 'Thüringen']).loc[BL1,0]
+    dummyk = divix.loc[divix.iloc[:,1]==Blx]
+    dummyk.index = dummyk.date
+    dummyk = dummyk.sort_index()
+
+
+fig = go.Figure()
+if linscaley2:
+    yaxtype2='linear'
+else:
+    yaxtype2='log'
+
+fig.add_trace(go.Scatter(x=dummyk.index, y=dummyk['COVID-19 aktuell in Behandlung'].round(),fill='tozeroy',name='COVID-19 aktuell in Behandlung'))
+fig.add_trace(go.Scatter(x=dummyk.index, y=dummyk['COVID-19 beatmet'].round(),fill='tozeroy',name='COVID-19 beatmet'))
+fig.add_trace(go.Scatter(x=dummyk.index, y=dummyk['COVID-19 genesen'].round(),name='COVID-19 genesen'))
+fig.add_trace(go.Scatter(x=dummyk.index, y=dummyk['COVID-19 verstorben'].round(),line=dict(width=1,color='gray'),name='COVID-19 verstorben'))
+fig.add_trace(go.Scatter(x=dummyk.index, y=(dummyk['ICU low care (frei)']+dummyk['ICU high care (frei)']+dummyk['COVID-19 aktuell in Behandlung']).round(),line=dict(dash='dash',width=1),name='ICU frei + COVID-19 aktuell'))
+
+fig.update_layout(
+    xaxis=dict(
+        showline=True,
+        showgrid=True,
+        showticklabels=True,
+        linecolor='rgb(204, 204, 204)',
+        linewidth=2,
+        ticks='outside',
+        tickfont=dict(
+            family='Arial',
+            size=12,
+            color='rgb(82, 82, 82)',
+        ),
+    ),
+    yaxis=dict(
+        showline=True,
+        showgrid=True,
+        showticklabels=True,
+        linecolor='rgb(204, 204, 204)',
+        linewidth=2,
+        type=yaxtype2,
+        ticks='outside',
+        tickfont=dict(
+            family='Arial',
+            size=12,
+            color='rgb(82, 82, 82)',
+        ),
+    ),
+    autosize=True,
+    margin=dict(
+        autoexpand=True,
+        l=100,
+        r=20,
+        t=110,
+    ),
+    showlegend=True,
+    template='plotly_white',
+    plot_bgcolor='white'#,
+    #legend=dict(x=0.02, y=0.98),
+    #legend_orientation='h'
+)
+st.plotly_chart(fig)
+
+
 st.markdown('All data is without any liability and originates from presentations of regional authorities.')
 st.markdown('(cc) Conrad Jackisch. Please join, fork, reuse: https://github.com/cojacoo/covidgermany')
-
-
-
