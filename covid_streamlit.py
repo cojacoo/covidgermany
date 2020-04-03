@@ -133,8 +133,7 @@ def get_table_download_link(df):
     return f'<a href="data:file/csv;base64,{b64}" download="raw_cases.csv">Download csv file</a>'
 
 
-### CHART ###
-
+### CHART and MODELS ###
 
 if det:
     st.subheader('Regionale Entwicklung der Fallzahlen und exponentielles Wachstum')
@@ -180,52 +179,76 @@ if st.checkbox('Show record data'):
     st.markdown(get_table_download_link(data_cases), unsafe_allow_html=True)
     st.write(dc)
 
+caseonx = st.checkbox('Cases vs. rate')
+if det:
+    st.markdown('Die Infektion ist keine Funktion der Zeit sondern der vorherigen Fallzahlen. Daher ist die Betrachtung der jeweiligen Fallzahlen zur Änderung der Fallzahlen sehr hilfreich. Wenn diese Kurve stagniert, dann ist die Ausbreitung unter den aktuellen Bedingungen nicht mehr exponentiell. Wenn sie fällt, erkranken weniger Personen als genesen.')
+else:
+    st.markdown('Since an infection is not a function of time but of the number of previous cases, a visualisation of current cases to change of cases can be insightful. When the curve stops growing, the spread of the disease is no longer exponential under the current circumstances. When it falls, less people get infected than recover.')
+
+
 linscaley = st.checkbox('Linear y-axis of cases')
 if det:
     st.markdown('(Hinweis: Die y-Achse ist normalerweise logarithmisch eingestellt, da der Prozess einer Infektionsausbreitung exponentiell ist. D.h. mit jeder infizierten Person können mehr Personen angesteckt werden.)')
 else:
     st.markdown('(Note that the y-axis is logarithmic on default since the process of infection spreading is exponential. That means with every infected person more people can be infected.)')
 
-X = ((dc.index-dc.index[0]).days + (dc.index-dc.index[0]).seconds/86400.).values
-X = sm.add_constant(X)
-
-y = np.log(dc.iloc[:,0].values.astype(float))
-dcmx = dc.iloc[:,0].max()
-yt = dc.iloc[:,0].values.astype(float)/(dcmx*scmax)
-
-#exponential model
-lm = sm.OLS(y,X)
-res = lm.fit()
-
-#logistic model
-lo = sm.Logit(yt,X)
-resl = lo.fit()
-
-#exponential model for only last days
-#lm1 = sm.OLS(np.append(y[0],y[-6:]),np.append(X[0],X[-6:]).reshape(7,2))
-lm1 = sm.OLS(y[-6:],X[-6:,:])
-res1 = lm1.fit()
-#res1.params
-
-
-fig = go.Figure()
-fig.add_trace(go.Scatter(x=dc.index,y=dc[dc.columns[0]],mode='markers', name=dc.columns[0]))
-fig.add_trace(go.Scatter(x=dc.index[0]+pd.to_timedelta(np.arange(dran*10)/10., unit='d'), y=np.exp(res.predict(sm.add_constant(np.arange(dran*10)/10.))),line=dict(dash='dash', width=1),name='Exponentielles Model (2x in '+str(np.round(np.log(2)/res.params[1],2))+' Tagen)'))
-fig.add_trace(go.Scatter(x=dc.index[0]+pd.to_timedelta(np.arange(dran*10)/10., unit='d'), y=np.exp(res1.predict(sm.add_constant(np.arange(dran*10)/10.))),line=dict(dash='dash', width=1),name='Exponentielles Model (letzte 5 Tage, 2x in '+str(np.round(np.log(2)/res1.params[1],2))+' Tagen)'))
-fig.add_trace(go.Scatter(x=dc.index[0]+pd.to_timedelta(np.arange(dran*10)/10., unit='d'), y=resl.predict(sm.add_constant(np.arange(dran*10)/10.))*(dcmx*scmax),line=dict(dash='dash', width=1),name='Logistic Model',visible='legendonly'))
-
-if linscaley:
-    yaxtype='linear'
+if caseonx:
+    dcx = pd.concat([dc[dc.columns[0]].rolling('3D').mean(),dc[dc.columns[0]].rolling('3D').mean().diff()],axis=1)
+    dcx.columns = ['Cases (mean of 3 days)','change of cases']
+    fig = go.Figure()
+    fig.add_trace(go.Scatter(x=dcx['Cases (mean of 3 days)'],y=dcx['change of cases'], mode='lines+markers', name=dc.columns[0]))
+    yaxtypex='log'
+    yaxtypey='log'
+    xatitle='no. of cases'
+    yatitle='change of cases'
 else:
-    yaxtype='log'
+    X = ((dc.index-dc.index[0]).days + (dc.index-dc.index[0]).seconds/86400.).values
+    X = sm.add_constant(X)
+
+    y = np.log(dc.iloc[:,0].values.astype(float))
+    dcmx = dc.iloc[:,0].max()
+    yt = dc.iloc[:,0].values.astype(float)/(dcmx*scmax)
+
+    #exponential model
+    lm = sm.OLS(y,X)
+    res = lm.fit()
+
+    #logistic model
+    lo = sm.Logit(yt,X)
+    resl = lo.fit()
+
+    #exponential model for only last days
+    #lm1 = sm.OLS(np.append(y[0],y[-6:]),np.append(X[0],X[-6:]).reshape(7,2))
+    lm1 = sm.OLS(y[-6:],X[-6:,:])
+    res1 = lm1.fit()
+    #res1.params
+
+
+    fig = go.Figure()
+    fig.add_trace(go.Scatter(x=dc.index,y=dc[dc.columns[0]],mode='markers', name=dc.columns[0]))
+    fig.add_trace(go.Scatter(x=dc.index[0]+pd.to_timedelta(np.arange(dran*10)/10., unit='d'), y=np.exp(res.predict(sm.add_constant(np.arange(dran*10)/10.))),line=dict(dash='dash', width=1),name='Exponentielles Model (2x in '+str(np.round(np.log(2)/res.params[1],2))+' Tagen)'))
+    fig.add_trace(go.Scatter(x=dc.index[0]+pd.to_timedelta(np.arange(dran*10)/10., unit='d'), y=np.exp(res1.predict(sm.add_constant(np.arange(dran*10)/10.))),line=dict(dash='dash', width=1),name='Exponentielles Model (letzte 5 Tage, 2x in '+str(np.round(np.log(2)/res1.params[1],2))+' Tagen)'))
+    fig.add_trace(go.Scatter(x=dc.index[0]+pd.to_timedelta(np.arange(dran*10)/10., unit='d'), y=resl.predict(sm.add_constant(np.arange(dran*10)/10.))*(dcmx*scmax),line=dict(dash='dash', width=1),name='Logistic Model',visible='legendonly'))
+
+    yaxtypex=None
+    if linscaley:
+        yaxtypey='linear'
+    else:
+        yaxtypey='log'
+
+    xatitle='Date'
+    yatitle=None
+
 
 fig.update_layout(
     xaxis=dict(
         showline=True,
         showgrid=True,
         showticklabels=True,
+        title=xatitle,
         linecolor='rgb(204, 204, 204)',
         linewidth=2,
+        type=yaxtypex,
         ticks='outside',
         tickfont=dict(
             family='Arial',
@@ -237,9 +260,10 @@ fig.update_layout(
         showline=True,
         showgrid=True,
         showticklabels=True,
+        title=yatitle,
         linecolor='rgb(204, 204, 204)',
         linewidth=2,
-        type=yaxtype,
+        type=yaxtypey,
         ticks='outside',
         tickfont=dict(
             family='Arial',
@@ -426,11 +450,11 @@ else:
 
 
 if det:
-    st.subheader('Stationäre Medizinische Versorgung')
-    st.markdown('Ein Teil der erkrankten Personen muss im Krankenhaus behandelt werden. Die folgende Graphik zeigt die Anzahl der genutzten und freien intensivmedizinischen Plätze.')
+    st.subheader('Stationäre Intensivmedizinische Versorgung')
+    st.markdown('Ein Teil der erkrankten Personen muss im Krankenhaus behandelt werden. Die folgende Graphik zeigt nur die Anzahl der genutzten und freien intensivmedizinischen Plätze - ohne allgemeine Krankenhausbetten.')
 else:
     st.subheader('Emergency Medical Treatment')
-    st.markdown('A fraction of the infected persons require treatment in hospitals. The following plot gives the number of occupied and still available ICUs.')
+    st.markdown('A fraction of the infected persons require treatment in hospitals. The following plot gives only the number of occupied and still available ICUs - without general hospital beds.')
 
 divix = load_data_divi()
 
@@ -454,8 +478,8 @@ else:
 
 fig.add_trace(go.Scatter(x=dummyk.index, y=dummyk['COVID-19 aktuell in Behandlung'].round(),fill='tozeroy',name='COVID-19 aktuell in Behandlung'))
 fig.add_trace(go.Scatter(x=dummyk.index, y=dummyk['COVID-19 beatmet'].round(),fill='tozeroy',name='COVID-19 beatmet'))
-fig.add_trace(go.Scatter(x=dummyk.index, y=dummyk['COVID-19 genesen'].round(),name='COVID-19 genesen'))
-fig.add_trace(go.Scatter(x=dummyk.index, y=dummyk['COVID-19 verstorben'].round(),line=dict(width=1,color='gray'),name='COVID-19 verstorben'))
+fig.add_trace(go.Scatter(x=dummyk.index, y=dummyk['COVID-19 genesen'].round(),name='COVID-19 ICU genesen'))
+fig.add_trace(go.Scatter(x=dummyk.index, y=dummyk['COVID-19 verstorben'].round(),line=dict(width=1,color='gray'),name='COVID-19 ICU verstorben'))
 fig.add_trace(go.Scatter(x=dummyk.index, y=(dummyk['ICU low care (frei)']+dummyk['ICU high care (frei)']+dummyk['COVID-19 aktuell in Behandlung']).round(),line=dict(dash='dash',width=1),name='ICU frei + COVID-19 aktuell'))
 
 fig.update_layout(

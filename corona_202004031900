@@ -1,0 +1,403 @@
+,Bundesland,Landkreis,Faelle,Kausali,Zeit
+0,Bundesland,NAME_DE,FÃ¤lle,Anzahl Tote,2020-04-03 19:00:17.377120
+1,Baden-Württemberg,Alb-Donau-Kreis (Landkreis),251,,2020-04-03 19:00:17.377120
+2,Baden-Württemberg,Baden-Baden (Stadtkreis),93,3,2020-04-03 19:00:17.377120
+3,Baden-Württemberg,Biberach (Landkreis),264,3,2020-04-03 19:00:17.377120
+4,Baden-Württemberg,Böblingen (Landkreis),694,11,2020-04-03 19:00:17.377120
+5,Baden-Württemberg,Bodenseekreis (Landkreis),203,2,2020-04-03 19:00:17.377120
+6,Baden-Württemberg,Breisgau-Hochschwarzwald (Landkreis),547,12,2020-04-03 19:00:17.377120
+7,Baden-Württemberg,Calw (Landkreis),346,4,2020-04-03 19:00:17.377120
+8,Baden-Württemberg,Emmendingen (Landkreis),348,18,2020-04-03 19:00:17.377120
+9,Baden-Württemberg,Enzkreis (Landkreis),163,3,2020-04-03 19:00:17.377120
+10,Baden-Württemberg,Esslingen (Landkreis),944,22,2020-04-03 19:00:17.377120
+11,Baden-Württemberg,Freiburg im Breisgau (Stadtkreis),534,15,2020-04-03 19:00:17.377120
+12,Baden-Württemberg,Freudenstadt (Landkreis),185,,2020-04-03 19:00:17.377120
+13,Baden-Württemberg,Göppingen (Landkreis),477,10,2020-04-03 19:00:17.377120
+14,Baden-Württemberg,Heidelberg (Stadtkreis),179,,2020-04-03 19:00:17.377120
+15,Baden-Württemberg,Heidenheim (Landkreis),225,5,2020-04-03 19:00:17.377120
+16,Baden-Württemberg,Heilbronn (Landkreis),484,8,2020-04-03 19:00:17.377120
+17,Baden-Württemberg,Heilbronn (Stadtkreis),220,,2020-04-03 19:00:17.377120
+18,Baden-Württemberg,Hohenlohekreis (Landkreis),510,12,2020-04-03 19:00:17.377120
+19,Baden-Württemberg,Karlsruhe (Landkreis),371,7,2020-04-03 19:00:17.377120
+20,Baden-Württemberg,Karlsruhe (Stadtkreis),177,1,2020-04-03 19:00:17.377120
+21,Baden-Württemberg,Konstanz (Landkreis),210,2,2020-04-03 19:00:17.377120
+22,Baden-Württemberg,Lörrach (Landkreis),314,10,2020-04-03 19:00:17.377120
+23,Baden-Württemberg,Ludwigsburg (Landkreis),818,14,2020-04-03 19:00:17.377120
+24,Baden-Württemberg,Main-Tauber-Kreis (Landkreis),171,,2020-04-03 19:00:17.377120
+25,Baden-Württemberg,Mannheim (Stadtkreis),244,2,2020-04-03 19:00:17.377120
+26,Baden-Württemberg,Neckar-Odenwald-Kreis (Landkreis),125,4,2020-04-03 19:00:17.377120
+27,Baden-Württemberg,Ortenaukreis (Landkreis),323,25,2020-04-03 19:00:17.377120
+28,Baden-Württemberg,Ostalbkreis (Landkreis),369,1,2020-04-03 19:00:17.377120
+29,Baden-Württemberg,Pforzheim (Stadtkreis),54,1,2020-04-03 19:00:17.377120
+30,Baden-Württemberg,Rastatt (Landkreis),322,1,2020-04-03 19:00:17.377120
+31,Baden-Württemberg,Ravensburg (Landkreis),377,3,2020-04-03 19:00:17.377120
+32,Baden-Württemberg,Rems-Murr-Kreis (Landkreis),553,7,2020-04-03 19:00:17.377120
+33,Baden-Württemberg,Reutlingen (Landkreis),482,9,2020-04-03 19:00:17.377120
+34,Baden-Württemberg,Rhein-Neckar-Kreis (Landkreis),660,10,2020-04-03 19:00:17.377120
+35,Baden-Württemberg,Rottweil (Landkreis),177,2,2020-04-03 19:00:17.377120
+36,Baden-Württemberg,Schwäbisch Hall (Landkreis),427,13,2020-04-03 19:00:17.377120
+37,Baden-Württemberg,Schwarzwald-Baar-Kreis (Landkreis),251,3,2020-04-03 19:00:17.377120
+38,Baden-Württemberg,Sigmaringen (Landkreis),452,10,2020-04-03 19:00:17.377120
+39,Baden-Württemberg,Stuttgart (Stadtkreis),857,9,2020-04-03 19:00:17.377120
+40,Baden-Württemberg,Tübingen (Landkreis),768,8,2020-04-03 19:00:17.377120
+41,Baden-Württemberg,Tuttlingen (Landkreis),192,4,2020-04-03 19:00:17.377120
+42,Baden-Württemberg,Ulm (Stadtkreis),128,,2020-04-03 19:00:17.377120
+43,Baden-Württemberg,Waldshut (Landkreis),119,1,2020-04-03 19:00:17.377120
+44,Baden-Württemberg,Zollernalbkreis (Landkreis),451,10,2020-04-03 19:00:17.377120
+45,Bayern,Aichach-Friedberg (Landkreis),154,3,2020-04-03 19:00:17.377120
+46,Bayern,Altötting (Landkreis),205,5,2020-04-03 19:00:17.377120
+47,Bayern,Amberg (Kreisfreie Stadt),26,1,2020-04-03 19:00:17.377120
+48,Bayern,Amberg-Sulzbach (Landkreis),121,3,2020-04-03 19:00:17.377120
+49,Bayern,Ansbach (Kreisfreie Stadt),34,,2020-04-03 19:00:17.377120
+50,Bayern,Ansbach (Landkreis),230,,2020-04-03 19:00:17.377120
+51,Bayern,Aschaffenburg (Kreisfreie Stadt),63,,2020-04-03 19:00:17.377120
+52,Bayern,Aschaffenburg (Landkreis),187,10,2020-04-03 19:00:17.377120
+53,Bayern,Augsburg (Kreisfreie Stadt),194,3,2020-04-03 19:00:17.377120
+54,Bayern,Augsburg (Landkreis),219,,2020-04-03 19:00:17.377120
+55,Bayern,Bad Kissingen (Landkreis),114,1,2020-04-03 19:00:17.377120
+56,Bayern,Bad Tölz-Wolfratshausen (Landkreis),229,2,2020-04-03 19:00:17.377120
+57,Bayern,Bamberg (Kreisfreie Stadt),87,,2020-04-03 19:00:17.377120
+58,Bayern,Bamberg (Landkreis),240,6,2020-04-03 19:00:17.377120
+59,Bayern,Bayreuth (Kreisfreie Stadt),73,1,2020-04-03 19:00:17.377120
+60,Bayern,Bayreuth (Landkreis),152,2,2020-04-03 19:00:17.377120
+61,Bayern,Berchtesgadener Land (Landkreis),129,3,2020-04-03 19:00:17.377120
+62,Bayern,Cham (Landkreis),243,4,2020-04-03 19:00:17.377120
+63,Bayern,Coburg (Kreisfreie Stadt),23,,2020-04-03 19:00:17.377120
+64,Bayern,Coburg (Landkreis),66,1,2020-04-03 19:00:17.377120
+65,Bayern,Dachau (Landkreis),390,4,2020-04-03 19:00:17.377120
+66,Bayern,Deggendorf (Landkreis),141,4,2020-04-03 19:00:17.377120
+67,Bayern,Dillingen a.d. Donau (Landkreis),74,1,2020-04-03 19:00:17.377120
+68,Bayern,Dingolfing-Landau (Landkreis),110,1,2020-04-03 19:00:17.377120
+69,Bayern,Donau-Ries (Landkreis),138,5,2020-04-03 19:00:17.377120
+70,Bayern,Ebersberg (Landkreis),242,,2020-04-03 19:00:17.377120
+71,Bayern,Eichstätt (Landkreis),108,2,2020-04-03 19:00:17.377120
+72,Bayern,Erding (Landkreis),371,3,2020-04-03 19:00:17.377120
+73,Bayern,Erlangen (Kreisfreie Stadt),72,1,2020-04-03 19:00:17.377120
+74,Bayern,Erlangen-Höchstadt (Landkreis),87,1,2020-04-03 19:00:17.377120
+75,Bayern,Forchheim (Landkreis),121,2,2020-04-03 19:00:17.377120
+76,Bayern,Freising (Landkreis),615,13,2020-04-03 19:00:17.377120
+77,Bayern,Freyung-Grafenau (Landkreis),100,2,2020-04-03 19:00:17.377120
+78,Bayern,Fürstenfeldbruck (Landkreis),442,4,2020-04-03 19:00:17.377120
+79,Bayern,Fürth (Kreisfreie Stadt),102,1,2020-04-03 19:00:17.377120
+80,Bayern,Fürth (Landkreis),180,4,2020-04-03 19:00:17.377120
+81,Bayern,Garmisch-Partenkirchen (Landkreis),139,1,2020-04-03 19:00:17.377120
+82,Bayern,Günzburg (Landkreis),101,,2020-04-03 19:00:17.377120
+83,Bayern,Haßberge (Landkreis),77,,2020-04-03 19:00:17.377120
+84,Bayern,Hof (Kreisfreie Stadt),52,1,2020-04-03 19:00:17.377120
+85,Bayern,Hof (Landkreis),166,1,2020-04-03 19:00:17.377120
+86,Bayern,Ingolstadt (Kreisfreie Stadt),138,3,2020-04-03 19:00:17.377120
+87,Bayern,Kaufbeuren (Kreisfreie Stadt),45,,2020-04-03 19:00:17.377120
+88,Bayern,Kelheim (Landkreis),218,7,2020-04-03 19:00:17.377120
+89,Bayern,Kempten (Allgäu) (Kreisfreie Stadt),48,3,2020-04-03 19:00:17.377120
+90,Bayern,Kitzingen (Landkreis),37,,2020-04-03 19:00:17.377120
+91,Bayern,Kronach (Landkreis),58,,2020-04-03 19:00:17.377120
+92,Bayern,Kulmbach (Landkreis),91,2,2020-04-03 19:00:17.377120
+93,Bayern,Landsberg am Lech (Landkreis),175,4,2020-04-03 19:00:17.377120
+94,Bayern,Landshut (Kreisfreie Stadt),147,3,2020-04-03 19:00:17.377120
+95,Bayern,Landshut (Landkreis),348,8,2020-04-03 19:00:17.377120
+96,Bayern,Lichtenfels (Landkreis),111,1,2020-04-03 19:00:17.377120
+97,Bayern,Lindau (Bodensee) (Landkreis),167,2,2020-04-03 19:00:17.377120
+98,Bayern,Main-Spessart (Landkreis),86,2,2020-04-03 19:00:17.377120
+99,Bayern,Memmingen (Kreisfreie Stadt),31,,2020-04-03 19:00:17.377120
+100,Bayern,Miesbach (Landkreis),359,1,2020-04-03 19:00:17.377120
+101,Bayern,Miltenberg (Landkreis),149,,2020-04-03 19:00:17.377120
+102,Bayern,Mühldorf a. Inn (Landkreis),220,4,2020-04-03 19:00:17.377120
+103,Bayern,München (Kreisfreie Stadt),3048,6,2020-04-03 19:00:17.377120
+104,Bayern,München (Landkreis),730,7,2020-04-03 19:00:17.377120
+105,Bayern,Neu-Ulm (Landkreis),211,2,2020-04-03 19:00:17.377120
+106,Bayern,Neuburg-Schrobenhausen (Landkreis),108,,2020-04-03 19:00:17.377120
+107,Bayern,Neumarkt i.d. OPf. (Landkreis),131,2,2020-04-03 19:00:17.377120
+108,Bayern,Neustadt a.d. Aisch-Bad Windsheim (Landkreis),74,1,2020-04-03 19:00:17.377120
+109,Bayern,Neustadt a.d. Waldnaab (Landkreis),343,10,2020-04-03 19:00:17.377120
+110,Bayern,Nürnberg (Kreisfreie Stadt),358,5,2020-04-03 19:00:17.377120
+111,Bayern,Nürnberger Land (Landkreis),250,9,2020-04-03 19:00:17.377120
+112,Bayern,Oberallgäu (Landkreis),110,3,2020-04-03 19:00:17.377120
+113,Bayern,Ostallgäu (Landkreis),258,5,2020-04-03 19:00:17.377120
+114,Bayern,Passau (Kreisfreie Stadt),60,2,2020-04-03 19:00:17.377120
+115,Bayern,Passau (Landkreis),218,7,2020-04-03 19:00:17.377120
+116,Bayern,Pfaffenhofen a.d. Ilm (Landkreis),168,2,2020-04-03 19:00:17.377120
+117,Bayern,Regen (Landkreis),70,,2020-04-03 19:00:17.377120
+118,Bayern,Regensburg (Kreisfreie Stadt),222,1,2020-04-03 19:00:17.377120
+119,Bayern,Regensburg (Landkreis),217,,2020-04-03 19:00:17.377120
+120,Bayern,Rhön-Grabfeld (Landkreis),59,,2020-04-03 19:00:17.377120
+121,Bayern,Rosenheim (Kreisfreie Stadt),153,1,2020-04-03 19:00:17.377120
+122,Bayern,Rosenheim (Landkreis),1008,21,2020-04-03 19:00:17.377120
+123,Bayern,Roth (Landkreis),135,1,2020-04-03 19:00:17.377120
+124,Bayern,Rottal-Inn (Landkreis),370,9,2020-04-03 19:00:17.377120
+125,Bayern,Schwabach (Kreisfreie Stadt),38,,2020-04-03 19:00:17.377120
+126,Bayern,Schwandorf (Landkreis),189,3,2020-04-03 19:00:17.377120
+127,Bayern,Schweinfurt (Kreisfreie Stadt),62,5,2020-04-03 19:00:17.377120
+128,Bayern,Schweinfurt (Landkreis),170,,2020-04-03 19:00:17.377120
+129,Bayern,Starnberg (Landkreis),346,2,2020-04-03 19:00:17.377120
+130,Bayern,Straubing (Kreisfreie Stadt),133,3,2020-04-03 19:00:17.377120
+131,Bayern,Straubing-Bogen (Landkreis),168,6,2020-04-03 19:00:17.377120
+132,Bayern,Tirschenreuth (Landkreis),668,35,2020-04-03 19:00:17.377120
+133,Bayern,Traunstein (Landkreis),351,6,2020-04-03 19:00:17.377120
+134,Bayern,Unterallgäu (Landkreis),155,3,2020-04-03 19:00:17.377120
+135,Bayern,Weiden i.d. OPf. (Kreisfreie Stadt),109,2,2020-04-03 19:00:17.377120
+136,Bayern,Weilheim-Schongau (Landkreis),262,1,2020-04-03 19:00:17.377120
+137,Bayern,Weißenburg-Gunzenhausen (Landkreis),136,2,2020-04-03 19:00:17.377120
+138,Bayern,Wunsiedel i. Fichtelgebirge (Landkreis),289,8,2020-04-03 19:00:17.377120
+139,Bayern,Würzburg (Kreisfreie Stadt),318,21,2020-04-03 19:00:17.377120
+140,Bayern,Würzburg (Landkreis),247,,2020-04-03 19:00:17.377120
+141,Berlin,Berlin (Kreisfreie Stadt),3223,20,2020-04-03 19:00:17.377120
+142,Brandenburg,Barnim (Landkreis),94,,2020-04-03 19:00:17.377120
+143,Brandenburg,Brandenburg an der Havel (Kreisfreie Stadt),29,,2020-04-03 19:00:17.377120
+144,Brandenburg,Cottbus (Kreisfreie Stadt),34,,2020-04-03 19:00:17.377120
+145,Brandenburg,Dahme-Spreewald (Landkreis),113,1,2020-04-03 19:00:17.377120
+146,Brandenburg,Elbe-Elster (Landkreis),52,1,2020-04-03 19:00:17.377120
+147,Brandenburg,Frankfurt (Oder) (Kreisfreie Stadt),12,,2020-04-03 19:00:17.377120
+148,Brandenburg,Havelland (Landkreis),79,,2020-04-03 19:00:17.377120
+149,Brandenburg,Märkisch-Oderland (Landkreis),102,,2020-04-03 19:00:17.377120
+150,Brandenburg,Oberhavel (Landkreis),126,1,2020-04-03 19:00:17.377120
+151,Brandenburg,Oberspreewald-Lausitz (Landkreis),28,,2020-04-03 19:00:17.377120
+152,Brandenburg,Oder-Spree (Landkreis),83,,2020-04-03 19:00:17.377120
+153,Brandenburg,Ostprignitz-Ruppin (Landkreis),21,,2020-04-03 19:00:17.377120
+154,Brandenburg,Potsdam (Kreisfreie Stadt),216,6,2020-04-03 19:00:17.377120
+155,Brandenburg,Potsdam-Mittelmark (Landkreis),175,4,2020-04-03 19:00:17.377120
+156,Brandenburg,Prignitz (Landkreis),9,,2020-04-03 19:00:17.377120
+157,Brandenburg,Spree-Neiße (Landkreis),49,,2020-04-03 19:00:17.377120
+158,Brandenburg,Teltow-Fläming (Landkreis),67,,2020-04-03 19:00:17.377120
+159,Brandenburg,Uckermark (Landkreis),22,1,2020-04-03 19:00:17.377120
+160,Bremen,Bremen (Kreisfreie Stadt),319,6,2020-04-03 19:00:17.377120
+161,Bremen,Bremerhaven (Kreisfreie Stadt),22,,2020-04-03 19:00:17.377120
+162,Hamburg,Hamburg (Kreisfreie Stadt),2739,16,2020-04-03 19:00:17.377120
+163,Hessen,Bergstraße (Landkreis),201,1,2020-04-03 19:00:17.377120
+164,Hessen,Darmstadt (Kreisfreie Stadt),83,,2020-04-03 19:00:17.377120
+165,Hessen,Darmstadt-Dieburg (Landkreis),215,2,2020-04-03 19:00:17.377120
+166,Hessen,Frankfurt am Main (Kreisfreie Stadt),504,5,2020-04-03 19:00:17.377120
+167,Hessen,Fulda (Landkreis),196,2,2020-04-03 19:00:17.377120
+168,Hessen,Gießen (Landkreis),153,,2020-04-03 19:00:17.377120
+169,Hessen,Groß-Gerau (Landkreis),225,1,2020-04-03 19:00:17.377120
+170,Hessen,Hersfeld-Rotenburg (Landkreis),73,4,2020-04-03 19:00:17.377120
+171,Hessen,Hochtaunuskreis (Landkreis),172,,2020-04-03 19:00:17.377120
+172,Hessen,Kassel (Kreisfreie Stadt),93,,2020-04-03 19:00:17.377120
+173,Hessen,Kassel (Landkreis),99,1,2020-04-03 19:00:17.377120
+174,Hessen,Lahn-Dill-Kreis (Landkreis),193,,2020-04-03 19:00:17.377120
+175,Hessen,Limburg-Weilburg (Landkreis),188,,2020-04-03 19:00:17.377120
+176,Hessen,Main-Kinzig-Kreis (Landkreis),213,3,2020-04-03 19:00:17.377120
+177,Hessen,Main-Taunus-Kreis (Landkreis),151,3,2020-04-03 19:00:17.377120
+178,Hessen,Marburg-Biedenkopf (Landkreis),122,1,2020-04-03 19:00:17.377120
+179,Hessen,Odenwaldkreis (Landkreis),103,2,2020-04-03 19:00:17.377120
+180,Hessen,Offenbach (Landkreis),218,3,2020-04-03 19:00:17.377120
+181,Hessen,Offenbach am Main (Kreisfreie Stadt),33,1,2020-04-03 19:00:17.377120
+182,Hessen,Rheingau-Taunus-Kreis (Landkreis),139,,2020-04-03 19:00:17.377120
+183,Hessen,Schwalm-Eder-Kreis (Landkreis),213,5,2020-04-03 19:00:17.377120
+184,Hessen,Vogelsbergkreis (Landkreis),70,,2020-04-03 19:00:17.377120
+185,Hessen,Waldeck-Frankenberg (Landkreis),80,,2020-04-03 19:00:17.377120
+186,Hessen,Werra-Meißner-Kreis (Landkreis),25,,2020-04-03 19:00:17.377120
+187,Hessen,Wetteraukreis (Landkreis),141,1,2020-04-03 19:00:17.377120
+188,Hessen,Wiesbaden (Kreisfreie Stadt),194,2,2020-04-03 19:00:17.377120
+189,Mecklenburg-Vorpommern,Ludwigslust-Parchim (Landkreis),47,1,2020-04-03 19:00:17.377120
+190,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte (Landkreis),90,2,2020-04-03 19:00:17.377120
+191,Mecklenburg-Vorpommern,Nordwestmecklenburg (Landkreis),51,1,2020-04-03 19:00:17.377120
+192,Mecklenburg-Vorpommern,Rostock (Kreisfreie Stadt),62,,2020-04-03 19:00:17.377120
+193,Mecklenburg-Vorpommern,Rostock (Landkreis),42,1,2020-04-03 19:00:17.377120
+194,Mecklenburg-Vorpommern,Schwerin (Kreisfreie Stadt),75,,2020-04-03 19:00:17.377120
+195,Mecklenburg-Vorpommern,Vorpommern-Greifswald (Landkreis),76,,2020-04-03 19:00:17.377120
+196,Mecklenburg-Vorpommern,Vorpommern-Rügen (Landkreis),58,,2020-04-03 19:00:17.377120
+197,Niedersachsen,Ammerland (Landkreis),95,1,2020-04-03 19:00:17.377120
+198,Niedersachsen,Aurich (Landkreis),66,2,2020-04-03 19:00:17.377120
+199,Niedersachsen,Braunschweig (Kreisfreie Stadt),206,1,2020-04-03 19:00:17.377120
+200,Niedersachsen,Celle (Landkreis),100,3,2020-04-03 19:00:17.377120
+201,Niedersachsen,Cloppenburg (Landkreis),37,,2020-04-03 19:00:17.377120
+202,Niedersachsen,Cuxhaven (Landkreis),59,,2020-04-03 19:00:17.377120
+203,Niedersachsen,Delmenhorst (Kreisfreie Stadt),23,1,2020-04-03 19:00:17.377120
+204,Niedersachsen,Diepholz (Landkreis),180,2,2020-04-03 19:00:17.377120
+205,Niedersachsen,Emden (Kreisfreie Stadt),9,,2020-04-03 19:00:17.377120
+206,Niedersachsen,Emsland (Landkreis),170,3,2020-04-03 19:00:17.377120
+207,Niedersachsen,Friesland (Landkreis),18,,2020-04-03 19:00:17.377120
+208,Niedersachsen,Gifhorn (Landkreis),85,,2020-04-03 19:00:17.377120
+209,Niedersachsen,Goslar (Landkreis),70,3,2020-04-03 19:00:17.377120
+210,Niedersachsen,Göttingen (Landkreis),223,1,2020-04-03 19:00:17.377120
+211,Niedersachsen,Grafschaft Bentheim (Landkreis),114,1,2020-04-03 19:00:17.377120
+212,Niedersachsen,Hameln-Pyrmont (Landkreis),78,1,2020-04-03 19:00:17.377120
+213,Niedersachsen,Harburg (Landkreis),231,1,2020-04-03 19:00:17.377120
+214,Niedersachsen,Heidekreis (Landkreis),36,,2020-04-03 19:00:17.377120
+215,Niedersachsen,Helmstedt (Landkreis),75,,2020-04-03 19:00:17.377120
+216,Niedersachsen,Hildesheim (Landkreis),181,1,2020-04-03 19:00:17.377120
+217,Niedersachsen,Holzminden (Landkreis),70,1,2020-04-03 19:00:17.377120
+218,Niedersachsen,Leer (Landkreis),48,1,2020-04-03 19:00:17.377120
+219,Niedersachsen,Lüchow-Dannenberg (Landkreis),11,,2020-04-03 19:00:17.377120
+220,Niedersachsen,Lüneburg (Landkreis),110,,2020-04-03 19:00:17.377120
+221,Niedersachsen,Nienburg (Weser) (Landkreis),40,,2020-04-03 19:00:17.377120
+222,Niedersachsen,Northeim (Landkreis),45,,2020-04-03 19:00:17.377120
+223,Niedersachsen,Oldenburg (Landkreis),147,1,2020-04-03 19:00:17.377120
+224,Niedersachsen,Oldenburg (Oldb) (Kreisfreie Stadt),106,,2020-04-03 19:00:17.377120
+225,Niedersachsen,Osnabrück (Kreisfreie Stadt),257,1,2020-04-03 19:00:17.377120
+226,Niedersachsen,Osnabrück (Landkreis),418,6,2020-04-03 19:00:17.377120
+227,Niedersachsen,Osterholz (Landkreis),57,,2020-04-03 19:00:17.377120
+228,Niedersachsen,Peine (Landkreis),100,1,2020-04-03 19:00:17.377120
+229,Niedersachsen,Region Hannover (Landkreis),1009,10,2020-04-03 19:00:17.377120
+230,Niedersachsen,Rotenburg (Wümme) (Landkreis),59,1,2020-04-03 19:00:17.377120
+231,Niedersachsen,Salzgitter (Kreisfreie Stadt),64,1,2020-04-03 19:00:17.377120
+232,Niedersachsen,Schaumburg (Landkreis),64,,2020-04-03 19:00:17.377120
+233,Niedersachsen,Stade (Landkreis),133,1,2020-04-03 19:00:17.377120
+234,Niedersachsen,Uelzen (Landkreis),26,,2020-04-03 19:00:17.377120
+235,Niedersachsen,Vechta (Landkreis),210,2,2020-04-03 19:00:17.377120
+236,Niedersachsen,Verden (Landkreis),82,1,2020-04-03 19:00:17.377120
+237,Niedersachsen,Wesermarsch (Landkreis),46,,2020-04-03 19:00:17.377120
+238,Niedersachsen,Wilhelmshaven (Kreisfreie Stadt),8,,2020-04-03 19:00:17.377120
+239,Niedersachsen,Wittmund (Landkreis),16,,2020-04-03 19:00:17.377120
+240,Niedersachsen,Wolfenbüttel (Landkreis),60,,2020-04-03 19:00:17.377120
+241,Niedersachsen,Wolfsburg (Kreisfreie Stadt),213,24,2020-04-03 19:00:17.377120
+242,Nordrhein-Westfalen,Bielefeld (Kreisfreie Stadt),334,,2020-04-03 19:00:17.377120
+243,Nordrhein-Westfalen,Bochum (Kreisfreie Stadt),301,10,2020-04-03 19:00:17.377120
+244,Nordrhein-Westfalen,Bonn (Kreisfreie Stadt),353,3,2020-04-03 19:00:17.377120
+245,Nordrhein-Westfalen,Borken (Kreis),566,8,2020-04-03 19:00:17.377120
+246,Nordrhein-Westfalen,Bottrop (Kreisfreie Stadt),51,1,2020-04-03 19:00:17.377120
+247,Nordrhein-Westfalen,Coesfeld (Kreis),372,7,2020-04-03 19:00:17.377120
+248,Nordrhein-Westfalen,Dortmund (Kreisfreie Stadt),380,1,2020-04-03 19:00:17.377120
+249,Nordrhein-Westfalen,Duisburg (Kreisfreie Stadt),367,2,2020-04-03 19:00:17.377120
+250,Nordrhein-Westfalen,Düren (Kreis),319,8,2020-04-03 19:00:17.377120
+251,Nordrhein-Westfalen,Düsseldorf (Kreisfreie Stadt),538,4,2020-04-03 19:00:17.377120
+252,Nordrhein-Westfalen,Ennepe-Ruhr-Kreis (Kreis),229,1,2020-04-03 19:00:17.377120
+253,Nordrhein-Westfalen,Essen (Kreisfreie Stadt),457,7,2020-04-03 19:00:17.377120
+254,Nordrhein-Westfalen,Euskirchen (Kreis),165,2,2020-04-03 19:00:17.377120
+255,Nordrhein-Westfalen,Gelsenkirchen (Kreisfreie Stadt),143,2,2020-04-03 19:00:17.377120
+256,Nordrhein-Westfalen,Gütersloh (Kreis),340,2,2020-04-03 19:00:17.377120
+257,Nordrhein-Westfalen,Hagen (Kreisfreie Stadt),96,2,2020-04-03 19:00:17.377120
+258,Nordrhein-Westfalen,Hamm (Kreisfreie Stadt),117,4,2020-04-03 19:00:17.377120
+259,Nordrhein-Westfalen,Heinsberg (Kreis),1432,40,2020-04-03 19:00:17.377120
+260,Nordrhein-Westfalen,Herford (Kreis),194,1,2020-04-03 19:00:17.377120
+261,Nordrhein-Westfalen,Herne (Kreisfreie Stadt),66,,2020-04-03 19:00:17.377120
+262,Nordrhein-Westfalen,Hochsauerlandkreis (Kreis),346,1,2020-04-03 19:00:17.377120
+263,Nordrhein-Westfalen,Höxter (Kreis),78,1,2020-04-03 19:00:17.377120
+264,Nordrhein-Westfalen,Kleve (Kreis),272,3,2020-04-03 19:00:17.377120
+265,Nordrhein-Westfalen,Köln (Kreisfreie Stadt),1657,19,2020-04-03 19:00:17.377120
+266,Nordrhein-Westfalen,Krefeld (Kreisfreie Stadt),251,1,2020-04-03 19:00:17.377120
+267,Nordrhein-Westfalen,Leverkusen (Kreisfreie Stadt),141,1,2020-04-03 19:00:17.377120
+268,Nordrhein-Westfalen,Lippe (Kreis),393,3,2020-04-03 19:00:17.377120
+269,Nordrhein-Westfalen,Märkischer Kreis (Kreis),175,3,2020-04-03 19:00:17.377120
+270,Nordrhein-Westfalen,Mettmann (Kreis),451,9,2020-04-03 19:00:17.377120
+271,Nordrhein-Westfalen,Minden-Lübbecke (Kreis),364,1,2020-04-03 19:00:17.377120
+272,Nordrhein-Westfalen,Mönchengladbach (Kreisfreie Stadt),217,1,2020-04-03 19:00:17.377120
+273,Nordrhein-Westfalen,Mülheim an der Ruhr (Kreisfreie Stadt),94,2,2020-04-03 19:00:17.377120
+274,Nordrhein-Westfalen,Münster (Kreisfreie Stadt),522,2,2020-04-03 19:00:17.377120
+275,Nordrhein-Westfalen,Oberbergischer Kreis (Kreis),294,2,2020-04-03 19:00:17.377120
+276,Nordrhein-Westfalen,Oberhausen (Kreisfreie Stadt),91,,2020-04-03 19:00:17.377120
+277,Nordrhein-Westfalen,Olpe (Kreis),193,2,2020-04-03 19:00:17.377120
+278,Nordrhein-Westfalen,Paderborn (Kreis),295,5,2020-04-03 19:00:17.377120
+279,Nordrhein-Westfalen,Recklinghausen (Kreis),463,1,2020-04-03 19:00:17.377120
+280,Nordrhein-Westfalen,Remscheid (Kreisfreie Stadt),80,1,2020-04-03 19:00:17.377120
+281,Nordrhein-Westfalen,Rhein-Erft-Kreis (Kreis),473,5,2020-04-03 19:00:17.377120
+282,Nordrhein-Westfalen,Rhein-Kreis Neuss (Kreis),410,6,2020-04-03 19:00:17.377120
+283,Nordrhein-Westfalen,Rhein-Sieg-Kreis (Kreis),581,2,2020-04-03 19:00:17.377120
+284,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis (Kreis),231,3,2020-04-03 19:00:17.377120
+285,Nordrhein-Westfalen,Siegen-Wittgenstein (Kreis),140,2,2020-04-03 19:00:17.377120
+286,Nordrhein-Westfalen,Soest (Kreis),220,1,2020-04-03 19:00:17.377120
+287,Nordrhein-Westfalen,Solingen (Kreisfreie Stadt),124,1,2020-04-03 19:00:17.377120
+288,Nordrhein-Westfalen,Städteregion Aachen (Kreis),1155,21,2020-04-03 19:00:17.377120
+289,Nordrhein-Westfalen,Steinfurt (Kreis),528,3,2020-04-03 19:00:17.377120
+290,Nordrhein-Westfalen,Unna (Kreis),282,3,2020-04-03 19:00:17.377120
+291,Nordrhein-Westfalen,Viersen (Kreis),340,5,2020-04-03 19:00:17.377120
+292,Nordrhein-Westfalen,Warendorf (Kreis),338,2,2020-04-03 19:00:17.377120
+293,Nordrhein-Westfalen,Wesel (Kreis),258,2,2020-04-03 19:00:17.377120
+294,Nordrhein-Westfalen,Wuppertal (Kreisfreie Stadt),280,5,2020-04-03 19:00:17.377120
+295,Rheinland-Pfalz,Ahrweiler (Landkreis),80,1,2020-04-03 19:00:17.377120
+296,Rheinland-Pfalz,Altenkirchen (Westerwald) (Landkreis),58,1,2020-04-03 19:00:17.377120
+297,Rheinland-Pfalz,Alzey-Worms (Landkreis),93,,2020-04-03 19:00:17.377120
+298,Rheinland-Pfalz,Bad Dürkheim (Landkreis),200,3,2020-04-03 19:00:17.377120
+299,Rheinland-Pfalz,Bad Kreuznach (Landkreis),127,,2020-04-03 19:00:17.377120
+300,Rheinland-Pfalz,Bernkastel-Wittlich (Landkreis),75,,2020-04-03 19:00:17.377120
+301,Rheinland-Pfalz,Birkenfeld (Landkreis),40,,2020-04-03 19:00:17.377120
+302,Rheinland-Pfalz,Cochem-Zell (Landkreis),113,,2020-04-03 19:00:17.377120
+303,Rheinland-Pfalz,Donnersbergkreis (Landkreis),68,1,2020-04-03 19:00:17.377120
+304,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm (Landkreis),115,,2020-04-03 19:00:17.377120
+305,Rheinland-Pfalz,Frankenthal (Pfalz) (Kreisfreie Stadt),25,,2020-04-03 19:00:17.377120
+306,Rheinland-Pfalz,Germersheim (Landkreis),71,1,2020-04-03 19:00:17.377120
+307,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),64,1,2020-04-03 19:00:17.377120
+308,Rheinland-Pfalz,Kaiserslautern (Landkreis),63,,2020-04-03 19:00:17.377120
+309,Rheinland-Pfalz,Koblenz (Kreisfreie Stadt),156,6,2020-04-03 19:00:17.377120
+310,Rheinland-Pfalz,Kusel (Landkreis),56,,2020-04-03 19:00:17.377120
+311,Rheinland-Pfalz,Landau in der Pfalz (Kreisfreie Stadt),41,,2020-04-03 19:00:17.377120
+312,Rheinland-Pfalz,Ludwigshafen am Rhein (Kreisfreie Stadt),109,,2020-04-03 19:00:17.377120
+313,Rheinland-Pfalz,Mainz (Kreisfreie Stadt),222,,2020-04-03 19:00:17.377120
+314,Rheinland-Pfalz,Mainz-Bingen (Landkreis),168,1,2020-04-03 19:00:17.377120
+315,Rheinland-Pfalz,Mayen-Koblenz (Landkreis),242,2,2020-04-03 19:00:17.377120
+316,Rheinland-Pfalz,Neustadt an der Weinstraße (Kreisfreie Stadt),63,1,2020-04-03 19:00:17.377120
+317,Rheinland-Pfalz,Neuwied (Landkreis),155,2,2020-04-03 19:00:17.377120
+318,Rheinland-Pfalz,Pirmasens (Kreisfreie Stadt),20,,2020-04-03 19:00:17.377120
+319,Rheinland-Pfalz,Rhein-Hunsrück-Kreis (Landkreis),115,,2020-04-03 19:00:17.377120
+320,Rheinland-Pfalz,Rhein-Lahn-Kreis (Landkreis),104,2,2020-04-03 19:00:17.377120
+321,Rheinland-Pfalz,Rhein-Pfalz-Kreis (Landkreis),113,,2020-04-03 19:00:17.377120
+322,Rheinland-Pfalz,Speyer (Kreisfreie Stadt),34,,2020-04-03 19:00:17.377120
+323,Rheinland-Pfalz,Südliche Weinstraße (Landkreis),110,,2020-04-03 19:00:17.377120
+324,Rheinland-Pfalz,Südwestpfalz (Landkreis),56,2,2020-04-03 19:00:17.377120
+325,Rheinland-Pfalz,Trier (Kreisfreie Stadt),69,,2020-04-03 19:00:17.377120
+326,Rheinland-Pfalz,Trier-Saarburg (Landkreis),96,1,2020-04-03 19:00:17.377120
+327,Rheinland-Pfalz,Vulkaneifel (Landkreis),64,,2020-04-03 19:00:17.377120
+328,Rheinland-Pfalz,Westerwaldkreis (Landkreis),177,3,2020-04-03 19:00:17.377120
+329,Rheinland-Pfalz,Worms (Kreisfreie Stadt),86,2,2020-04-03 19:00:17.377120
+330,Rheinland-Pfalz,Zweibrücken (Kreisfreie Stadt),18,,2020-04-03 19:00:17.377120
+331,Saarland,Merzig-Wadern (Landkreis),74,,2020-04-03 19:00:17.377120
+332,Saarland,Neunkirchen (Landkreis),135,,2020-04-03 19:00:17.377120
+333,Saarland,Regionalverband Saarbrücken (Landkreis),511,13,2020-04-03 19:00:17.377120
+334,Saarland,Saarlouis (Landkreis),215,1,2020-04-03 19:00:17.377120
+335,Saarland,Saarpfalz-Kreis (Landkreis),213,1,2020-04-03 19:00:17.377120
+336,Saarland,St. Wendel (Landkreis),104,,2020-04-03 19:00:17.377120
+337,Sachsen,Bautzen (Landkreis),201,2,2020-04-03 19:00:17.377120
+338,Sachsen,Chemnitz (Kreisfreie Stadt),138,1,2020-04-03 19:00:17.377120
+339,Sachsen,Dresden (Kreisfreie Stadt),403,4,2020-04-03 19:00:17.377120
+340,Sachsen,Erzgebirgskreis (Landkreis),239,4,2020-04-03 19:00:17.377120
+341,Sachsen,Görlitz (Landkreis),89,2,2020-04-03 19:00:17.377120
+342,Sachsen,Leipzig (Kreisfreie Stadt),378,1,2020-04-03 19:00:17.377120
+343,Sachsen,Leipzig (Landkreis),119,,2020-04-03 19:00:17.377120
+344,Sachsen,Meißen (Landkreis),105,3,2020-04-03 19:00:17.377120
+345,Sachsen,Mittelsachsen (Landkreis),141,1,2020-04-03 19:00:17.377120
+346,Sachsen,Nordsachsen (Landkreis),73,,2020-04-03 19:00:17.377120
+347,Sachsen,Sächsische Schweiz-Osterzgebirge (Landkreis),200,,2020-04-03 19:00:17.377120
+348,Sachsen,Vogtlandkreis (Landkreis),128,1,2020-04-03 19:00:17.377120
+349,Sachsen,Zwickau (Landkreis),432,6,2020-04-03 19:00:17.377120
+350,Sachsen-Anhalt,Altmarkkreis Salzwedel (Landkreis),17,,2020-04-03 19:00:17.377120
+351,Sachsen-Anhalt,Anhalt-Bitterfeld (Landkreis),41,,2020-04-03 19:00:17.377120
+352,Sachsen-Anhalt,Börde (Landkreis),64,,2020-04-03 19:00:17.377120
+353,Sachsen-Anhalt,Burgenlandkreis (Landkreis),44,,2020-04-03 19:00:17.377120
+354,Sachsen-Anhalt,Dessau-Roßlau (Kreisfreie Stadt),27,1,2020-04-03 19:00:17.377120
+355,Sachsen-Anhalt,Halle (Saale) (Kreisfreie Stadt),203,3,2020-04-03 19:00:17.377120
+356,Sachsen-Anhalt,Harz (Landkreis),79,1,2020-04-03 19:00:17.377120
+357,Sachsen-Anhalt,Jerichower Land (Landkreis),22,,2020-04-03 19:00:17.377120
+358,Sachsen-Anhalt,Magdeburg (Kreisfreie Stadt),88,1,2020-04-03 19:00:17.377120
+359,Sachsen-Anhalt,Mansfeld-Südharz (Landkreis),27,1,2020-04-03 19:00:17.377120
+360,Sachsen-Anhalt,Saalekreis (Landkreis),80,1,2020-04-03 19:00:17.377120
+361,Sachsen-Anhalt,Salzlandkreis (Landkreis),48,,2020-04-03 19:00:17.377120
+362,Sachsen-Anhalt,Stendal (Landkreis),63,2,2020-04-03 19:00:17.377120
+363,Sachsen-Anhalt,Wittenberg (Landkreis),101,1,2020-04-03 19:00:17.377120
+364,Schleswig-Holstein,Dithmarschen (Kreis),31,2,2020-04-03 19:00:17.377120
+365,Schleswig-Holstein,Flensburg (Kreisfreie Stadt),25,,2020-04-03 19:00:17.377120
+366,Schleswig-Holstein,Herzogtum Lauenburg (Kreis),135,2,2020-04-03 19:00:17.377120
+367,Schleswig-Holstein,Kiel (Kreisfreie Stadt),146,1,2020-04-03 19:00:17.377120
+368,Schleswig-Holstein,Lübeck (Kreisfreie Stadt),101,1,2020-04-03 19:00:17.377120
+369,Schleswig-Holstein,Neumünster (Kreisfreie Stadt),29,,2020-04-03 19:00:17.377120
+370,Schleswig-Holstein,Nordfriesland (Kreis),48,1,2020-04-03 19:00:17.377120
+371,Schleswig-Holstein,Ostholstein (Kreis),47,,2020-04-03 19:00:17.377120
+372,Schleswig-Holstein,Pinneberg (Kreis),267,2,2020-04-03 19:00:17.377120
+373,Schleswig-Holstein,Plön (Kreis),68,2,2020-04-03 19:00:17.377120
+374,Schleswig-Holstein,Rendsburg-Eckernförde (Kreis),147,3,2020-04-03 19:00:17.377120
+375,Schleswig-Holstein,Schleswig-Flensburg (Kreis),90,,2020-04-03 19:00:17.377120
+376,Schleswig-Holstein,Segeberg (Kreis),119,,2020-04-03 19:00:17.377120
+377,Schleswig-Holstein,Steinburg (Kreis),53,,2020-04-03 19:00:17.377120
+378,Schleswig-Holstein,Stormarn (Kreis),142,1,2020-04-03 19:00:17.377120
+379,Thüringen,Altenburger Land (Landkreis),30,,2020-04-03 19:00:17.377120
+380,Thüringen,Eichsfeld (Landkreis),61,1,2020-04-03 19:00:17.377120
+381,Thüringen,Eisenach (Kreisfreie Stadt),6,,2020-04-03 19:00:17.377120
+382,Thüringen,Erfurt (Kreisfreie Stadt),89,,2020-04-03 19:00:17.377120
+383,Thüringen,Gera (Kreisfreie Stadt),34,,2020-04-03 19:00:17.377120
+384,Thüringen,Gotha (Landkreis),34,0,2020-04-03 19:00:17.377120
+385,Thüringen,Greiz (Landkreis),166,5,2020-04-03 19:00:17.377120
+386,Thüringen,Hildburghausen (Landkreis),7,1,2020-04-03 19:00:17.377120
+387,Thüringen,Ilm-Kreis (Landkreis),74,1,2020-04-03 19:00:17.377120
+388,Thüringen,Jena (Kreisfreie Stadt),117,1,2020-04-03 19:00:17.377120
+389,Thüringen,Kyffhäuserkreis (Landkreis),25,,2020-04-03 19:00:17.377120
+390,Thüringen,Nordhausen (Landkreis),20,,2020-04-03 19:00:17.377120
+391,Thüringen,Saale-Holzland-Kreis (Landkreis),35,,2020-04-03 19:00:17.377120
+392,Thüringen,Saale-Orla-Kreis (Landkreis),50,,2020-04-03 19:00:17.377120
+393,Thüringen,Saalfeld-Rudolstadt (Landkreis),47,,2020-04-03 19:00:17.377120
+394,Thüringen,Schmalkalden-Meiningen (Landkreis),35,,2020-04-03 19:00:17.377120
+395,Thüringen,Sömmerda (Landkreis),29,,2020-04-03 19:00:17.377120
+396,Thüringen,Sonneberg (Landkreis),33,1,2020-04-03 19:00:17.377120
+397,Thüringen,Suhl (Kreisfreie Stadt),7,,2020-04-03 19:00:17.377120
+398,Thüringen,Unstrut-Hainich-Kreis (Landkreis),25,,2020-04-03 19:00:17.377120
+399,Thüringen,Wartburgkreis (Landkreis),28,,2020-04-03 19:00:17.377120
+400,Thüringen,Weimar (Kreisfreie Stadt),39,,2020-04-03 19:00:17.377120
+401,Thüringen,Weimarer Land (Landkreis),30,,2020-04-03 19:00:17.377120
