@@ -196,7 +196,7 @@ if caseonx:
     dcx = pd.concat([dc[dc.columns[0]].rolling('3D').mean(),dc[dc.columns[0]].rolling('3D').mean().diff()],axis=1)
     dcx.columns = ['Cases (mean of 3 days)','change of cases']
     fig = go.Figure()
-    fig.add_trace(go.Scatter(x=dcx['Cases (mean of 3 days)'],y=dcx['change of cases'], mode='lines+markers', name=dc.columns[0]))
+    fig.add_trace(go.Scatter(x=dcx['Cases (mean of 3 days)'],y=dcx['change of cases'], mode='lines+markers', hovertext=dcx.index, name=dc.columns[0]))
     yaxtypex='log'
     yaxtypey='log'
     xatitle='no. of cases'
