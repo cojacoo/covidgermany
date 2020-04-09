@@ -1,0 +1,403 @@
+,Bundesland,Landkreis,Faelle,Kausali,Zeit
+0,Bundesland,NAME_DE,FÃ¤lle,Anzahl Tote,2020-04-09 04:10:30.775201
+1,Baden-Württemberg,Alb-Donau-Kreis (Landkreis),362,3,2020-04-09 04:10:30.775201
+2,Baden-Württemberg,Baden-Baden (Stadtkreis),122,6,2020-04-09 04:10:30.775201
+3,Baden-Württemberg,Biberach (Landkreis),351,3,2020-04-09 04:10:30.775201
+4,Baden-Württemberg,Böblingen (Landkreis),1003,18,2020-04-09 04:10:30.775201
+5,Baden-Württemberg,Bodenseekreis (Landkreis),241,6,2020-04-09 04:10:30.775201
+6,Baden-Württemberg,Breisgau-Hochschwarzwald (Landkreis),779,16,2020-04-09 04:10:30.775201
+7,Baden-Württemberg,Calw (Landkreis),439,7,2020-04-09 04:10:30.775201
+8,Baden-Württemberg,Emmendingen (Landkreis),434,23,2020-04-09 04:10:30.775201
+9,Baden-Württemberg,Enzkreis (Landkreis),242,5,2020-04-09 04:10:30.775201
+10,Baden-Württemberg,Esslingen (Landkreis),1203,39,2020-04-09 04:10:30.775201
+11,Baden-Württemberg,Freiburg im Breisgau (Stadtkreis),757,24,2020-04-09 04:10:30.775201
+12,Baden-Württemberg,Freudenstadt (Landkreis),323,5,2020-04-09 04:10:30.775201
+13,Baden-Württemberg,Göppingen (Landkreis),556,18,2020-04-09 04:10:30.775201
+14,Baden-Württemberg,Heidelberg (Stadtkreis),273,7,2020-04-09 04:10:30.775201
+15,Baden-Württemberg,Heidenheim (Landkreis),280,14,2020-04-09 04:10:30.775201
+16,Baden-Württemberg,Heilbronn (Landkreis),579,11,2020-04-09 04:10:30.775201
+17,Baden-Württemberg,Heilbronn (Stadtkreis),285,2,2020-04-09 04:10:30.775201
+18,Baden-Württemberg,Hohenlohekreis (Landkreis),600,23,2020-04-09 04:10:30.775201
+19,Baden-Württemberg,Karlsruhe (Landkreis),603,16,2020-04-09 04:10:30.775201
+20,Baden-Württemberg,Karlsruhe (Stadtkreis),241,3,2020-04-09 04:10:30.775201
+21,Baden-Württemberg,Konstanz (Landkreis),294,5,2020-04-09 04:10:30.775201
+22,Baden-Württemberg,Lörrach (Landkreis),400,15,2020-04-09 04:10:30.775201
+23,Baden-Württemberg,Ludwigsburg (Landkreis),1094,19,2020-04-09 04:10:30.775201
+24,Baden-Württemberg,Main-Tauber-Kreis (Landkreis),248,1,2020-04-09 04:10:30.775201
+25,Baden-Württemberg,Mannheim (Stadtkreis),338,4,2020-04-09 04:10:30.775201
+26,Baden-Württemberg,Neckar-Odenwald-Kreis (Landkreis),155,6,2020-04-09 04:10:30.775201
+27,Baden-Württemberg,Ortenaukreis (Landkreis),661,45,2020-04-09 04:10:30.775201
+28,Baden-Württemberg,Ostalbkreis (Landkreis),444,4,2020-04-09 04:10:30.775201
+29,Baden-Württemberg,Pforzheim (Stadtkreis),84,3,2020-04-09 04:10:30.775201
+30,Baden-Württemberg,Rastatt (Landkreis),388,4,2020-04-09 04:10:30.775201
+31,Baden-Württemberg,Ravensburg (Landkreis),436,4,2020-04-09 04:10:30.775201
+32,Baden-Württemberg,Rems-Murr-Kreis (Landkreis),801,11,2020-04-09 04:10:30.775201
+33,Baden-Württemberg,Reutlingen (Landkreis),742,12,2020-04-09 04:10:30.775201
+34,Baden-Württemberg,Rhein-Neckar-Kreis (Landkreis),729,15,2020-04-09 04:10:30.775201
+35,Baden-Württemberg,Rottweil (Landkreis),325,4,2020-04-09 04:10:30.775201
+36,Baden-Württemberg,Schwäbisch Hall (Landkreis),563,23,2020-04-09 04:10:30.775201
+37,Baden-Württemberg,Schwarzwald-Baar-Kreis (Landkreis),332,3,2020-04-09 04:10:30.775201
+38,Baden-Württemberg,Sigmaringen (Landkreis),547,19,2020-04-09 04:10:30.775201
+39,Baden-Württemberg,Stuttgart (Stadtkreis),1010,16,2020-04-09 04:10:30.775201
+40,Baden-Württemberg,Tübingen (Landkreis),984,16,2020-04-09 04:10:30.775201
+41,Baden-Württemberg,Tuttlingen (Landkreis),306,4,2020-04-09 04:10:30.775201
+42,Baden-Württemberg,Ulm (Stadtkreis),184,1,2020-04-09 04:10:30.775201
+43,Baden-Württemberg,Waldshut (Landkreis),185,10,2020-04-09 04:10:30.775201
+44,Baden-Württemberg,Zollernalbkreis (Landkreis),615,25,2020-04-09 04:10:30.775201
+45,Bayern,Aichach-Friedberg (Landkreis),197,7,2020-04-09 04:10:30.775201
+46,Bayern,Altötting (Landkreis),329,9,2020-04-09 04:10:30.775201
+47,Bayern,Amberg (Kreisfreie Stadt),41,2,2020-04-09 04:10:30.775201
+48,Bayern,Amberg-Sulzbach (Landkreis),205,3,2020-04-09 04:10:30.775201
+49,Bayern,Ansbach (Kreisfreie Stadt),64,1,2020-04-09 04:10:30.775201
+50,Bayern,Ansbach (Landkreis),285,4,2020-04-09 04:10:30.775201
+51,Bayern,Aschaffenburg (Kreisfreie Stadt),80,1,2020-04-09 04:10:30.775201
+52,Bayern,Aschaffenburg (Landkreis),274,13,2020-04-09 04:10:30.775201
+53,Bayern,Augsburg (Kreisfreie Stadt),251,4,2020-04-09 04:10:30.775201
+54,Bayern,Augsburg (Landkreis),278,1,2020-04-09 04:10:30.775201
+55,Bayern,Bad Kissingen (Landkreis),141,1,2020-04-09 04:10:30.775201
+56,Bayern,Bad Tölz-Wolfratshausen (Landkreis),305,4,2020-04-09 04:10:30.775201
+57,Bayern,Bamberg (Kreisfreie Stadt),116,1,2020-04-09 04:10:30.775201
+58,Bayern,Bamberg (Landkreis),310,13,2020-04-09 04:10:30.775201
+59,Bayern,Bayreuth (Kreisfreie Stadt),104,3,2020-04-09 04:10:30.775201
+60,Bayern,Bayreuth (Landkreis),204,4,2020-04-09 04:10:30.775201
+61,Bayern,Berchtesgadener Land (Landkreis),166,3,2020-04-09 04:10:30.775201
+62,Bayern,Cham (Landkreis),288,5,2020-04-09 04:10:30.775201
+63,Bayern,Coburg (Kreisfreie Stadt),30,,2020-04-09 04:10:30.775201
+64,Bayern,Coburg (Landkreis),82,1,2020-04-09 04:10:30.775201
+65,Bayern,Dachau (Landkreis),504,5,2020-04-09 04:10:30.775201
+66,Bayern,Deggendorf (Landkreis),166,4,2020-04-09 04:10:30.775201
+67,Bayern,Dillingen a.d. Donau (Landkreis),96,1,2020-04-09 04:10:30.775201
+68,Bayern,Dingolfing-Landau (Landkreis),143,2,2020-04-09 04:10:30.775201
+69,Bayern,Donau-Ries (Landkreis),236,9,2020-04-09 04:10:30.775201
+70,Bayern,Ebersberg (Landkreis),297,1,2020-04-09 04:10:30.775201
+71,Bayern,Eichstätt (Landkreis),152,2,2020-04-09 04:10:30.775201
+72,Bayern,Erding (Landkreis),425,5,2020-04-09 04:10:30.775201
+73,Bayern,Erlangen (Kreisfreie Stadt),117,1,2020-04-09 04:10:30.775201
+74,Bayern,Erlangen-Höchstadt (Landkreis),143,2,2020-04-09 04:10:30.775201
+75,Bayern,Forchheim (Landkreis),152,2,2020-04-09 04:10:30.775201
+76,Bayern,Freising (Landkreis),739,20,2020-04-09 04:10:30.775201
+77,Bayern,Freyung-Grafenau (Landkreis),120,5,2020-04-09 04:10:30.775201
+78,Bayern,Fürstenfeldbruck (Landkreis),570,15,2020-04-09 04:10:30.775201
+79,Bayern,Fürth (Kreisfreie Stadt),197,8,2020-04-09 04:10:30.775201
+80,Bayern,Fürth (Landkreis),307,14,2020-04-09 04:10:30.775201
+81,Bayern,Garmisch-Partenkirchen (Landkreis),184,1,2020-04-09 04:10:30.775201
+82,Bayern,Günzburg (Landkreis),152,1,2020-04-09 04:10:30.775201
+83,Bayern,Haßberge (Landkreis),91,,2020-04-09 04:10:30.775201
+84,Bayern,Hof (Kreisfreie Stadt),64,1,2020-04-09 04:10:30.775201
+85,Bayern,Hof (Landkreis),220,4,2020-04-09 04:10:30.775201
+86,Bayern,Ingolstadt (Kreisfreie Stadt),246,8,2020-04-09 04:10:30.775201
+87,Bayern,Kaufbeuren (Kreisfreie Stadt),61,2,2020-04-09 04:10:30.775201
+88,Bayern,Kelheim (Landkreis),283,14,2020-04-09 04:10:30.775201
+89,Bayern,Kempten (Allgäu) (Kreisfreie Stadt),59,4,2020-04-09 04:10:30.775201
+90,Bayern,Kitzingen (Landkreis),70,,2020-04-09 04:10:30.775201
+91,Bayern,Kronach (Landkreis),64,,2020-04-09 04:10:30.775201
+92,Bayern,Kulmbach (Landkreis),119,4,2020-04-09 04:10:30.775201
+93,Bayern,Landsberg am Lech (Landkreis),253,4,2020-04-09 04:10:30.775201
+94,Bayern,Landshut (Kreisfreie Stadt),186,4,2020-04-09 04:10:30.775201
+95,Bayern,Landshut (Landkreis),459,18,2020-04-09 04:10:30.775201
+96,Bayern,Lichtenfels (Landkreis),136,1,2020-04-09 04:10:30.775201
+97,Bayern,Lindau (Bodensee) (Landkreis),201,4,2020-04-09 04:10:30.775201
+98,Bayern,Main-Spessart (Landkreis),112,2,2020-04-09 04:10:30.775201
+99,Bayern,Memmingen (Kreisfreie Stadt),40,,2020-04-09 04:10:30.775201
+100,Bayern,Miesbach (Landkreis),427,3,2020-04-09 04:10:30.775201
+101,Bayern,Miltenberg (Landkreis),182,,2020-04-09 04:10:30.775201
+102,Bayern,Mühldorf a. Inn (Landkreis),309,8,2020-04-09 04:10:30.775201
+103,Bayern,München (Kreisfreie Stadt),3676,9,2020-04-09 04:10:30.775201
+104,Bayern,München (Landkreis),901,8,2020-04-09 04:10:30.775201
+105,Bayern,Neu-Ulm (Landkreis),283,3,2020-04-09 04:10:30.775201
+106,Bayern,Neuburg-Schrobenhausen (Landkreis),141,3,2020-04-09 04:10:30.775201
+107,Bayern,Neumarkt i.d. OPf. (Landkreis),146,2,2020-04-09 04:10:30.775201
+108,Bayern,Neustadt a.d. Aisch-Bad Windsheim (Landkreis),107,2,2020-04-09 04:10:30.775201
+109,Bayern,Neustadt a.d. Waldnaab (Landkreis),468,16,2020-04-09 04:10:30.775201
+110,Bayern,Nürnberg (Kreisfreie Stadt),539,5,2020-04-09 04:10:30.775201
+111,Bayern,Nürnberger Land (Landkreis),353,12,2020-04-09 04:10:30.775201
+112,Bayern,Oberallgäu (Landkreis),143,3,2020-04-09 04:10:30.775201
+113,Bayern,Ostallgäu (Landkreis),307,9,2020-04-09 04:10:30.775201
+114,Bayern,Passau (Kreisfreie Stadt),87,5,2020-04-09 04:10:30.775201
+115,Bayern,Passau (Landkreis),277,8,2020-04-09 04:10:30.775201
+116,Bayern,Pfaffenhofen a.d. Ilm (Landkreis),227,4,2020-04-09 04:10:30.775201
+117,Bayern,Regen (Landkreis),104,,2020-04-09 04:10:30.775201
+118,Bayern,Regensburg (Kreisfreie Stadt),297,3,2020-04-09 04:10:30.775201
+119,Bayern,Regensburg (Landkreis),299,2,2020-04-09 04:10:30.775201
+120,Bayern,Rhön-Grabfeld (Landkreis),82,,2020-04-09 04:10:30.775201
+121,Bayern,Rosenheim (Kreisfreie Stadt),218,5,2020-04-09 04:10:30.775201
+122,Bayern,Rosenheim (Landkreis),1309,29,2020-04-09 04:10:30.775201
+123,Bayern,Roth (Landkreis),217,3,2020-04-09 04:10:30.775201
+124,Bayern,Rottal-Inn (Landkreis),538,20,2020-04-09 04:10:30.775201
+125,Bayern,Schwabach (Kreisfreie Stadt),57,,2020-04-09 04:10:30.775201
+126,Bayern,Schwandorf (Landkreis),281,7,2020-04-09 04:10:30.775201
+127,Bayern,Schweinfurt (Kreisfreie Stadt),90,8,2020-04-09 04:10:30.775201
+128,Bayern,Schweinfurt (Landkreis),248,4,2020-04-09 04:10:30.775201
+129,Bayern,Starnberg (Landkreis),405,3,2020-04-09 04:10:30.775201
+130,Bayern,Straubing (Kreisfreie Stadt),190,5,2020-04-09 04:10:30.775201
+131,Bayern,Straubing-Bogen (Landkreis),258,7,2020-04-09 04:10:30.775201
+132,Bayern,Tirschenreuth (Landkreis),823,49,2020-04-09 04:10:30.775201
+133,Bayern,Traunstein (Landkreis),540,15,2020-04-09 04:10:30.775201
+134,Bayern,Unterallgäu (Landkreis),181,1,2020-04-09 04:10:30.775201
+135,Bayern,Weiden i.d. OPf. (Kreisfreie Stadt),154,4,2020-04-09 04:10:30.775201
+136,Bayern,Weilheim-Schongau (Landkreis),296,1,2020-04-09 04:10:30.775201
+137,Bayern,Weißenburg-Gunzenhausen (Landkreis),180,3,2020-04-09 04:10:30.775201
+138,Bayern,Wunsiedel i. Fichtelgebirge (Landkreis),435,13,2020-04-09 04:10:30.775201
+139,Bayern,Würzburg (Kreisfreie Stadt),373,33,2020-04-09 04:10:30.775201
+140,Bayern,Würzburg (Landkreis),302,1,2020-04-09 04:10:30.775201
+141,Berlin,Berlin (Kreisfreie Stadt),4212,37,2020-04-09 04:10:30.775201
+142,Brandenburg,Barnim (Landkreis),126,2,2020-04-09 04:10:30.775201
+143,Brandenburg,Brandenburg an der Havel (Kreisfreie Stadt),39,1,2020-04-09 04:10:30.775201
+144,Brandenburg,Cottbus (Kreisfreie Stadt),34,,2020-04-09 04:10:30.775201
+145,Brandenburg,Dahme-Spreewald (Landkreis),128,3,2020-04-09 04:10:30.775201
+146,Brandenburg,Elbe-Elster (Landkreis),66,2,2020-04-09 04:10:30.775201
+147,Brandenburg,Frankfurt (Oder) (Kreisfreie Stadt),22,,2020-04-09 04:10:30.775201
+148,Brandenburg,Havelland (Landkreis),112,3,2020-04-09 04:10:30.775201
+149,Brandenburg,Märkisch-Oderland (Landkreis),120,1,2020-04-09 04:10:30.775201
+150,Brandenburg,Oberhavel (Landkreis),149,2,2020-04-09 04:10:30.775201
+151,Brandenburg,Oberspreewald-Lausitz (Landkreis),33,,2020-04-09 04:10:30.775201
+152,Brandenburg,Oder-Spree (Landkreis),90,,2020-04-09 04:10:30.775201
+153,Brandenburg,Ostprignitz-Ruppin (Landkreis),31,,2020-04-09 04:10:30.775201
+154,Brandenburg,Potsdam (Kreisfreie Stadt),275,14,2020-04-09 04:10:30.775201
+155,Brandenburg,Potsdam-Mittelmark (Landkreis),213,6,2020-04-09 04:10:30.775201
+156,Brandenburg,Prignitz (Landkreis),17,,2020-04-09 04:10:30.775201
+157,Brandenburg,Spree-Neiße (Landkreis),51,,2020-04-09 04:10:30.775201
+158,Brandenburg,Teltow-Fläming (Landkreis),83,,2020-04-09 04:10:30.775201
+159,Brandenburg,Uckermark (Landkreis),24,1,2020-04-09 04:10:30.775201
+160,Bremen,Bremen (Kreisfreie Stadt),416,11,2020-04-09 04:10:30.775201
+161,Bremen,Bremerhaven (Kreisfreie Stadt),26,,2020-04-09 04:10:30.775201
+162,Hamburg,Hamburg (Kreisfreie Stadt),3370,29,2020-04-09 04:10:30.775201
+163,Hessen,Bergstraße (Landkreis),240,1,2020-04-09 04:10:30.775201
+164,Hessen,Darmstadt (Kreisfreie Stadt),99,,2020-04-09 04:10:30.775201
+165,Hessen,Darmstadt-Dieburg (Landkreis),251,3,2020-04-09 04:10:30.775201
+166,Hessen,Frankfurt am Main (Kreisfreie Stadt),660,10,2020-04-09 04:10:30.775201
+167,Hessen,Fulda (Landkreis),240,3,2020-04-09 04:10:30.775201
+168,Hessen,Gießen (Landkreis),176,,2020-04-09 04:10:30.775201
+169,Hessen,Groß-Gerau (Landkreis),259,2,2020-04-09 04:10:30.775201
+170,Hessen,Hersfeld-Rotenburg (Landkreis),137,4,2020-04-09 04:10:30.775201
+171,Hessen,Hochtaunuskreis (Landkreis),200,,2020-04-09 04:10:30.775201
+172,Hessen,Kassel (Kreisfreie Stadt),117,2,2020-04-09 04:10:30.775201
+173,Hessen,Kassel (Landkreis),142,4,2020-04-09 04:10:30.775201
+174,Hessen,Lahn-Dill-Kreis (Landkreis),261,6,2020-04-09 04:10:30.775201
+175,Hessen,Limburg-Weilburg (Landkreis),201,,2020-04-09 04:10:30.775201
+176,Hessen,Main-Kinzig-Kreis (Landkreis),277,4,2020-04-09 04:10:30.775201
+177,Hessen,Main-Taunus-Kreis (Landkreis),171,3,2020-04-09 04:10:30.775201
+178,Hessen,Marburg-Biedenkopf (Landkreis),142,1,2020-04-09 04:10:30.775201
+179,Hessen,Odenwaldkreis (Landkreis),157,15,2020-04-09 04:10:30.775201
+180,Hessen,Offenbach (Landkreis),273,9,2020-04-09 04:10:30.775201
+181,Hessen,Offenbach am Main (Kreisfreie Stadt),47,1,2020-04-09 04:10:30.775201
+182,Hessen,Rheingau-Taunus-Kreis (Landkreis),166,1,2020-04-09 04:10:30.775201
+183,Hessen,Schwalm-Eder-Kreis (Landkreis),289,13,2020-04-09 04:10:30.775201
+184,Hessen,Vogelsbergkreis (Landkreis),87,2,2020-04-09 04:10:30.775201
+185,Hessen,Waldeck-Frankenberg (Landkreis),102,1,2020-04-09 04:10:30.775201
+186,Hessen,Werra-Meißner-Kreis (Landkreis),33,,2020-04-09 04:10:30.775201
+187,Hessen,Wetteraukreis (Landkreis),167,1,2020-04-09 04:10:30.775201
+188,Hessen,Wiesbaden (Kreisfreie Stadt),220,6,2020-04-09 04:10:30.775201
+189,Mecklenburg-Vorpommern,Ludwigslust-Parchim (Landkreis),57,1,2020-04-09 04:10:30.775201
+190,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte (Landkreis),99,3,2020-04-09 04:10:30.775201
+191,Mecklenburg-Vorpommern,Nordwestmecklenburg (Landkreis),55,1,2020-04-09 04:10:30.775201
+192,Mecklenburg-Vorpommern,Rostock (Kreisfreie Stadt),71,1,2020-04-09 04:10:30.775201
+193,Mecklenburg-Vorpommern,Rostock (Landkreis),47,2,2020-04-09 04:10:30.775201
+194,Mecklenburg-Vorpommern,Schwerin (Kreisfreie Stadt),84,,2020-04-09 04:10:30.775201
+195,Mecklenburg-Vorpommern,Vorpommern-Greifswald (Landkreis),94,1,2020-04-09 04:10:30.775201
+196,Mecklenburg-Vorpommern,Vorpommern-Rügen (Landkreis),64,2,2020-04-09 04:10:30.775201
+197,Niedersachsen,Ammerland (Landkreis),120,2,2020-04-09 04:10:30.775201
+198,Niedersachsen,Aurich (Landkreis),67,3,2020-04-09 04:10:30.775201
+199,Niedersachsen,Braunschweig (Kreisfreie Stadt),240,6,2020-04-09 04:10:30.775201
+200,Niedersachsen,Celle (Landkreis),113,7,2020-04-09 04:10:30.775201
+201,Niedersachsen,Cloppenburg (Landkreis),51,,2020-04-09 04:10:30.775201
+202,Niedersachsen,Cuxhaven (Landkreis),70,2,2020-04-09 04:10:30.775201
+203,Niedersachsen,Delmenhorst (Kreisfreie Stadt),26,1,2020-04-09 04:10:30.775201
+204,Niedersachsen,Diepholz (Landkreis),216,5,2020-04-09 04:10:30.775201
+205,Niedersachsen,Emden (Kreisfreie Stadt),14,,2020-04-09 04:10:30.775201
+206,Niedersachsen,Emsland (Landkreis),233,4,2020-04-09 04:10:30.775201
+207,Niedersachsen,Friesland (Landkreis),23,,2020-04-09 04:10:30.775201
+208,Niedersachsen,Gifhorn (Landkreis),101,,2020-04-09 04:10:30.775201
+209,Niedersachsen,Goslar (Landkreis),90,3,2020-04-09 04:10:30.775201
+210,Niedersachsen,Göttingen (Landkreis),311,9,2020-04-09 04:10:30.775201
+211,Niedersachsen,Grafschaft Bentheim (Landkreis),151,4,2020-04-09 04:10:30.775201
+212,Niedersachsen,Hameln-Pyrmont (Landkreis),90,2,2020-04-09 04:10:30.775201
+213,Niedersachsen,Harburg (Landkreis),307,2,2020-04-09 04:10:30.775201
+214,Niedersachsen,Heidekreis (Landkreis),48,1,2020-04-09 04:10:30.775201
+215,Niedersachsen,Helmstedt (Landkreis),82,,2020-04-09 04:10:30.775201
+216,Niedersachsen,Hildesheim (Landkreis),210,1,2020-04-09 04:10:30.775201
+217,Niedersachsen,Holzminden (Landkreis),85,2,2020-04-09 04:10:30.775201
+218,Niedersachsen,Leer (Landkreis),62,1,2020-04-09 04:10:30.775201
+219,Niedersachsen,Lüchow-Dannenberg (Landkreis),14,2,2020-04-09 04:10:30.775201
+220,Niedersachsen,Lüneburg (Landkreis),128,,2020-04-09 04:10:30.775201
+221,Niedersachsen,Nienburg (Weser) (Landkreis),54,,2020-04-09 04:10:30.775201
+222,Niedersachsen,Northeim (Landkreis),58,,2020-04-09 04:10:30.775201
+223,Niedersachsen,Oldenburg (Landkreis),166,4,2020-04-09 04:10:30.775201
+224,Niedersachsen,Oldenburg (Oldb) (Kreisfreie Stadt),133,,2020-04-09 04:10:30.775201
+225,Niedersachsen,Osnabrück (Kreisfreie Stadt),345,3,2020-04-09 04:10:30.775201
+226,Niedersachsen,Osnabrück (Landkreis),620,12,2020-04-09 04:10:30.775201
+227,Niedersachsen,Osterholz (Landkreis),63,,2020-04-09 04:10:30.775201
+228,Niedersachsen,Peine (Landkreis),117,4,2020-04-09 04:10:30.775201
+229,Niedersachsen,Region Hannover (Landkreis),1256,17,2020-04-09 04:10:30.775201
+230,Niedersachsen,Rotenburg (Wümme) (Landkreis),69,1,2020-04-09 04:10:30.775201
+231,Niedersachsen,Salzgitter (Kreisfreie Stadt),84,1,2020-04-09 04:10:30.775201
+232,Niedersachsen,Schaumburg (Landkreis),91,,2020-04-09 04:10:30.775201
+233,Niedersachsen,Stade (Landkreis),161,2,2020-04-09 04:10:30.775201
+234,Niedersachsen,Uelzen (Landkreis),29,,2020-04-09 04:10:30.775201
+235,Niedersachsen,Vechta (Landkreis),252,6,2020-04-09 04:10:30.775201
+236,Niedersachsen,Verden (Landkreis),107,1,2020-04-09 04:10:30.775201
+237,Niedersachsen,Wesermarsch (Landkreis),47,,2020-04-09 04:10:30.775201
+238,Niedersachsen,Wilhelmshaven (Kreisfreie Stadt),11,,2020-04-09 04:10:30.775201
+239,Niedersachsen,Wittmund (Landkreis),20,,2020-04-09 04:10:30.775201
+240,Niedersachsen,Wolfenbüttel (Landkreis),85,,2020-04-09 04:10:30.775201
+241,Niedersachsen,Wolfsburg (Kreisfreie Stadt),225,32,2020-04-09 04:10:30.775201
+242,Nordrhein-Westfalen,Bielefeld (Kreisfreie Stadt),233,1,2020-04-09 04:10:30.775201
+243,Nordrhein-Westfalen,Bochum (Kreisfreie Stadt),342,12,2020-04-09 04:10:30.775201
+244,Nordrhein-Westfalen,Bonn (Kreisfreie Stadt),517,2,2020-04-09 04:10:30.775201
+245,Nordrhein-Westfalen,Borken (Kreis),699,16,2020-04-09 04:10:30.775201
+246,Nordrhein-Westfalen,Bottrop (Kreisfreie Stadt),71,3,2020-04-09 04:10:30.775201
+247,Nordrhein-Westfalen,Coesfeld (Kreis),417,9,2020-04-09 04:10:30.775201
+248,Nordrhein-Westfalen,Dortmund (Kreisfreie Stadt),483,3,2020-04-09 04:10:30.775201
+249,Nordrhein-Westfalen,Duisburg (Kreisfreie Stadt),469,5,2020-04-09 04:10:30.775201
+250,Nordrhein-Westfalen,Düren (Kreis),374,12,2020-04-09 04:10:30.775201
+251,Nordrhein-Westfalen,Düsseldorf (Kreisfreie Stadt),649,7,2020-04-09 04:10:30.775201
+252,Nordrhein-Westfalen,Ennepe-Ruhr-Kreis (Kreis),289,3,2020-04-09 04:10:30.775201
+253,Nordrhein-Westfalen,Essen (Kreisfreie Stadt),555,20,2020-04-09 04:10:30.775201
+254,Nordrhein-Westfalen,Euskirchen (Kreis),219,2,2020-04-09 04:10:30.775201
+255,Nordrhein-Westfalen,Gelsenkirchen (Kreisfreie Stadt),210,4,2020-04-09 04:10:30.775201
+256,Nordrhein-Westfalen,Gütersloh (Kreis),504,9,2020-04-09 04:10:30.775201
+257,Nordrhein-Westfalen,Hagen (Kreisfreie Stadt),125,2,2020-04-09 04:10:30.775201
+258,Nordrhein-Westfalen,Hamm (Kreisfreie Stadt),274,5,2020-04-09 04:10:30.775201
+259,Nordrhein-Westfalen,Heinsberg (Kreis),1513,48,2020-04-09 04:10:30.775201
+260,Nordrhein-Westfalen,Herford (Kreis),251,1,2020-04-09 04:10:30.775201
+261,Nordrhein-Westfalen,Herne (Kreisfreie Stadt),78,,2020-04-09 04:10:30.775201
+262,Nordrhein-Westfalen,Hochsauerlandkreis (Kreis),414,3,2020-04-09 04:10:30.775201
+263,Nordrhein-Westfalen,Höxter (Kreis),154,1,2020-04-09 04:10:30.775201
+264,Nordrhein-Westfalen,Kleve (Kreis),312,5,2020-04-09 04:10:30.775201
+265,Nordrhein-Westfalen,Köln (Kreisfreie Stadt),1815,34,2020-04-09 04:10:30.775201
+266,Nordrhein-Westfalen,Krefeld (Kreisfreie Stadt),292,2,2020-04-09 04:10:30.775201
+267,Nordrhein-Westfalen,Leverkusen (Kreisfreie Stadt),158,2,2020-04-09 04:10:30.775201
+268,Nordrhein-Westfalen,Lippe (Kreis),509,7,2020-04-09 04:10:30.775201
+269,Nordrhein-Westfalen,Märkischer Kreis (Kreis),241,4,2020-04-09 04:10:30.775201
+270,Nordrhein-Westfalen,Mettmann (Kreis),615,14,2020-04-09 04:10:30.775201
+271,Nordrhein-Westfalen,Minden-Lübbecke (Kreis),430,3,2020-04-09 04:10:30.775201
+272,Nordrhein-Westfalen,Mönchengladbach (Kreisfreie Stadt),304,10,2020-04-09 04:10:30.775201
+273,Nordrhein-Westfalen,Mülheim an der Ruhr (Kreisfreie Stadt),108,3,2020-04-09 04:10:30.775201
+274,Nordrhein-Westfalen,Münster (Kreisfreie Stadt),595,4,2020-04-09 04:10:30.775201
+275,Nordrhein-Westfalen,Oberbergischer Kreis (Kreis),327,6,2020-04-09 04:10:30.775201
+276,Nordrhein-Westfalen,Oberhausen (Kreisfreie Stadt),117,,2020-04-09 04:10:30.775201
+277,Nordrhein-Westfalen,Olpe (Kreis),283,8,2020-04-09 04:10:30.775201
+278,Nordrhein-Westfalen,Paderborn (Kreis),411,8,2020-04-09 04:10:30.775201
+279,Nordrhein-Westfalen,Recklinghausen (Kreis),581,5,2020-04-09 04:10:30.775201
+280,Nordrhein-Westfalen,Remscheid (Kreisfreie Stadt),108,2,2020-04-09 04:10:30.775201
+281,Nordrhein-Westfalen,Rhein-Erft-Kreis (Kreis),634,15,2020-04-09 04:10:30.775201
+282,Nordrhein-Westfalen,Rhein-Kreis Neuss (Kreis),491,6,2020-04-09 04:10:30.775201
+283,Nordrhein-Westfalen,Rhein-Sieg-Kreis (Kreis),799,10,2020-04-09 04:10:30.775201
+284,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis (Kreis),294,3,2020-04-09 04:10:30.775201
+285,Nordrhein-Westfalen,Siegen-Wittgenstein (Kreis),194,4,2020-04-09 04:10:30.775201
+286,Nordrhein-Westfalen,Soest (Kreis),265,2,2020-04-09 04:10:30.775201
+287,Nordrhein-Westfalen,Solingen (Kreisfreie Stadt),151,1,2020-04-09 04:10:30.775201
+288,Nordrhein-Westfalen,Städteregion Aachen (Kreis),1367,36,2020-04-09 04:10:30.775201
+289,Nordrhein-Westfalen,Steinfurt (Kreis),757,15,2020-04-09 04:10:30.775201
+290,Nordrhein-Westfalen,Unna (Kreis),403,9,2020-04-09 04:10:30.775201
+291,Nordrhein-Westfalen,Viersen (Kreis),411,11,2020-04-09 04:10:30.775201
+292,Nordrhein-Westfalen,Warendorf (Kreis),351,3,2020-04-09 04:10:30.775201
+293,Nordrhein-Westfalen,Wesel (Kreis),303,3,2020-04-09 04:10:30.775201
+294,Nordrhein-Westfalen,Wuppertal (Kreisfreie Stadt),383,10,2020-04-09 04:10:30.775201
+295,Rheinland-Pfalz,Ahrweiler (Landkreis),102,1,2020-04-09 04:10:30.775201
+296,Rheinland-Pfalz,Altenkirchen (Westerwald) (Landkreis),74,,2020-04-09 04:10:30.775201
+297,Rheinland-Pfalz,Alzey-Worms (Landkreis),107,1,2020-04-09 04:10:30.775201
+298,Rheinland-Pfalz,Bad Dürkheim (Landkreis),234,4,2020-04-09 04:10:30.775201
+299,Rheinland-Pfalz,Bad Kreuznach (Landkreis),141,1,2020-04-09 04:10:30.775201
+300,Rheinland-Pfalz,Bernkastel-Wittlich (Landkreis),95,,2020-04-09 04:10:30.775201
+301,Rheinland-Pfalz,Birkenfeld (Landkreis),51,,2020-04-09 04:10:30.775201
+302,Rheinland-Pfalz,Cochem-Zell (Landkreis),121,,2020-04-09 04:10:30.775201
+303,Rheinland-Pfalz,Donnersbergkreis (Landkreis),75,1,2020-04-09 04:10:30.775201
+304,Rheinland-Pfalz,Eifelkreis Bitburg-Prüm (Landkreis),126,2,2020-04-09 04:10:30.775201
+305,Rheinland-Pfalz,Frankenthal (Pfalz) (Kreisfreie Stadt),27,,2020-04-09 04:10:30.775201
+306,Rheinland-Pfalz,Germersheim (Landkreis),96,1,2020-04-09 04:10:30.775201
+307,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),81,1,2020-04-09 04:10:30.775201
+308,Rheinland-Pfalz,Kaiserslautern (Landkreis),77,,2020-04-09 04:10:30.775201
+309,Rheinland-Pfalz,Koblenz (Kreisfreie Stadt),197,8,2020-04-09 04:10:30.775201
+310,Rheinland-Pfalz,Kusel (Landkreis),64,,2020-04-09 04:10:30.775201
+311,Rheinland-Pfalz,Landau in der Pfalz (Kreisfreie Stadt),45,,2020-04-09 04:10:30.775201
+312,Rheinland-Pfalz,Ludwigshafen am Rhein (Kreisfreie Stadt),155,,2020-04-09 04:10:30.775201
+313,Rheinland-Pfalz,Mainz (Kreisfreie Stadt),299,1,2020-04-09 04:10:30.775201
+314,Rheinland-Pfalz,Mainz-Bingen (Landkreis),227,2,2020-04-09 04:10:30.775201
+315,Rheinland-Pfalz,Mayen-Koblenz (Landkreis),285,3,2020-04-09 04:10:30.775201
+316,Rheinland-Pfalz,Neustadt an der Weinstraße (Kreisfreie Stadt),77,1,2020-04-09 04:10:30.775201
+317,Rheinland-Pfalz,Neuwied (Landkreis),184,2,2020-04-09 04:10:30.775201
+318,Rheinland-Pfalz,Pirmasens (Kreisfreie Stadt),24,,2020-04-09 04:10:30.775201
+319,Rheinland-Pfalz,Rhein-Hunsrück-Kreis (Landkreis),129,,2020-04-09 04:10:30.775201
+320,Rheinland-Pfalz,Rhein-Lahn-Kreis (Landkreis),118,2,2020-04-09 04:10:30.775201
+321,Rheinland-Pfalz,Rhein-Pfalz-Kreis (Landkreis),142,2,2020-04-09 04:10:30.775201
+322,Rheinland-Pfalz,Speyer (Kreisfreie Stadt),38,,2020-04-09 04:10:30.775201
+323,Rheinland-Pfalz,Südliche Weinstraße (Landkreis),124,,2020-04-09 04:10:30.775201
+324,Rheinland-Pfalz,Südwestpfalz (Landkreis),79,2,2020-04-09 04:10:30.775201
+325,Rheinland-Pfalz,Trier (Kreisfreie Stadt),81,,2020-04-09 04:10:30.775201
+326,Rheinland-Pfalz,Trier-Saarburg (Landkreis),122,3,2020-04-09 04:10:30.775201
+327,Rheinland-Pfalz,Vulkaneifel (Landkreis),86,1,2020-04-09 04:10:30.775201
+328,Rheinland-Pfalz,Westerwaldkreis (Landkreis),238,8,2020-04-09 04:10:30.775201
+329,Rheinland-Pfalz,Worms (Kreisfreie Stadt),121,3,2020-04-09 04:10:30.775201
+330,Rheinland-Pfalz,Zweibrücken (Kreisfreie Stadt),26,,2020-04-09 04:10:30.775201
+331,Saarland,Merzig-Wadern (Landkreis),150,1,2020-04-09 04:10:30.775201
+332,Saarland,Neunkirchen (Landkreis),169,,2020-04-09 04:10:30.775201
+333,Saarland,Regionalverband Saarbrücken (Landkreis),770,13,2020-04-09 04:10:30.775201
+334,Saarland,Saarlouis (Landkreis),353,3,2020-04-09 04:10:30.775201
+335,Saarland,Saarpfalz-Kreis (Landkreis),262,2,2020-04-09 04:10:30.775201
+336,Saarland,St. Wendel (Landkreis),138,1,2020-04-09 04:10:30.775201
+337,Sachsen,Bautzen (Landkreis),174,3,2020-04-09 04:10:30.775201
+338,Sachsen,Chemnitz (Kreisfreie Stadt),149,3,2020-04-09 04:10:30.775201
+339,Sachsen,Dresden (Kreisfreie Stadt),410,4,2020-04-09 04:10:30.775201
+340,Sachsen,Erzgebirgskreis (Landkreis),323,13,2020-04-09 04:10:30.775201
+341,Sachsen,Görlitz (Landkreis),179,4,2020-04-09 04:10:30.775201
+342,Sachsen,Leipzig (Kreisfreie Stadt),436,1,2020-04-09 04:10:30.775201
+343,Sachsen,Leipzig (Landkreis),141,4,2020-04-09 04:10:30.775201
+344,Sachsen,Meißen (Landkreis),128,4,2020-04-09 04:10:30.775201
+345,Sachsen,Mittelsachsen (Landkreis),169,1,2020-04-09 04:10:30.775201
+346,Sachsen,Nordsachsen (Landkreis),86,,2020-04-09 04:10:30.775201
+347,Sachsen,Sächsische Schweiz-Osterzgebirge (Landkreis),271,,2020-04-09 04:10:30.775201
+348,Sachsen,Vogtlandkreis (Landkreis),167,1,2020-04-09 04:10:30.775201
+349,Sachsen,Zwickau (Landkreis),511,12,2020-04-09 04:10:30.775201
+350,Sachsen-Anhalt,Altmarkkreis Salzwedel (Landkreis),24,,2020-04-09 04:10:30.775201
+351,Sachsen-Anhalt,Anhalt-Bitterfeld (Landkreis),49,,2020-04-09 04:10:30.775201
+352,Sachsen-Anhalt,Börde (Landkreis),75,1,2020-04-09 04:10:30.775201
+353,Sachsen-Anhalt,Burgenlandkreis (Landkreis),47,,2020-04-09 04:10:30.775201
+354,Sachsen-Anhalt,Dessau-Roßlau (Kreisfreie Stadt),41,1,2020-04-09 04:10:30.775201
+355,Sachsen-Anhalt,Halle (Saale) (Kreisfreie Stadt),237,3,2020-04-09 04:10:30.775201
+356,Sachsen-Anhalt,Harz (Landkreis),114,1,2020-04-09 04:10:30.775201
+357,Sachsen-Anhalt,Jerichower Land (Landkreis),28,1,2020-04-09 04:10:30.775201
+358,Sachsen-Anhalt,Magdeburg (Kreisfreie Stadt),91,1,2020-04-09 04:10:30.775201
+359,Sachsen-Anhalt,Mansfeld-Südharz (Landkreis),30,1,2020-04-09 04:10:30.775201
+360,Sachsen-Anhalt,Saalekreis (Landkreis),91,2,2020-04-09 04:10:30.775201
+361,Sachsen-Anhalt,Salzlandkreis (Landkreis),59,,2020-04-09 04:10:30.775201
+362,Sachsen-Anhalt,Stendal (Landkreis),66,2,2020-04-09 04:10:30.775201
+363,Sachsen-Anhalt,Wittenberg (Landkreis),126,3,2020-04-09 04:10:30.775201
+364,Schleswig-Holstein,Dithmarschen (Kreis),42,1,2020-04-09 04:10:30.775201
+365,Schleswig-Holstein,Flensburg (Kreisfreie Stadt),30,1,2020-04-09 04:10:30.775201
+366,Schleswig-Holstein,Herzogtum Lauenburg (Kreis),172,5,2020-04-09 04:10:30.775201
+367,Schleswig-Holstein,Kiel (Kreisfreie Stadt),171,2,2020-04-09 04:10:30.775201
+368,Schleswig-Holstein,Lübeck (Kreisfreie Stadt),121,1,2020-04-09 04:10:30.775201
+369,Schleswig-Holstein,Neumünster (Kreisfreie Stadt),34,,2020-04-09 04:10:30.775201
+370,Schleswig-Holstein,Nordfriesland (Kreis),53,1,2020-04-09 04:10:30.775201
+371,Schleswig-Holstein,Ostholstein (Kreis),51,,2020-04-09 04:10:30.775201
+372,Schleswig-Holstein,Pinneberg (Kreis),370,4,2020-04-09 04:10:30.775201
+373,Schleswig-Holstein,Plön (Kreis),83,2,2020-04-09 04:10:30.775201
+374,Schleswig-Holstein,Rendsburg-Eckernförde (Kreis),177,7,2020-04-09 04:10:30.775201
+375,Schleswig-Holstein,Schleswig-Flensburg (Kreis),101,1,2020-04-09 04:10:30.775201
+376,Schleswig-Holstein,Segeberg (Kreis),165,1,2020-04-09 04:10:30.775201
+377,Schleswig-Holstein,Steinburg (Kreis),66,,2020-04-09 04:10:30.775201
+378,Schleswig-Holstein,Stormarn (Kreis),194,2,2020-04-09 04:10:30.775201
+379,Thüringen,Altenburger Land (Landkreis),32,,2020-04-09 04:10:30.775201
+380,Thüringen,Eichsfeld (Landkreis),72,1,2020-04-09 04:10:30.775201
+381,Thüringen,Eisenach (Kreisfreie Stadt),9,,2020-04-09 04:10:30.775201
+382,Thüringen,Erfurt (Kreisfreie Stadt),103,,2020-04-09 04:10:30.775201
+383,Thüringen,Gera (Kreisfreie Stadt),39,,2020-04-09 04:10:30.775201
+384,Thüringen,Gotha (Landkreis),46,1,2020-04-09 04:10:30.775201
+385,Thüringen,Greiz (Landkreis),214,11,2020-04-09 04:10:30.775201
+386,Thüringen,Hildburghausen (Landkreis),11,,2020-04-09 04:10:30.775201
+387,Thüringen,Ilm-Kreis (Landkreis),98,1,2020-04-09 04:10:30.775201
+388,Thüringen,Jena (Kreisfreie Stadt),141,1,2020-04-09 04:10:30.775201
+389,Thüringen,Kyffhäuserkreis (Landkreis),28,,2020-04-09 04:10:30.775201
+390,Thüringen,Nordhausen (Landkreis),26,,2020-04-09 04:10:30.775201
+391,Thüringen,Saale-Holzland-Kreis (Landkreis),47,,2020-04-09 04:10:30.775201
+392,Thüringen,Saale-Orla-Kreis (Landkreis),72,3,2020-04-09 04:10:30.775201
+393,Thüringen,Saalfeld-Rudolstadt (Landkreis),52,,2020-04-09 04:10:30.775201
+394,Thüringen,Schmalkalden-Meiningen (Landkreis),41,,2020-04-09 04:10:30.775201
+395,Thüringen,Sömmerda (Landkreis),31,,2020-04-09 04:10:30.775201
+396,Thüringen,Sonneberg (Landkreis),38,1,2020-04-09 04:10:30.775201
+397,Thüringen,Suhl (Kreisfreie Stadt),10,,2020-04-09 04:10:30.775201
+398,Thüringen,Unstrut-Hainich-Kreis (Landkreis),40,,2020-04-09 04:10:30.775201
+399,Thüringen,Wartburgkreis (Landkreis),30,,2020-04-09 04:10:30.775201
+400,Thüringen,Weimar (Kreisfreie Stadt),51,,2020-04-09 04:10:30.775201
+401,Thüringen,Weimarer Land (Landkreis),54,1,2020-04-09 04:10:30.775201
